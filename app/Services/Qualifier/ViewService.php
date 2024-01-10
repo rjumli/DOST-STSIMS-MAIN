@@ -2,7 +2,7 @@
 
 namespace App\Services\Qualifier;
 
-use App\Models\Endorsement;
+use App\Models\QualifierEndorsement;
 use App\Models\Qualifier;
 use App\Models\QualifierAddress;
 use App\Models\QualifierProfile;
@@ -29,6 +29,7 @@ class ViewService
             Qualifier::
             with('address.region','address.province','address.municipality','address.barangay')
             ->with('profile')
+            ->with('deferment','notavail')
             ->with('program:id,name','subprogram:id,name','type','status:id,name,type,color,others')
             ->whereHas('profile',function ($query) use ($keyword) {
                 $query->when($keyword, function ($query, $keyword) {

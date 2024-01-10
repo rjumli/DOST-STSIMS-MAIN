@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Endorsement extends Model
+class QualifierEndorsement extends Model
 {
     use HasFactory;
 
@@ -37,5 +37,4 @@ class Endorsement extends Model
     {
         return $this->belongsTo('App\Models\LocationRegion', 'endorsed_to', 'code');
     }
-
 }

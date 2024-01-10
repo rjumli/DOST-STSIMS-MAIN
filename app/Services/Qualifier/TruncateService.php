@@ -6,7 +6,9 @@ use DB;
 use App\Models\Qualifier;
 use App\Models\QualifierProfile;
 use App\Models\QualifierAddress;
-use App\Models\Endorsement;
+use App\Models\QualifierEndorsement;
+use App\Models\QualifierNotavail;
+use App\Models\QualifierDeferment;
 
 class TruncateService
 {
@@ -28,7 +30,9 @@ class TruncateService
         Qualifier::truncate();
         QualifierAddress::truncate();
         QualifierProfile::truncate();
-        Endorsement::truncate();
+        QualifierEndorsement::truncate();
+        QualifierNotavail::truncate();
+        QualifierDeferment::truncate();
         DB::statement('SET FOREIGN_KEY_CHECKS=1');
         
         return back()->with([

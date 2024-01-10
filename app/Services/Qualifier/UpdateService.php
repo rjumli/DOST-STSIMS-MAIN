@@ -4,11 +4,13 @@ namespace App\Services\Qualifier;
 
 use App\Models\Qualifier;
 use App\Models\QualifierAddress;
+use App\Models\QualifierNotavail;
+use App\Models\QualifierDeferment;
 use App\Models\Scholar;
 use App\Models\ScholarAddress;
 use App\Models\ScholarEducation;
 use App\Models\ScholarProfile;
-use App\Models\Endorsement;
+use App\Models\QualifierEndorsement;
 use App\Models\SchoolCampus;
 use Laravel\Sanctum\PersonalAccessToken;
 use App\Http\Resources\Qualifier\IndexResource;
@@ -148,7 +150,7 @@ class UpdateService
             'updated_at' => now()
         );
 
-        $data = Endorsement::create($postData);
+        $data = QualifierEndorsement::create($postData);
         if($data){
             $qualifier = Qualifier::where('id',$request->user['id'])->update(['is_endorsed' => 1]);
         }
@@ -168,11 +170,34 @@ class UpdateService
     }
 
     public function edit($request){
-        $data = Qualifier::where('id',$request->id)->update($request->except('id','editable','type'));
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
 
+        $data = Qualifier::where('id',$request->id)->update($request->except('id','reason','type'));
+        if($request->status_type == 16){
+            $postData = array(
+                'reason' => $request->reason,
+                'qualifier_id' => $request->id,
+                'user_id' => $token->tokenable->id,
+                'created_at' => now(),
+                'updated_at' => now()
+            );
+            QualifierNotavail::create($postData);
+        }
+        if($request->status_type == 15){
+            $postData = array(
+                'reason' => $request->reason,
+                'qualifier_id' => $request->id,
+                'user_id' => $token->tokenable->id,
+                'created_at' => now(),
+                'updated_at' => now()
+            );
+            QualifierDeferment::create($postData);
+        }
         $qualifier = Qualifier::
             with('address.region','address.province','address.municipality','address.barangay')
             ->with('profile','program','subprogram','status','type')
+            ->with('deferment','notavail')
             ->where('id',$data->id)
             ->first();
 

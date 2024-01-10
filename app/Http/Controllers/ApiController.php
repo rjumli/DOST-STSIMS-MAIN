@@ -144,6 +144,7 @@ class ApiController extends Controller
     }
 
     public function qualifiers(Request $request){
+        $info['year'] = Qualifier::max('qualified_year');
         $info = (!empty(json_decode($request->info))) ? json_decode($request->info) : NULL;
         $filter = (!empty(json_decode($request->subfilters))) ? json_decode($request->subfilters) : NULL;
         $keyword = $info->keyword;
@@ -216,7 +217,7 @@ class ApiController extends Controller
             'statistics' => $statistics,
             'ongoing' =>  Qualifier::whereHas('type',function ($query) {
                 $query->where('name','Enrolled');
-            })->count(),
+            })->where('qualified_year',$year)->count(),
         ];
         return $array;
     }

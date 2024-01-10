@@ -50,4 +50,14 @@ class Qualifier extends Model
         return $this->hasOne('App\Models\QualifierAddress', 'qualifier_id');
     } 
 
+    public function deferment()
+    {
+        return $this->hasOne('App\Models\QualifierDeferment', 'qualifier_id');
+    } 
+
+    public function notavail()
+    {
+        return $this->hasOne('App\Models\QualifierNotavail', 'qualifier_id');
+    } 
+
 }

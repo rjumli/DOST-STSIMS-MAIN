@@ -23,6 +23,8 @@ class IndexResource extends JsonResource
             'qualified_year' => $this->qualified_year,
             'profile' => new ProfileResource($this->profile), 
             'address' => new AddressResource($this->address),
+            'deferment' => $this->deferment,
+            'notavail' => $this->notavail,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
         ];

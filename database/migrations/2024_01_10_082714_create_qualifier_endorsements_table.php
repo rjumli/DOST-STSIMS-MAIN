@@ -8,12 +8,10 @@ return new class extends Migration
 {
     /**
      * Run the migrations.
-     *
-     * @return void
      */
-    public function up()
+    public function up(): void
     {
-        Schema::create('endorsements', function (Blueprint $table) {
+        Schema::create('qualifier_endorsements', function (Blueprint $table) {
             $table->engine = 'InnoDB';
             $table->increments('id');
             $table->boolean('is_approved')->default(0);
@@ -36,11 +34,9 @@ return new class extends Migration
 
     /**
      * Reverse the migrations.
-     *
-     * @return void
      */
-    public function down()
+    public function down(): void
     {
-        Schema::dropIfExists('endorsements');
+        Schema::dropIfExists('qualifier_endorsements');
     }
 };
