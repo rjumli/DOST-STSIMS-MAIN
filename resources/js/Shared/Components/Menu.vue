@@ -68,8 +68,8 @@
                                 </Link>
                             </li>
                             <li class="nav-item">
-                                <Link class="nav-link" :class="{'active': $page.component.startsWith('Modules/Scholars/Deferments') }" href="/scholars/deferments">
-                                    <span data-key="t-dashboards">Deferments</span>
+                                <Link class="nav-link" :class="{'active': $page.component.startsWith('Modules/Scholars/Endorsements') }" href="/scholars/endorsements">
+                                    <span data-key="t-dashboards">Endorsements</span>
                                 </Link>
                             </li>
                         </ul>

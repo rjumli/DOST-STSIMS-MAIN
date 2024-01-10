@@ -21,7 +21,7 @@ Route::middleware(['auth'])->group(function () {
     Route::prefix('scholars')->group(function(){
         Route::resource('/listing', App\Http\Controllers\Scholar\ListController::class);
         Route::resource('/qualifiers', App\Http\Controllers\Scholar\QualifierController::class);
-        Route::resource('/deferments', App\Http\Controllers\Scholar\DefermentController::class);
+        Route::resource('/endorsements', App\Http\Controllers\Scholar\EndorsementController::class);
     });
 
     Route::prefix('directory')->group(function(){

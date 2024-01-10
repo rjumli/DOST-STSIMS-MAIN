@@ -25,6 +25,7 @@ class IndexResource extends JsonResource
             'address' => new AddressResource($this->address),
             'deferment' => $this->deferment,
             'notavail' => $this->notavail,
+            'endorsement' => $this->endorsement,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
         ];

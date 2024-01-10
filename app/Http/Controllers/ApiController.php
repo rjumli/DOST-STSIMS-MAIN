@@ -192,32 +192,87 @@ class ApiController extends Controller
         return IndexResource::collection($data);
     }
 
+    public function endorsements(Request $request){
+        $info['year'] = Qualifier::max('qualified_year');
+        $info = (!empty(json_decode($request->info))) ? json_decode($request->info) : NULL;
+        $filter = (!empty(json_decode($request->subfilters))) ? json_decode($request->subfilters) : NULL;
+        $keyword = $info->keyword;
+        $counts = $info->counts;
+
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $region = $token->tokenable->profile->agency->region_code;
+
+        $data = Qualifier::where('is_endorsed',1)
+        ->with('address')->with('profile')
+        ->with('endorsement.endorsedby','endorsement.endorsedto','endorsement.course','endorsement.school.school')
+        ->whereHas('endorsement',function ($query) use ($region){
+           $query->where('endorsed_to',$region);
+        })
+        ->whereHas('address',function ($query) use ($filter) {
+            if(!empty($filter)){
+                (property_exists($filter, 'region')) ? $query->where('region_code',$filter->region) : '';
+                (property_exists($filter, 'province')) ? $query->where('province_code',$filter->province) : '';
+                (property_exists($filter, 'municipality')) ? $query->where('municipality_code',$filter->municipality) : '';
+                (property_exists($filter, 'barangay')) ? $query->where('barangay_code',$filter->barangay) : '';
+            }
+        })
+        ->whereHas('profile',function ($query) use ($keyword) {
+            $query->when($keyword, function ($query, $keyword) {
+                $query->where(\DB::raw('concat(firstname," ",lastname)'), 'LIKE', '%'.$keyword.'%')
+                ->where(\DB::raw('concat(lastname," ",firstname)'), 'LIKE', '%'.$keyword.'%')
+                ->orWhere('spas_id','LIKE','%'.$keyword.'%');
+            });
+        })
+        ->whereHas('status',function ($query) use ($info) {
+            if(!empty($info)){
+                ($info->status == null) ? '' : $query->where('status_type',$info->status);
+            }
+        })
+        ->where(function ($query) use ($info,$filter) {
+            if(!empty($filter)){
+                (property_exists($filter, 'program')) ? $query->where('program_id',$filter->program) : '';
+                (property_exists($filter, 'subprogram')) ? $query->where('subprogram_id',$filter->subprogram) : '';
+            }
+            if(!empty($info)){
+                ($info->year == null) ? '' : $query->where('qualified_year',$info->year);
+            }
+         })
+        ->paginate($counts);
+        return IndexResource::collection($data);
+    }
+
     public function statistics(Request $request){
         $bearer = $request->bearerToken();
         $token = PersonalAccessToken::findToken($bearer);
         $region = $token->tokenable->profile->agency->region_code;
 
-        // $data = Qualifier::select('status_type', \DB::raw('COUNT(*) as count'))
-        // ->whereHas('address',function ($query) use ($region) {
-        //     $query->where('region_code',$region); 
-        // })
-        // ->groupBy('status_type')
-        // ->get();
-
-        $statistics = ListStatus::leftJoin('qualifiers', 'list_statuses.id', '=', 'qualifiers.status_type')
-        ->select('list_statuses.name as status', \DB::raw('coalesce(COUNT(qualifiers.id), 0) as count'))
-        ->where('type','Qualifier')
-        ->groupBy('list_statuses.id')
-        ->get();
-        
+        $statuses = ListStatus::where('type','Qualifier')->get();
+        foreach($statuses as $status){
+            $statistics[] = [
+                'status' => $status->name,
+                'count' => Qualifier::where('status_type',$status->id)
+                        ->where('is_endorsed',0)
+                        ->whereHas('address',function ($query) use ($region) {
+                            $query->where('region_code',$region);
+                        })
+                        ->count()
+            ];
+        }
         $year = Qualifier::max('qualified_year');
         $array = [
             'year' => $year,
-            'total' => Qualifier::where('qualified_year',$year)->count(),
+            'total' => Qualifier::where('qualified_year',$year)->whereHas('address',function ($query) use ($region) {
+                $query->where('region_code',$region);
+             })->count(),
             'statistics' => $statistics,
             'ongoing' =>  Qualifier::whereHas('type',function ($query) {
                 $query->where('name','Enrolled');
-            })->where('qualified_year',$year)->count(),
+            })
+            ->whereHas('address',function ($query) use ($region) {
+                $query->where('region_code',$region);
+             })
+            ->where('qualified_year',$year)->count(),
         ];
         return $array;
     }

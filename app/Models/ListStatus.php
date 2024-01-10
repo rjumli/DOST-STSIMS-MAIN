@@ -13,4 +13,9 @@ class ListStatus extends Model
     {
         return $this->hasMany('App\Models\Scholar', 'status_id');
     } 
+
+    public function qualifier_type()
+    {
+        return $this->hasMany('App\Models\Qualifier', 'status_type');
+    } 
 }

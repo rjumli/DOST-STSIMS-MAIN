@@ -29,6 +29,10 @@ Route::middleware(['auth:sanctum'])->group(function () {
             Route::get('/', [App\Http\Controllers\ApiController::class, 'qualifiers']);
             Route::post('/', [App\Http\Controllers\Scholar\QualifierController::class, 'store']);
         });
+        Route::prefix('endorsements')->group(function(){
+            Route::get('/', [App\Http\Controllers\ApiController::class, 'endorsements']);
+            Route::post('/', [App\Http\Controllers\Scholar\EndorsementController::class, 'store']);
+        });
         Route::get('/statistics', [App\Http\Controllers\ApiController::class, 'statistics']);
     });
 });

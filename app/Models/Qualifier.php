@@ -60,4 +60,9 @@ class Qualifier extends Model
         return $this->hasOne('App\Models\QualifierNotavail', 'qualifier_id');
     } 
 
+    public function endorsement()
+    {
+        return $this->hasOne('App\Models\QualifierEndorsement', 'qualifier_id');
+    } 
+
 }
