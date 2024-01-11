@@ -641,12 +641,12 @@ class QualifierAddressesTableSeeder extends Seeder
                 'region_code' => '090000000',
                 'province_code' => '097300000',
                 'municipality_code' => '097322000',
-                'barangay_code' => NULL,
+                'barangay_code' => '097322042',
                 'qualifier_id' => 37,
-                'is_completed' => 0,
+                'is_completed' => 1,
                 'information' => '{"region": "9", "zipcode": "7016", "barangay": "STA. LUCIA DIST.", "district": "1", "province": "ZAMBOANGA DEL SUR", "hs_school": "PAGADIAN CITY SHS", "municipality": "PAGADIAN CITY"}',
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 08:59:02',
             ),
             37 => 
             array (
@@ -1933,12 +1933,12 @@ class QualifierAddressesTableSeeder extends Seeder
                 'region_code' => '090000000',
                 'province_code' => '097200000',
                 'municipality_code' => '097218000',
-                'barangay_code' => NULL,
+                'barangay_code' => '097218039',
                 'qualifier_id' => 113,
-                'is_completed' => 0,
+                'is_completed' => 1,
                 'information' => '{"region": "9", "zipcode": "7112", "barangay": "BAYBAY DISUD", "district": "2", "province": "ZAMBOANGA DEL NORTE", "hs_school": "UNIVERSITY OF SAN CARLOS-NORTH CAMPUS", "municipality": "SINDANGAN"}',
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:16:50',
             ),
             113 => 
             array (
@@ -2613,12 +2613,12 @@ class QualifierAddressesTableSeeder extends Seeder
                 'region_code' => '090000000',
                 'province_code' => '097300000',
                 'municipality_code' => '097332000',
-                'barangay_code' => NULL,
+                'barangay_code' => '097332094',
                 'qualifier_id' => 153,
-                'is_completed' => 0,
+                'is_completed' => 1,
                 'information' => '{"region": "9", "zipcode": "7000", "barangay": "TUMAGA POR CENTRO", "district": "1", "province": "ZAMBOANGA DEL SUR", "hs_school": "ARTURO EUSTAQUIO MSHS", "municipality": "ZAMBOANGA CITY"}',
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 08:42:42',
             ),
             153 => 
             array (

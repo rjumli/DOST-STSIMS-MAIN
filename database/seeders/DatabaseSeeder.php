@@ -59,5 +59,7 @@ class DatabaseSeeder extends Seeder
         $this->call(ScholarProfilesTableSeeder::class);
         $this->call(ScholarEducationTableSeeder::class);
         $this->call(ScholarAddressesTableSeeder::class);
+        $this->call(QualifierDefermentsTableSeeder::class);
+        $this->call(QualifierNotavailsTableSeeder::class);
     }
 }

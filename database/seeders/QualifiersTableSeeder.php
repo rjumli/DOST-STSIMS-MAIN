@@ -41,11 +41,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:23',
-                'updated_at' => '2024-01-09 10:32:23',
+                'updated_at' => '2024-01-10 09:17:59',
             ),
             2 => 
             array (
@@ -97,11 +97,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:23',
-                'updated_at' => '2024-01-09 10:32:23',
+                'updated_at' => '2024-01-10 09:16:28',
             ),
             6 => 
             array (
@@ -391,11 +391,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 1,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 08:56:55',
             ),
             27 => 
             array (
@@ -503,11 +503,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 1,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:18:09',
             ),
             35 => 
             array (
@@ -531,11 +531,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 1,
                 'status_id' => 20,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 08:59:17',
             ),
             37 => 
             array (
@@ -601,11 +601,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 1,
                 'status_id' => 20,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 08:58:43',
             ),
             42 => 
             array (
@@ -741,11 +741,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 1,
                 'status_id' => 20,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:19:19',
             ),
             52 => 
             array (
@@ -1329,11 +1329,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:26:51',
             ),
             94 => 
             array (
@@ -1357,11 +1357,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 08:57:14',
             ),
             96 => 
             array (
@@ -1413,11 +1413,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:18:28',
             ),
             100 => 
             array (
@@ -1595,11 +1595,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 19,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:16:54',
             ),
             113 => 
             array (
@@ -1665,11 +1665,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 19,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:24',
-                'updated_at' => '2024-01-09 10:32:24',
+                'updated_at' => '2024-01-10 09:17:34',
             ),
             118 => 
             array (
@@ -1917,11 +1917,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 09:16:09',
             ),
             136 => 
             array (
@@ -1987,11 +1987,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 08:57:52',
             ),
             141 => 
             array (
@@ -2071,11 +2071,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 19,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 09:17:12',
             ),
             147 => 
             array (
@@ -2085,11 +2085,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 19,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 08:54:04',
             ),
             148 => 
             array (
@@ -2155,11 +2155,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 3,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 16,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 08:52:12',
             ),
             153 => 
             array (
@@ -2253,11 +2253,11 @@ class QualifiersTableSeeder extends Seeder
                 'program_id' => 1,
                 'subprogram_id' => 1,
                 'status_id' => 18,
-                'status_type' => 14,
+                'status_type' => 15,
                 'is_completed' => 0,
                 'is_endorsed' => 0,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 09:19:04',
             ),
             160 => 
             array (
@@ -2325,9 +2325,9 @@ class QualifiersTableSeeder extends Seeder
                 'status_id' => 18,
                 'status_type' => 14,
                 'is_completed' => 0,
-                'is_endorsed' => 0,
+                'is_endorsed' => 1,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 10:27:49',
             ),
             165 => 
             array (
@@ -2339,9 +2339,9 @@ class QualifiersTableSeeder extends Seeder
                 'status_id' => 18,
                 'status_type' => 14,
                 'is_completed' => 0,
-                'is_endorsed' => 0,
+                'is_endorsed' => 1,
                 'created_at' => '2024-01-09 10:32:25',
-                'updated_at' => '2024-01-09 10:32:25',
+                'updated_at' => '2024-01-10 14:56:38',
             ),
         ));
         
