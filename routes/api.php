@@ -33,6 +33,7 @@ Route::middleware(['auth:sanctum'])->group(function () {
             Route::get('/', [App\Http\Controllers\ApiController::class, 'endorsements']);
             Route::post('/', [App\Http\Controllers\Scholar\EndorsementController::class, 'store']);
         });
-        Route::get('/statistics', [App\Http\Controllers\ApiController::class, 'statistics']);
+        Route::get('/statistic/qualifiers', [App\Http\Controllers\ApiController::class, 'statisticsq']);
+        Route::get('/statistic/endorsements', [App\Http\Controllers\ApiController::class, 'statisticse']);
     });
 });

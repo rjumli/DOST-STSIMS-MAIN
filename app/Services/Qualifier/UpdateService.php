@@ -209,7 +209,7 @@ class UpdateService
         $token = PersonalAccessToken::findToken($bearer);
         $region = $token->tokenable->profile->agency->region_code;
         // return response()->json($request);
-        $data = Endorsement::where('id',$request->id)->update(['is_approved' => 1, 'is_seened' => 1]);
+        $data = QualifierEndorsement::where('id',$request->id)->update(['is_approved' => 1, 'is_seened' => 1]);
         $data = $this->enroll($request);
 
         return response()->json($data);

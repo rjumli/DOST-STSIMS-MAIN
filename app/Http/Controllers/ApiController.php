@@ -242,7 +242,7 @@ class ApiController extends Controller
         return IndexResource::collection($data);
     }
 
-    public function statistics(Request $request){
+    public function statisticsq(Request $request){
         $bearer = $request->bearerToken();
         $token = PersonalAccessToken::findToken($bearer);
         $region = $token->tokenable->profile->agency->region_code;
@@ -285,6 +285,38 @@ class ApiController extends Controller
                 $query->where('region_code',$region);
              })
             ->where('qualified_year',$year)->count(),
+        ];
+        return $array;
+    }
+
+    public function statisticse(Request $request){
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $region = $token->tokenable->profile->agency->region_code;
+        
+        $total = Qualifier::where('is_endorsed',1)->whereHas('endorsement',function ($query) use ($region) {
+            $query->where('endorsed_to',$region);
+         })->count();
+
+        $statistics = [
+            Qualifier::where('is_endorsed',1)->whereHas('endorsement',function ($query) use ($region) {
+                $query->where('endorsed_to',$region);
+            })->where('is_undergrad',1)->count(),
+            Qualifier::where('is_endorsed',1)->whereHas('endorsement',function ($query) use ($region) {
+                $query->where('endorsed_to',$region);
+            })->where('is_undergrad',0)->count(),
+            $total
+        ];
+
+        $array = [
+            'total' => $total,
+            'ongoing' =>  Qualifier::where('is_endorsed',1)->whereHas('type',function ($query) {
+                $query->where('name','Enrolled');
+            })
+            ->whereHas('endorsement',function ($query) use ($region) {
+                $query->where('endorsed_to',$region);
+             })->count(),
+            'statistics' => $statistics
         ];
         return $array;
     }
