@@ -29,12 +29,12 @@ class QualifierAddressesTableSeeder extends Seeder
                 'region_code' => '090000000',
                 'province_code' => '097300000',
                 'municipality_code' => '097328000',
-                'barangay_code' => NULL,
+                'barangay_code' => '097328027',
                 'qualifier_id' => 1,
-                'is_completed' => 0,
+                'is_completed' => 1,
                 'information' => '{"region": "9", "zipcode": "7025", "barangay": "NEW VILL.", "district": "1", "province": "ZAMBOANGA DEL SUR", "hs_school": "SILLIMAN UNIVERSITY", "municipality": "TAMBULIG"}',
                 'created_at' => '2024-01-09 10:32:23',
-                'updated_at' => '2024-01-09 10:32:23',
+                'updated_at' => '2024-01-12 11:42:02',
             ),
             1 => 
             array (

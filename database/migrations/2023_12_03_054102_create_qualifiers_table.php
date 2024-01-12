@@ -26,6 +26,7 @@ return new class extends Migration
             $table->foreign('status_id')->references('id')->on('list_statuses')->onDelete('cascade');
             $table->tinyInteger('status_type')->unsigned()->index();
             $table->foreign('status_type')->references('id')->on('list_statuses')->onDelete('cascade');
+            $table->boolean('is_undergrad')->default(0);
             $table->boolean('is_completed')->default(0);
             $table->boolean('is_endorsed')->default(0);
             $table->timestamps();

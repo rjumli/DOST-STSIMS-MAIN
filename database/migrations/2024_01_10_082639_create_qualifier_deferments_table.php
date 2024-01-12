@@ -15,6 +15,7 @@ return new class extends Migration
             $table->engine = 'InnoDB';
             $table->increments('id');
             $table->string('reason');
+            $table->year('availed_year')->nullable();
             $table->string('file')->nullable();
             $table->boolean('is_availing')->default(0);
             $table->boolean('is_seened')->default(0);

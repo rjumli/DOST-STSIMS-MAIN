@@ -246,26 +246,38 @@ class ApiController extends Controller
         $bearer = $request->bearerToken();
         $token = PersonalAccessToken::findToken($bearer);
         $region = $token->tokenable->profile->agency->region_code;
+        $year = Qualifier::max('qualified_year');
 
         $statuses = ListStatus::where('type','Qualifier')->get();
         foreach($statuses as $status){
             $statistics[] = [
                 'status' => $status->name,
                 'count' => Qualifier::where('status_type',$status->id)
-                        ->where('is_endorsed',0)
+                        ->where('is_endorsed',0)->where('qualified_year',$year)
                         ->whereHas('address',function ($query) use ($region) {
                             $query->where('region_code',$region);
                         })
                         ->count()
             ];
         }
-        $year = Qualifier::max('qualified_year');
+        $types = [
+            Qualifier::where('is_undergrad',1)->whereHas('address',function ($query) use ($region) {
+                $query->where('region_code',$region);
+             })->where('qualified_year',$year)->count(),
+            Qualifier::where('is_undergrad',0)->whereHas('address',function ($query) use ($region) {
+                $query->where('region_code',$region);
+             })->where('qualified_year',$year)->count(),
+        ];
         $array = [
             'year' => $year,
             'total' => Qualifier::where('qualified_year',$year)->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })->count(),
             'statistics' => $statistics,
+            'types' => $types,
+            'endorsements' =>  Qualifier::where('is_endorsed',1)->whereHas('address',function ($query) use ($region) {
+                $query->where('region_code',$region);
+             })->where('qualified_year',$year)->count(),
             'ongoing' =>  Qualifier::whereHas('type',function ($query) {
                 $query->where('name','Enrolled');
             })

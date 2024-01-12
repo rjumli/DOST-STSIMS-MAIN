@@ -52,6 +52,9 @@ class QualifierController extends Controller
             case 'endorse':
                 return $this->update->endorse($request);
             break;
+            case 'endorsed':
+                return $this->update->endorsed($request);
+            break;
             case 'update':
                 return $this->update->update($request);
             break;

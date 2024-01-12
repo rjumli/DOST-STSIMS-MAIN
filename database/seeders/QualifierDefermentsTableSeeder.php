@@ -23,6 +23,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 1,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -35,6 +36,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 2,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -47,6 +49,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 3,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -59,6 +62,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 4,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -71,6 +75,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 5,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -83,6 +88,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 6,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -95,6 +101,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 7,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -107,6 +114,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 8,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -119,6 +127,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 9,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -131,6 +140,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 10,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -143,6 +153,7 @@ class QualifierDefermentsTableSeeder extends Seeder
             array (
                 'id' => 11,
                 'reason' => 'not specified',
+                'availed_year' => NULL,
                 'file' => NULL,
                 'is_availing' => 0,
                 'is_seened' => 0,
@@ -150,6 +161,19 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'user_id' => 11,
                 'created_at' => '2024-01-10 09:26:51',
                 'updated_at' => '2024-01-10 09:26:51',
+            ),
+            11 => 
+            array (
+                'id' => 12,
+                'reason' => 'testing',
+                'availed_year' => NULL,
+                'file' => NULL,
+                'is_availing' => 0,
+                'is_seened' => 0,
+                'qualifier_id' => 31,
+                'user_id' => 11,
+                'created_at' => '2024-01-12 13:20:49',
+                'updated_at' => '2024-01-12 13:20:49',
             ),
         ));
         
