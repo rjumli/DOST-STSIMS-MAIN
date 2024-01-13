@@ -198,6 +198,7 @@ class ApiController extends Controller
         $filter = (!empty(json_decode($request->subfilters))) ? json_decode($request->subfilters) : NULL;
         $keyword = $info->keyword;
         $counts = $info->counts;
+        $type = $request->type;
 
         $bearer = $request->bearerToken();
         $token = PersonalAccessToken::findToken($bearer);
@@ -206,8 +207,8 @@ class ApiController extends Controller
         $data = Qualifier::where('is_endorsed',1)
         ->with('address')->with('profile')
         ->with('endorsement.endorsedby','endorsement.endorsedto','endorsement.course','endorsement.school.school')
-        ->whereHas('endorsement',function ($query) use ($region){
-           $query->where('endorsed_to',$region);
+        ->whereHas('endorsement',function ($query) use ($region,$type){
+            ($type == 'From') ? $query->where('endorsed_to',$region) : $query->where('endorsed_by',$region);
         })
         ->whereHas('address',function ($query) use ($filter) {
             if(!empty($filter)){
