@@ -262,16 +262,19 @@ class ApiController extends Controller
             ];
         }
         $types = [
-            Qualifier::where('is_undergrad',1)->whereHas('address',function ($query) use ($region) {
+            Qualifier::where('is_undergrad',1)->where('is_endorsed',0)
+            ->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })->where('qualified_year',$year)->count(),
-            Qualifier::where('is_undergrad',0)->whereHas('address',function ($query) use ($region) {
+            Qualifier::where('is_undergrad',0)->where('is_endorsed',0)
+            ->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })->where('qualified_year',$year)->count(),
         ];
         $array = [
             'year' => $year,
-            'total' => Qualifier::where('qualified_year',$year)->whereHas('address',function ($query) use ($region) {
+            'total' => Qualifier::where('qualified_year',$year)->where('is_endorsed',0)
+            ->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })->count(),
             'statistics' => $statistics,
@@ -282,6 +285,7 @@ class ApiController extends Controller
             'ongoing' =>  Qualifier::whereHas('type',function ($query) {
                 $query->where('name','Enrolled');
             })
+            ->where('is_endorsed',0)
             ->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })
@@ -309,6 +313,21 @@ class ApiController extends Controller
             $total
         ];
 
+        $types = [
+            Qualifier::where('is_endorsed',1)->whereHas('type',function ($query) {
+                $query->where('name','Enrolled');
+            })
+            ->whereHas('endorsement',function ($query) use ($region) {
+                $query->where('endorsed_by',$region);
+             })->count(),
+             Qualifier::where('is_endorsed',1)->whereHas('type',function ($query) {
+                $query->where('name','Enrolled');
+            })
+            ->whereHas('endorsement',function ($query) use ($region) {
+                $query->where('endorsed_to',$region);
+             })->count()
+        ];
+
         $array = [
             'total' => $total,
             'ongoing' =>  Qualifier::where('is_endorsed',1)->whereHas('type',function ($query) {
@@ -317,7 +336,8 @@ class ApiController extends Controller
             ->whereHas('endorsement',function ($query) use ($region) {
                 $query->where('endorsed_to',$region);
              })->count(),
-            'statistics' => $statistics
+            'statistics' => $statistics,
+            'types' => $types
         ];
         return $array;
     }
