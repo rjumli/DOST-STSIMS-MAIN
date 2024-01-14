@@ -35,7 +35,7 @@ class SchoolCoursesTableSeeder extends Seeder
             1 => 
             array (
                 'id' => 2,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -48,7 +48,7 @@ class SchoolCoursesTableSeeder extends Seeder
             2 => 
             array (
                 'id' => 3,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -61,7 +61,7 @@ class SchoolCoursesTableSeeder extends Seeder
             3 => 
             array (
                 'id' => 4,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -74,7 +74,7 @@ class SchoolCoursesTableSeeder extends Seeder
             4 => 
             array (
                 'id' => 5,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -87,7 +87,7 @@ class SchoolCoursesTableSeeder extends Seeder
             5 => 
             array (
                 'id' => 6,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -100,7 +100,7 @@ class SchoolCoursesTableSeeder extends Seeder
             6 => 
             array (
                 'id' => 7,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -113,7 +113,7 @@ class SchoolCoursesTableSeeder extends Seeder
             7 => 
             array (
                 'id' => 8,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -126,7 +126,7 @@ class SchoolCoursesTableSeeder extends Seeder
             8 => 
             array (
                 'id' => 9,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -139,7 +139,7 @@ class SchoolCoursesTableSeeder extends Seeder
             9 => 
             array (
                 'id' => 10,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -152,7 +152,7 @@ class SchoolCoursesTableSeeder extends Seeder
             10 => 
             array (
                 'id' => 11,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -165,7 +165,7 @@ class SchoolCoursesTableSeeder extends Seeder
             11 => 
             array (
                 'id' => 12,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -178,7 +178,7 @@ class SchoolCoursesTableSeeder extends Seeder
             12 => 
             array (
                 'id' => 13,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -191,7 +191,7 @@ class SchoolCoursesTableSeeder extends Seeder
             13 => 
             array (
                 'id' => 14,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -204,7 +204,7 @@ class SchoolCoursesTableSeeder extends Seeder
             14 => 
             array (
                 'id' => 15,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -217,7 +217,7 @@ class SchoolCoursesTableSeeder extends Seeder
             15 => 
             array (
                 'id' => 16,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -230,7 +230,7 @@ class SchoolCoursesTableSeeder extends Seeder
             16 => 
             array (
                 'id' => 17,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -243,7 +243,7 @@ class SchoolCoursesTableSeeder extends Seeder
             17 => 
             array (
                 'id' => 18,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -256,7 +256,7 @@ class SchoolCoursesTableSeeder extends Seeder
             18 => 
             array (
                 'id' => 19,
-                'years' => 1,
+                'years' => 4,
                 'type' => 'n/a',
                 'certification' => 'COE',
                 'validity' => '1',
@@ -265,6 +265,19 @@ class SchoolCoursesTableSeeder extends Seeder
                 'is_active' => 1,
                 'created_at' => '2024-01-09 11:01:04',
                 'updated_at' => '2024-01-09 11:01:04',
+            ),
+            19 => 
+            array (
+                'id' => 20,
+                'years' => 4,
+                'type' => 'n/a',
+                'certification' => 'COE',
+                'validity' => '1',
+                'school_id' => 23,
+                'course_id' => 47,
+                'is_active' => 1,
+                'created_at' => '2024-01-12 14:23:05',
+                'updated_at' => '2024-01-12 14:23:05',
             ),
         ));
         
