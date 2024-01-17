@@ -44,8 +44,8 @@
                     </button>
                 </b-col>
                 <b-col lg="4">
-                    <button @click="openSync(1)" class="btn btn-primary btn-sm w-100" type="button">
-                        <div class="btn-content"> Sync ({{sync_no}})</div>
+                    <button @click="openDownload()" class="btn btn-primary btn-sm w-100" type="button">
+                        <div class="btn-content"> Download </div>
                     </button>
                 </b-col>
             </b-row>
@@ -53,13 +53,15 @@
     </div>
     <Import ref="import" @info="refresh()"/>
     <Truncate ref="truncate" @info="refresh()"/>
+    <Download ref="download" @info="refresh()"/>
 </template>
 <script>
+import Download from './Modals/Download.vue';
 import Import from './Modals/Import.vue';
 import Truncate from './Modals/Truncate.vue';
 export default {
     props: ['total','ongoing','year','endorsed','statistics'],
-    components: { Import, Truncate },
+    components: { Import, Truncate, Download },
     data(){
         return {
             options: ['Enrolled Qualifiers','Deferment','Not Availing'],
@@ -73,6 +75,9 @@ export default {
         },
         openTruncate(){
             this.$refs.truncate.show();
+        },
+          openDownload(){
+            this.$refs.download.show();
         },
         refresh(){
             this.$emit('info',true);

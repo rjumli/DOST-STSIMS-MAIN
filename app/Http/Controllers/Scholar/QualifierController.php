@@ -6,6 +6,7 @@ use App\Services\Qualifier\ViewService;
 use App\Services\Qualifier\SaveService;
 use App\Services\Qualifier\TruncateService;
 use App\Services\Qualifier\UpdateService;
+use App\Services\Qualifier\ApiService;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Traits\HandlesTransaction;
@@ -13,14 +14,15 @@ use App\Traits\HandlesTransaction;
 class QualifierController extends Controller
 {
     use HandlesTransaction;
-    public $save, $view, $truncate;
+    public $save, $view, $truncate, $api;
 
-    public function __construct(ViewService $view, SaveService $save, TruncateService $truncate, UpdateService $update)
+    public function __construct(ViewService $view, SaveService $save, TruncateService $truncate, UpdateService $update, ApiService $api)
     {
         $this->view = $view;
         $this->save = $save;
         $this->truncate = $truncate;
         $this->update = $update;
+        $this->api = $api;
     }
 
     public function index(Request $request){
@@ -60,6 +62,9 @@ class QualifierController extends Controller
             break;
             case 'edit':
                 return $this->update->edit($request);
+            break;
+            case 'api':
+                return $this->api->fetch($request);
             break;
         }
     }

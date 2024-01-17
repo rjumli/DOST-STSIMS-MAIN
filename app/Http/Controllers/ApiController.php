@@ -66,6 +66,9 @@ class ApiController extends Controller
                 'Total' => $in + $out
             ];
             return $array;
+        }else if($type == 'download'){
+            $data = School::with('campuses','campuses.courses')->get();
+            return $data;
         }else{
             $data = School::with('campuses','campuses.courses')->get();
             return $data;

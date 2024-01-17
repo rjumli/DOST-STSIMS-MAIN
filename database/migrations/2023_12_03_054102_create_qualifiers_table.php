@@ -17,6 +17,8 @@ return new class extends Migration
             $table->engine = 'InnoDB';
             $table->bigIncrements('id');
             $table->string('spas_id')->unique();
+            $table->string('school')->nullable();
+            $table->string('course')->nullable();
             $table->year('qualified_year');
             $table->tinyInteger('program_id')->unsigned()->index();
             $table->foreign('program_id')->references('id')->on('list_programs')->onDelete('cascade');
@@ -29,6 +31,7 @@ return new class extends Migration
             $table->boolean('is_undergrad')->default(0);
             $table->boolean('is_completed')->default(0);
             $table->boolean('is_endorsed')->default(0);
+            $table->json('information');
             $table->timestamps();
         });
     }

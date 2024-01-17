@@ -16,8 +16,10 @@ class Qualifier extends Model
         'status_type',
         'status_id',
         'qualified_year',
+        'is_undergrad',
         'is_completed',
-        'is_endorsed'
+        'is_endorsed',
+        'information'
     ];
 
     public function type()
