@@ -19,7 +19,9 @@ class Qualifier extends Model
         'is_undergrad',
         'is_completed',
         'is_endorsed',
-        'information'
+        'information',
+        'school',
+        'course'
     ];
 
     public function type()

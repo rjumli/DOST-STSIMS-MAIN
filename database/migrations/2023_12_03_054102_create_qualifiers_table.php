@@ -31,7 +31,6 @@ return new class extends Migration
             $table->boolean('is_undergrad')->default(0);
             $table->boolean('is_completed')->default(0);
             $table->boolean('is_endorsed')->default(0);
-            $table->json('information');
             $table->timestamps();
         });
     }

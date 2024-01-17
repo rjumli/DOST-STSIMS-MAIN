@@ -10,16 +10,14 @@ class QualifierAddress extends Model
     use HasFactory;
 
     protected $fillable = [
+        'address',
         'region_code', 
         'province_code', 
         'municipality_code', 
         'barangay_code', 
-        'district', 
-        'hs_school',
-        'zipcode',
         'qualifier_id',
         'information',
-        'is_within'
+        'is_completed'
     ];
 
     public function qualifier()

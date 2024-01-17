@@ -176,7 +176,7 @@ class ApiController extends Controller
         })
         ->whereHas('status',function ($query) use ($info) {
             if(!empty($info)){
-                ($info->status == null) ? '' : $query->where('status_type',$info->status);
+                ($info->status == null) ? '' : $query->where('status_id',$info->status);
             }
         })
         ->where(function ($query) use ($info,$filter) {
@@ -188,9 +188,9 @@ class ApiController extends Controller
                 ($info->year == null) ? '' : $query->where('qualified_year',$info->year);
             }
          })
-         ->where(function ($query){
-            $query->where('is_endorsed',0);
-        })
+        //  ->where(function ($query){
+        //     $query->where('is_endorsed',0);
+        // })
         ->paginate($counts);
         return IndexResource::collection($data);
     }
@@ -230,7 +230,7 @@ class ApiController extends Controller
         })
         ->whereHas('status',function ($query) use ($info) {
             if(!empty($info)){
-                ($info->status == null) ? '' : $query->where('status_type',$info->status);
+                ($info->status == null) ? '' : $query->where('status_id',$info->status);
             }
         })
         ->where(function ($query) use ($info,$filter) {
@@ -256,7 +256,7 @@ class ApiController extends Controller
         foreach($statuses as $status){
             $statistics[] = [
                 'status' => $status->name,
-                'count' => Qualifier::where('status_type',$status->id)
+                'count' => Qualifier::where('status_id',$status->id)
                         ->where('is_endorsed',0)->where('qualified_year',$year)
                         ->whereHas('address',function ($query) use ($region) {
                             $query->where('region_code',$region);

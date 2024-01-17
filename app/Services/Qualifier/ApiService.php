@@ -6,6 +6,11 @@ use App\Models\Qualifier;
 use App\Models\QualifierProfile;
 use App\Models\QualifierDeferment;
 use App\Models\QualifierNotavail;
+use App\Models\QualifierAddress;
+use App\Models\LocationRegion;
+use App\Models\LocationProvince;
+use App\Models\LocationBarangay;
+use App\Models\LocationMunicipality;
 
 class ApiService
 {
@@ -60,26 +65,11 @@ class ApiService
             $school = $list->school_name;
             $school_region = $list->sreg;
 
-            $education = [
-                'school' => $school,
-                'course' => $course,
-            ];
-
-            $addres = [
-                'region' => $region,
-                'province' => $province,
-                'municipality' => $municipality,
-                'barangay' => $barangay,
-                'village' => $village,
-                'street' => $street
-            ];
-
             if (strpos($spas_id, "testaccount") !== false) {
-                $test = 'yes';
-            } else {
                 $test = 'no';
+            } else {
+                $test = 'yes';
             }
-            return $test;
             
             if($test == 'yes'){
                 $count = Qualifier::where('spas_id',$spas_id)->count();
@@ -115,10 +105,12 @@ class ApiService
                     \DB::beginTransaction();
                     $scholar_data = [
                         'spas_id' => $spas_id,
+                        'school' => $school,
+                        'course' => $course,
                         'qualified_year' => $qualified_year,
                         'program_id' => $this->program($program),
                         'subprogram_id' => $this->program($program),
-                        'status_id' => $this->status($avail,$defer),
+                        'status_id' => $this->status($avail,$defer,$school_region,$region),
                         'status_type' =>18,
                         'is_undergrad' => 1,
                         'is_completed' => 1,
@@ -147,7 +139,7 @@ class ApiService
                             ];
                             QualifierDeferment::insertOrIgnore($d);
                         }
-                        if($avail == 0){
+                        if($avail == 0 && $avail != null){
                             if($res){
                                 if($res->nonavailreason){
                                     $nonavailreason = $res->nonavailreason;
@@ -165,9 +157,6 @@ class ApiService
                                 'updated_at' => now()
                             ];
                             QualifierNotavail::insertOrIgnore($n);
-                        }
-                        if($region != $school_region){
-
                         }
                     }else{
                         array_push($failed,$spas_id);
@@ -189,22 +178,28 @@ class ApiService
                         $profile = QualifierProfile::create($profile_data);
 
                         if($profile){
-                            array_push($success,$spas_id);
-                            \DB::commit();
+                            $address_data = $this->address(
+                                $region,
+                                $province,
+                                $municipality,
+                                $barangay,
+                                $village,
+                                $street,
+                                $qualifier->id,
+                            );
+                            $address = QualifierAddress::create($address_data);
+                            if($address){
+                                array_push($success,$spas_id);
+                                \DB::commit();
+                            }else{
+                                array_push($failed,$spas_id);
+                                \DB::rollback();
+                            }
                         }else{
                             array_push($failed,$spas_id);
                             \DB::rollback();
                         }
 
-                        $address_data = [
-                            'region_code' => $this->region($region),
-                            'province_code' => $this->province($province),
-                            'municipality_code' => $this->municipality($municipality),
-                            'barangay_code' => $this->barangay($municipality),
-                            'qualifier_id' => $qualifier->id
-                        ];
-
-                        $address = QualifierAddress::create($address_data);
                     }else{
                         array_push($failed,$spas_id);
                         \DB::rollback();
@@ -220,27 +215,14 @@ class ApiService
             'duplicate' => $duplicate,
         ];
         return $result;
-
-        // if($avail){
-        //     https://www.science-scholarships.ph/ug_portal_api_2023/student.php?getQualifierInput
-        //     -spas_no
-        //     -region
-            
-        //     if($defer){
-        //         $deferreason = $defer->deferreason
-        //     }
-
-        //     if($school_region != $region){
-        //         FOR ENDORSEMENT
-        //     }
-        // }else{
-        //     https://www.science-scholarships.ph/ug_portal_api_2023/student.php?getQualifierInput
-        //     $nonavailreason = $not->nonavailreason
-        // }
     }
 
     public function is_endorsed($home,$school){
-        return ($home != $school) ? true : false;
+        if($school != null){
+            return ($home != $school) ? true : false;
+        }else{ 
+            return false;
+        }
     }
     
     public function program($name){
@@ -256,24 +238,187 @@ class ApiService
     }
 
     public function status($avail,$defer){
-        if($avail == 0){
+        if($avail == null){
+            return 14;
+        }else if($avail == '0'){
             return 16;
         }else if($avail == 1){
-           if($defer == 1){
+            if($defer == 1){
                 return 15;
-           }
-           return 14;
+            }
+            return 14;
         }else{
             return 14;
         }
     }
 
-    public function region($region){
-        $data = LocationRegion::where('subcode',$region)->value('region_code');
-        if($data){
-            return $data;
-        }else{
-            return null;
+    public function address($region,$province,$municipality,$barangay,$village,$street,$id){
+
+        $province = rtrim($province);
+        $municipality = rtrim($municipality);
+        $barangay = rtrim($barangay);
+        
+        switch($region){
+            case '1':
+                $region_code = '010000000';
+            break;
+            case '2':
+                $region_code = '020000000';
+            break;
+            case '3':
+                $region_code = '030000000';
+            break;
+            case '4a':
+                $region_code = '040000000';
+            break;
+            case '4b':
+                $region_code = '170000000';
+            break;
+            case '5':
+                $region_code = '050000000';
+            break;
+            case '6':
+                $region_code = '060000000';
+            break;
+            case '7':
+                $region_code = '070000000';
+            break;
+            case '8':
+                $region_code = '080000000';
+            break;
+            case '9':
+                $region_code = '090000000';
+            break;
+            case '10':
+                $region_code = '100000000';
+            break;
+            case '11':
+                $region_code = '110000000';
+            break;
+            case '12':
+                $region_code = '120000000';
+            break;
+            case 'NCR':
+                $region_code = '13000000';
+            break;
+            case 'CAR':
+                $region_code = '14000000';
+            break;
+            case 'ARMM':
+                $region_code = '15000000';
+            break;  
+            case 'BARMM':
+                $region_code = '15000000';
+            break; 
+            case 'CARAGA':
+                $region_code = '16000000';
+            break; 
         }
+
+        $information = [
+            'address' => $village.', '.$street,
+            'barangay' => $barangay,
+            'municipality' => $municipality,
+            'province' => $province,
+            'region' => $region,
+        ];
+
+        $is_completed = 0;
+        // ($municipality == 'ZAMBOANGA CITY') ? $province = 'ZAMBOANGA CITY' : $province;
+
+        if($province){
+            $data = LocationProvince::with('region')
+            ->where(function($query) use ($province) {  
+                $query->where('name','LIKE', '%'.$province.'%')->orWhere('old_name','LIKE', '%'.$province.'%');
+            })->first();
+
+            if($province){
+                $province = $data->code;
+                $region = $data->region->code;
+            }else{
+                $province = null;
+            }
+        }
+        if($municipality != null){
+            $m = LocationMunicipality::with('province')->where(function($query) use ($municipality) {  
+                $query->where('name','LIKE', '%'.$municipality.'%')->orWhere('old_name','LIKE', '%'.$municipality.'%');
+            })
+            ->when($province, function ($query, $province) {
+                $query->whereHas('province',function ($query) use ($province) {
+                    $query->where('province_code',$province);
+                });
+            })
+            ->first();
+            
+            if($m != null){
+                $municipality = $m->code;
+                ($province) ? $province : $m->province->code;
+            }else{
+                $municipality = strtolower($municipality);
+                $test = strpos($municipality,'city');
+                if($test){
+                    $list = str_replace(" city",'',$municipality);
+                    $municipality = 'City of '.$list;
+
+                    $m = LocationMunicipality::with('province')->where(function($query) use ($municipality) {  
+                        $query->where('name','LIKE', '%'.$municipality.'%');
+                    })
+                    ->when($province, function ($query, $province) {
+                        $query->whereHas('province',function ($query) use ($province) {
+                            $query->where('province_code',$province);
+                        });
+                    })
+                    ->first();
+    
+                    if($m != null){
+                        $municipality = $m->code;
+                        ($province) ? $province :  $m->province->code;
+                    }else{
+                        $municipality = null;
+                    }
+                }else{
+                    $municipality = null;
+                }
+            }
+        }
+
+        if($barangay != null){
+            $barangay = str_replace("STO.","Santo",$barangay);
+            $barangay = str_replace("STA.","Santa",$barangay);
+
+            $b = LocationBarangay::where(function($query) use ($barangay) {  
+                $query->where('name','LIKE', '%'.$barangay.'%');
+            })
+            ->when($municipality, function ($query, $municipality) {
+                $query->whereHas('municipality',function ($query) use ($municipality) {
+                    $query->where('municipality_code',$municipality);
+                });
+            })
+            ->first();
+            if($b != null){
+                $barangay = $b->code;
+            }else{
+                $barangay = null;
+            }
+        }
+
+        if($province != null && $municipality != null && $barangay != null){
+            $is_completed = 1;
+        }   
+
+        $address = [
+            'address' => $village.', '.$street,
+            'barangay_code' => $barangay,
+            'municipality_code' => $municipality,
+            'province_code' => $province,
+            'region_code' => $region,
+            'is_completed' => $is_completed,
+            'created_at' => now(),
+            'updated_at' => now(),
+            'information' => json_encode($information),
+            'qualifier_id' => $id
+        ];
+        return $address;
+    
     }
 }
