@@ -13,7 +13,7 @@ class AddressResource extends JsonResource
         $municipality = ($this->municipality == null) ? $info->municipality : $this->municipality->name;
         $province = ($this->province == null) ? $info->province : $this->province->name;
 
-        $name = ucwords(strtolower($barangay.', '.$municipality.', '.$province));
+        $name = ucwords(strtolower($barangay.', '.$municipality));
 
         return [
             'id' => $this->id,

@@ -26,8 +26,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 43,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:08:17',
-                'updated_at' => '2024-01-17 16:08:17',
+                'created_at' => '2024-01-18 20:26:18',
+                'updated_at' => '2024-01-18 20:26:18',
             ),
             1 => 
             array (
@@ -36,8 +36,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 114,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:08:39',
-                'updated_at' => '2024-01-17 16:08:39',
+                'created_at' => '2024-01-18 20:27:09',
+                'updated_at' => '2024-01-18 20:27:09',
             ),
             2 => 
             array (
@@ -46,8 +46,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 118,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:08:40',
-                'updated_at' => '2024-01-17 16:08:40',
+                'created_at' => '2024-01-18 20:27:12',
+                'updated_at' => '2024-01-18 20:27:12',
             ),
             3 => 
             array (
@@ -56,8 +56,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 119,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:08:41',
-                'updated_at' => '2024-01-17 16:08:41',
+                'created_at' => '2024-01-18 20:27:12',
+                'updated_at' => '2024-01-18 20:27:12',
             ),
             4 => 
             array (
@@ -66,8 +66,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 226,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:14',
-                'updated_at' => '2024-01-17 16:09:14',
+                'created_at' => '2024-01-18 20:28:30',
+                'updated_at' => '2024-01-18 20:28:30',
             ),
             5 => 
             array (
@@ -76,8 +76,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 228,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:14',
-                'updated_at' => '2024-01-17 16:09:14',
+                'created_at' => '2024-01-18 20:28:31',
+                'updated_at' => '2024-01-18 20:28:31',
             ),
             6 => 
             array (
@@ -86,8 +86,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 233,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:16',
-                'updated_at' => '2024-01-17 16:09:16',
+                'created_at' => '2024-01-18 20:28:35',
+                'updated_at' => '2024-01-18 20:28:35',
             ),
             7 => 
             array (
@@ -96,8 +96,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 240,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:18',
-                'updated_at' => '2024-01-17 16:09:18',
+                'created_at' => '2024-01-18 20:28:40',
+                'updated_at' => '2024-01-18 20:28:40',
             ),
             8 => 
             array (
@@ -106,8 +106,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 312,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:39',
-                'updated_at' => '2024-01-17 16:09:39',
+                'created_at' => '2024-01-18 20:29:32',
+                'updated_at' => '2024-01-18 20:29:32',
             ),
             9 => 
             array (
@@ -116,8 +116,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 344,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:49',
-                'updated_at' => '2024-01-17 16:09:49',
+                'created_at' => '2024-01-18 20:29:56',
+                'updated_at' => '2024-01-18 20:29:56',
             ),
             10 => 
             array (
@@ -126,8 +126,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 352,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:52',
-                'updated_at' => '2024-01-17 16:09:52',
+                'created_at' => '2024-01-18 20:30:01',
+                'updated_at' => '2024-01-18 20:30:01',
             ),
             11 => 
             array (
@@ -136,8 +136,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 377,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:59',
-                'updated_at' => '2024-01-17 16:09:59',
+                'created_at' => '2024-01-18 20:30:20',
+                'updated_at' => '2024-01-18 20:30:20',
             ),
             12 => 
             array (
@@ -146,8 +146,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 381,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:01',
-                'updated_at' => '2024-01-17 16:10:01',
+                'created_at' => '2024-01-18 20:30:23',
+                'updated_at' => '2024-01-18 20:30:23',
             ),
             13 => 
             array (
@@ -156,8 +156,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 407,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:09',
-                'updated_at' => '2024-01-17 16:10:09',
+                'created_at' => '2024-01-18 20:30:41',
+                'updated_at' => '2024-01-18 20:30:41',
             ),
             14 => 
             array (
@@ -166,8 +166,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 416,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:12',
-                'updated_at' => '2024-01-17 16:10:12',
+                'created_at' => '2024-01-18 20:30:48',
+                'updated_at' => '2024-01-18 20:30:48',
             ),
             15 => 
             array (
@@ -176,8 +176,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 435,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:20',
-                'updated_at' => '2024-01-17 16:10:20',
+                'created_at' => '2024-01-18 20:31:02',
+                'updated_at' => '2024-01-18 20:31:02',
             ),
             16 => 
             array (
@@ -186,8 +186,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 454,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:26',
-                'updated_at' => '2024-01-17 16:10:26',
+                'created_at' => '2024-01-18 20:31:16',
+                'updated_at' => '2024-01-18 20:31:16',
             ),
             17 => 
             array (
@@ -196,8 +196,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 489,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:37',
-                'updated_at' => '2024-01-17 16:10:37',
+                'created_at' => '2024-01-18 20:31:41',
+                'updated_at' => '2024-01-18 20:31:41',
             ),
             18 => 
             array (
@@ -206,8 +206,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 502,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:41',
-                'updated_at' => '2024-01-17 16:10:41',
+                'created_at' => '2024-01-18 20:31:50',
+                'updated_at' => '2024-01-18 20:31:50',
             ),
             19 => 
             array (
@@ -216,8 +216,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 529,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:50',
-                'updated_at' => '2024-01-17 16:10:50',
+                'created_at' => '2024-01-18 20:32:10',
+                'updated_at' => '2024-01-18 20:32:10',
             ),
             20 => 
             array (
@@ -226,8 +226,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 539,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:53',
-                'updated_at' => '2024-01-17 16:10:53',
+                'created_at' => '2024-01-18 20:32:17',
+                'updated_at' => '2024-01-18 20:32:17',
             ),
             21 => 
             array (
@@ -236,8 +236,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 572,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:04',
-                'updated_at' => '2024-01-17 16:11:04',
+                'created_at' => '2024-01-18 20:32:41',
+                'updated_at' => '2024-01-18 20:32:41',
             ),
             22 => 
             array (
@@ -246,8 +246,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 594,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:10',
-                'updated_at' => '2024-01-17 16:11:10',
+                'created_at' => '2024-01-18 20:32:57',
+                'updated_at' => '2024-01-18 20:32:57',
             ),
             23 => 
             array (
@@ -256,8 +256,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 670,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:35',
-                'updated_at' => '2024-01-17 16:11:35',
+                'created_at' => '2024-01-18 20:33:52',
+                'updated_at' => '2024-01-18 20:33:52',
             ),
             24 => 
             array (
@@ -266,8 +266,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 725,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:58',
-                'updated_at' => '2024-01-17 16:11:58',
+                'created_at' => '2024-01-18 20:34:32',
+                'updated_at' => '2024-01-18 20:34:32',
             ),
             25 => 
             array (
@@ -276,8 +276,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 748,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:05',
-                'updated_at' => '2024-01-17 16:12:05',
+                'created_at' => '2024-01-18 20:34:48',
+                'updated_at' => '2024-01-18 20:34:48',
             ),
             26 => 
             array (
@@ -286,8 +286,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 768,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:12',
-                'updated_at' => '2024-01-17 16:12:12',
+                'created_at' => '2024-01-18 20:35:03',
+                'updated_at' => '2024-01-18 20:35:03',
             ),
             27 => 
             array (
@@ -296,8 +296,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 802,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:22',
-                'updated_at' => '2024-01-17 16:12:22',
+                'created_at' => '2024-01-18 20:35:28',
+                'updated_at' => '2024-01-18 20:35:28',
             ),
             28 => 
             array (
@@ -306,8 +306,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 814,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:26',
-                'updated_at' => '2024-01-17 16:12:26',
+                'created_at' => '2024-01-18 20:35:37',
+                'updated_at' => '2024-01-18 20:35:37',
             ),
             29 => 
             array (
@@ -316,8 +316,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 823,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:29',
-                'updated_at' => '2024-01-17 16:12:29',
+                'created_at' => '2024-01-18 20:35:43',
+                'updated_at' => '2024-01-18 20:35:43',
             ),
             30 => 
             array (
@@ -326,8 +326,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 901,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:55',
-                'updated_at' => '2024-01-17 16:12:55',
+                'created_at' => '2024-01-18 20:36:41',
+                'updated_at' => '2024-01-18 20:36:41',
             ),
             31 => 
             array (
@@ -336,8 +336,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 940,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:07',
-                'updated_at' => '2024-01-17 16:13:07',
+                'created_at' => '2024-01-18 20:37:10',
+                'updated_at' => '2024-01-18 20:37:10',
             ),
             32 => 
             array (
@@ -346,8 +346,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 979,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:23',
-                'updated_at' => '2024-01-17 16:13:23',
+                'created_at' => '2024-01-18 20:37:39',
+                'updated_at' => '2024-01-18 20:37:39',
             ),
             33 => 
             array (
@@ -356,8 +356,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1036,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:42',
-                'updated_at' => '2024-01-17 16:13:42',
+                'created_at' => '2024-01-18 20:38:21',
+                'updated_at' => '2024-01-18 20:38:21',
             ),
             34 => 
             array (
@@ -366,8 +366,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1051,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:46',
-                'updated_at' => '2024-01-17 16:13:46',
+                'created_at' => '2024-01-18 20:38:32',
+                'updated_at' => '2024-01-18 20:38:32',
             ),
             35 => 
             array (
@@ -376,8 +376,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1055,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:47',
-                'updated_at' => '2024-01-17 16:13:47',
+                'created_at' => '2024-01-18 20:38:35',
+                'updated_at' => '2024-01-18 20:38:35',
             ),
             36 => 
             array (
@@ -386,8 +386,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1067,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:51',
-                'updated_at' => '2024-01-17 16:13:51',
+                'created_at' => '2024-01-18 20:38:44',
+                'updated_at' => '2024-01-18 20:38:44',
             ),
             37 => 
             array (
@@ -396,8 +396,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1098,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:02',
-                'updated_at' => '2024-01-17 16:14:02',
+                'created_at' => '2024-01-18 20:39:07',
+                'updated_at' => '2024-01-18 20:39:07',
             ),
             38 => 
             array (
@@ -406,8 +406,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1186,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:29',
-                'updated_at' => '2024-01-17 16:14:29',
+                'created_at' => '2024-01-18 20:40:13',
+                'updated_at' => '2024-01-18 20:40:13',
             ),
             39 => 
             array (
@@ -416,8 +416,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1245,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:47',
-                'updated_at' => '2024-01-17 16:14:47',
+                'created_at' => '2024-01-18 20:40:56',
+                'updated_at' => '2024-01-18 20:40:56',
             ),
             40 => 
             array (
@@ -426,8 +426,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1278,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:57',
-                'updated_at' => '2024-01-17 16:14:57',
+                'created_at' => '2024-01-18 20:41:21',
+                'updated_at' => '2024-01-18 20:41:21',
             ),
             41 => 
             array (
@@ -436,8 +436,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1326,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:11',
-                'updated_at' => '2024-01-17 16:15:11',
+                'created_at' => '2024-01-18 20:41:57',
+                'updated_at' => '2024-01-18 20:41:57',
             ),
             42 => 
             array (
@@ -446,8 +446,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1344,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:17',
-                'updated_at' => '2024-01-17 16:15:17',
+                'created_at' => '2024-01-18 20:42:11',
+                'updated_at' => '2024-01-18 20:42:11',
             ),
             43 => 
             array (
@@ -456,8 +456,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1360,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:22',
-                'updated_at' => '2024-01-17 16:15:22',
+                'created_at' => '2024-01-18 20:42:23',
+                'updated_at' => '2024-01-18 20:42:23',
             ),
             44 => 
             array (
@@ -466,8 +466,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1372,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:25',
-                'updated_at' => '2024-01-17 16:15:25',
+                'created_at' => '2024-01-18 20:42:32',
+                'updated_at' => '2024-01-18 20:42:32',
             ),
             45 => 
             array (
@@ -476,8 +476,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1399,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:34',
-                'updated_at' => '2024-01-17 16:15:34',
+                'created_at' => '2024-01-18 20:42:52',
+                'updated_at' => '2024-01-18 20:42:52',
             ),
             46 => 
             array (
@@ -486,8 +486,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1432,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:44',
-                'updated_at' => '2024-01-17 16:15:44',
+                'created_at' => '2024-01-18 20:43:18',
+                'updated_at' => '2024-01-18 20:43:18',
             ),
             47 => 
             array (
@@ -496,8 +496,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1500,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:05',
-                'updated_at' => '2024-01-17 16:16:05',
+                'created_at' => '2024-01-18 20:44:09',
+                'updated_at' => '2024-01-18 20:44:09',
             ),
             48 => 
             array (
@@ -506,8 +506,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1576,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:28',
-                'updated_at' => '2024-01-17 16:16:28',
+                'created_at' => '2024-01-18 20:45:05',
+                'updated_at' => '2024-01-18 20:45:05',
             ),
             49 => 
             array (
@@ -516,8 +516,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1581,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:30',
-                'updated_at' => '2024-01-17 16:16:30',
+                'created_at' => '2024-01-18 20:45:08',
+                'updated_at' => '2024-01-18 20:45:08',
             ),
             50 => 
             array (
@@ -526,8 +526,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1588,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:32',
-                'updated_at' => '2024-01-17 16:16:32',
+                'created_at' => '2024-01-18 20:45:14',
+                'updated_at' => '2024-01-18 20:45:14',
             ),
             51 => 
             array (
@@ -536,8 +536,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1622,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:43',
-                'updated_at' => '2024-01-17 16:16:43',
+                'created_at' => '2024-01-18 20:45:39',
+                'updated_at' => '2024-01-18 20:45:39',
             ),
             52 => 
             array (
@@ -546,8 +546,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1632,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:46',
-                'updated_at' => '2024-01-17 16:16:46',
+                'created_at' => '2024-01-18 20:45:47',
+                'updated_at' => '2024-01-18 20:45:47',
             ),
             53 => 
             array (
@@ -556,8 +556,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1696,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:06',
-                'updated_at' => '2024-01-17 16:17:06',
+                'created_at' => '2024-01-18 20:46:34',
+                'updated_at' => '2024-01-18 20:46:34',
             ),
             54 => 
             array (
@@ -566,8 +566,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1726,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:15',
-                'updated_at' => '2024-01-17 16:17:15',
+                'created_at' => '2024-01-18 20:46:56',
+                'updated_at' => '2024-01-18 20:46:56',
             ),
             55 => 
             array (
@@ -576,8 +576,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1732,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:17',
-                'updated_at' => '2024-01-17 16:17:17',
+                'created_at' => '2024-01-18 20:47:00',
+                'updated_at' => '2024-01-18 20:47:00',
             ),
             56 => 
             array (
@@ -586,8 +586,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1750,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:22',
-                'updated_at' => '2024-01-17 16:17:22',
+                'created_at' => '2024-01-18 20:47:13',
+                'updated_at' => '2024-01-18 20:47:13',
             ),
             57 => 
             array (
@@ -596,8 +596,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1783,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:33',
-                'updated_at' => '2024-01-17 16:17:33',
+                'created_at' => '2024-01-18 20:47:37',
+                'updated_at' => '2024-01-18 20:47:37',
             ),
             58 => 
             array (
@@ -606,8 +606,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1907,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:11',
-                'updated_at' => '2024-01-17 16:18:11',
+                'created_at' => '2024-01-18 20:49:08',
+                'updated_at' => '2024-01-18 20:49:08',
             ),
             59 => 
             array (
@@ -616,8 +616,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1914,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:13',
-                'updated_at' => '2024-01-17 16:18:13',
+                'created_at' => '2024-01-18 20:49:13',
+                'updated_at' => '2024-01-18 20:49:13',
             ),
             60 => 
             array (
@@ -626,8 +626,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1943,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:22',
-                'updated_at' => '2024-01-17 16:18:22',
+                'created_at' => '2024-01-18 20:49:35',
+                'updated_at' => '2024-01-18 20:49:35',
             ),
             61 => 
             array (
@@ -636,8 +636,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1949,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:24',
-                'updated_at' => '2024-01-17 16:18:24',
+                'created_at' => '2024-01-18 20:49:40',
+                'updated_at' => '2024-01-18 20:49:40',
             ),
             62 => 
             array (
@@ -646,8 +646,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1971,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:30',
-                'updated_at' => '2024-01-17 16:18:30',
+                'created_at' => '2024-01-18 20:49:56',
+                'updated_at' => '2024-01-18 20:49:56',
             ),
             63 => 
             array (
@@ -656,8 +656,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1997,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:38',
-                'updated_at' => '2024-01-17 16:18:38',
+                'created_at' => '2024-01-18 20:50:16',
+                'updated_at' => '2024-01-18 20:50:16',
             ),
             64 => 
             array (
@@ -666,8 +666,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2058,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:57',
-                'updated_at' => '2024-01-17 16:18:57',
+                'created_at' => '2024-01-18 20:51:04',
+                'updated_at' => '2024-01-18 20:51:04',
             ),
             65 => 
             array (
@@ -676,8 +676,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2068,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:00',
-                'updated_at' => '2024-01-17 16:19:00',
+                'created_at' => '2024-01-18 20:51:11',
+                'updated_at' => '2024-01-18 20:51:11',
             ),
             66 => 
             array (
@@ -686,8 +686,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2076,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:02',
-                'updated_at' => '2024-01-17 16:19:02',
+                'created_at' => '2024-01-18 20:51:17',
+                'updated_at' => '2024-01-18 20:51:17',
             ),
             67 => 
             array (
@@ -696,8 +696,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2077,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:03',
-                'updated_at' => '2024-01-17 16:19:03',
+                'created_at' => '2024-01-18 20:51:18',
+                'updated_at' => '2024-01-18 20:51:18',
             ),
             68 => 
             array (
@@ -706,8 +706,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2127,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:18',
-                'updated_at' => '2024-01-17 16:19:18',
+                'created_at' => '2024-01-18 20:51:55',
+                'updated_at' => '2024-01-18 20:51:55',
             ),
             69 => 
             array (
@@ -716,8 +716,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2184,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:35',
-                'updated_at' => '2024-01-17 16:19:35',
+                'created_at' => '2024-01-18 20:52:38',
+                'updated_at' => '2024-01-18 20:52:38',
             ),
             70 => 
             array (
@@ -726,8 +726,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2277,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:04',
-                'updated_at' => '2024-01-17 16:20:04',
+                'created_at' => '2024-01-18 20:53:49',
+                'updated_at' => '2024-01-18 20:53:49',
             ),
             71 => 
             array (
@@ -736,8 +736,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2383,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:38',
-                'updated_at' => '2024-01-17 16:20:38',
+                'created_at' => '2024-01-18 20:55:10',
+                'updated_at' => '2024-01-18 20:55:10',
             ),
             72 => 
             array (
@@ -746,8 +746,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2404,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:45',
-                'updated_at' => '2024-01-17 16:20:45',
+                'created_at' => '2024-01-18 20:55:27',
+                'updated_at' => '2024-01-18 20:55:27',
             ),
             73 => 
             array (
@@ -756,8 +756,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2425,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:51',
-                'updated_at' => '2024-01-17 16:20:51',
+                'created_at' => '2024-01-18 20:55:44',
+                'updated_at' => '2024-01-18 20:55:44',
             ),
             74 => 
             array (
@@ -766,8 +766,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2434,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:54',
-                'updated_at' => '2024-01-17 16:20:54',
+                'created_at' => '2024-01-18 20:55:51',
+                'updated_at' => '2024-01-18 20:55:51',
             ),
             75 => 
             array (
@@ -776,8 +776,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2436,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:55',
-                'updated_at' => '2024-01-17 16:20:55',
+                'created_at' => '2024-01-18 20:55:52',
+                'updated_at' => '2024-01-18 20:55:52',
             ),
             76 => 
             array (
@@ -786,8 +786,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2448,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:58',
-                'updated_at' => '2024-01-17 16:20:58',
+                'created_at' => '2024-01-18 20:56:02',
+                'updated_at' => '2024-01-18 20:56:02',
             ),
             77 => 
             array (
@@ -796,8 +796,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2471,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:06',
-                'updated_at' => '2024-01-17 16:21:06',
+                'created_at' => '2024-01-18 20:56:20',
+                'updated_at' => '2024-01-18 20:56:20',
             ),
             78 => 
             array (
@@ -806,8 +806,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2543,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:28',
-                'updated_at' => '2024-01-17 16:21:28',
+                'created_at' => '2024-01-18 20:57:17',
+                'updated_at' => '2024-01-18 20:57:17',
             ),
             79 => 
             array (
@@ -816,8 +816,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2545,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:29',
-                'updated_at' => '2024-01-17 16:21:29',
+                'created_at' => '2024-01-18 20:57:19',
+                'updated_at' => '2024-01-18 20:57:19',
             ),
             80 => 
             array (
@@ -826,8 +826,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2566,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:36',
-                'updated_at' => '2024-01-17 16:21:36',
+                'created_at' => '2024-01-18 20:57:36',
+                'updated_at' => '2024-01-18 20:57:36',
             ),
             81 => 
             array (
@@ -836,8 +836,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2595,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:45',
-                'updated_at' => '2024-01-17 16:21:45',
+                'created_at' => '2024-01-18 20:57:58',
+                'updated_at' => '2024-01-18 20:57:58',
             ),
             82 => 
             array (
@@ -846,8 +846,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2617,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:52',
-                'updated_at' => '2024-01-17 16:21:52',
+                'created_at' => '2024-01-18 20:58:16',
+                'updated_at' => '2024-01-18 20:58:16',
             ),
             83 => 
             array (
@@ -856,8 +856,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2623,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:53',
-                'updated_at' => '2024-01-17 16:21:53',
+                'created_at' => '2024-01-18 20:58:20',
+                'updated_at' => '2024-01-18 20:58:20',
             ),
             84 => 
             array (
@@ -866,8 +866,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2627,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:55',
-                'updated_at' => '2024-01-17 16:21:55',
+                'created_at' => '2024-01-18 20:58:23',
+                'updated_at' => '2024-01-18 20:58:23',
             ),
             85 => 
             array (
@@ -876,8 +876,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2642,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:59',
-                'updated_at' => '2024-01-17 16:21:59',
+                'created_at' => '2024-01-18 20:58:35',
+                'updated_at' => '2024-01-18 20:58:35',
             ),
             86 => 
             array (
@@ -886,8 +886,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2662,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:05',
-                'updated_at' => '2024-01-17 16:22:05',
+                'created_at' => '2024-01-18 20:58:50',
+                'updated_at' => '2024-01-18 20:58:50',
             ),
             87 => 
             array (
@@ -896,8 +896,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2682,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:11',
-                'updated_at' => '2024-01-17 16:22:11',
+                'created_at' => '2024-01-18 20:59:06',
+                'updated_at' => '2024-01-18 20:59:06',
             ),
             88 => 
             array (
@@ -906,8 +906,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2707,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:19',
-                'updated_at' => '2024-01-17 16:22:19',
+                'created_at' => '2024-01-18 20:59:25',
+                'updated_at' => '2024-01-18 20:59:25',
             ),
             89 => 
             array (
@@ -916,8 +916,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2728,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:26',
-                'updated_at' => '2024-01-17 16:22:26',
+                'created_at' => '2024-01-18 20:59:41',
+                'updated_at' => '2024-01-18 20:59:41',
             ),
             90 => 
             array (
@@ -926,8 +926,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2760,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:36',
-                'updated_at' => '2024-01-17 16:22:36',
+                'created_at' => '2024-01-18 21:00:06',
+                'updated_at' => '2024-01-18 21:00:06',
             ),
             91 => 
             array (
@@ -936,8 +936,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2770,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:39',
-                'updated_at' => '2024-01-17 16:22:39',
+                'created_at' => '2024-01-18 21:00:13',
+                'updated_at' => '2024-01-18 21:00:13',
             ),
             92 => 
             array (
@@ -946,8 +946,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2867,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:09',
-                'updated_at' => '2024-01-17 16:23:09',
+                'created_at' => '2024-01-18 21:01:28',
+                'updated_at' => '2024-01-18 21:01:28',
             ),
             93 => 
             array (
@@ -956,8 +956,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2873,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:11',
-                'updated_at' => '2024-01-17 16:23:11',
+                'created_at' => '2024-01-18 21:01:32',
+                'updated_at' => '2024-01-18 21:01:32',
             ),
             94 => 
             array (
@@ -966,8 +966,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2885,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:15',
-                'updated_at' => '2024-01-17 16:23:15',
+                'created_at' => '2024-01-18 21:01:41',
+                'updated_at' => '2024-01-18 21:01:41',
             ),
             95 => 
             array (
@@ -976,8 +976,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2905,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:21',
-                'updated_at' => '2024-01-17 16:23:21',
+                'created_at' => '2024-01-18 21:01:57',
+                'updated_at' => '2024-01-18 21:01:57',
             ),
             96 => 
             array (
@@ -986,8 +986,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3040,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:03',
-                'updated_at' => '2024-01-17 16:24:03',
+                'created_at' => '2024-01-18 21:03:43',
+                'updated_at' => '2024-01-18 21:03:43',
             ),
             97 => 
             array (
@@ -996,8 +996,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3059,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:08',
-                'updated_at' => '2024-01-17 16:24:08',
+                'created_at' => '2024-01-18 21:03:59',
+                'updated_at' => '2024-01-18 21:03:59',
             ),
             98 => 
             array (
@@ -1006,8 +1006,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3079,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:14',
-                'updated_at' => '2024-01-17 16:24:14',
+                'created_at' => '2024-01-18 21:04:14',
+                'updated_at' => '2024-01-18 21:04:14',
             ),
             99 => 
             array (
@@ -1016,8 +1016,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3085,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:16',
-                'updated_at' => '2024-01-17 16:24:16',
+                'created_at' => '2024-01-18 21:04:19',
+                'updated_at' => '2024-01-18 21:04:19',
             ),
             100 => 
             array (
@@ -1026,8 +1026,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3093,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:19',
-                'updated_at' => '2024-01-17 16:24:19',
+                'created_at' => '2024-01-18 21:04:25',
+                'updated_at' => '2024-01-18 21:04:25',
             ),
             101 => 
             array (
@@ -1036,8 +1036,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3169,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:42',
-                'updated_at' => '2024-01-17 16:24:42',
+                'created_at' => '2024-01-18 21:05:23',
+                'updated_at' => '2024-01-18 21:05:23',
             ),
             102 => 
             array (
@@ -1046,8 +1046,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3201,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:52',
-                'updated_at' => '2024-01-17 16:24:52',
+                'created_at' => '2024-01-18 21:05:48',
+                'updated_at' => '2024-01-18 21:05:48',
             ),
             103 => 
             array (
@@ -1056,8 +1056,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3203,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:52',
-                'updated_at' => '2024-01-17 16:24:52',
+                'created_at' => '2024-01-18 21:05:49',
+                'updated_at' => '2024-01-18 21:05:49',
             ),
             104 => 
             array (
@@ -1066,8 +1066,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3223,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:00',
-                'updated_at' => '2024-01-17 16:25:00',
+                'created_at' => '2024-01-18 21:06:04',
+                'updated_at' => '2024-01-18 21:06:04',
             ),
             105 => 
             array (
@@ -1076,8 +1076,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3231,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:02',
-                'updated_at' => '2024-01-17 16:25:02',
+                'created_at' => '2024-01-18 21:06:10',
+                'updated_at' => '2024-01-18 21:06:10',
             ),
             106 => 
             array (
@@ -1086,8 +1086,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3249,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:08',
-                'updated_at' => '2024-01-17 16:25:08',
+                'created_at' => '2024-01-18 21:06:24',
+                'updated_at' => '2024-01-18 21:06:24',
             ),
             107 => 
             array (
@@ -1096,8 +1096,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3275,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:16',
-                'updated_at' => '2024-01-17 16:25:16',
+                'created_at' => '2024-01-18 21:06:44',
+                'updated_at' => '2024-01-18 21:06:44',
             ),
             108 => 
             array (
@@ -1106,8 +1106,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3296,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:23',
-                'updated_at' => '2024-01-17 16:25:23',
+                'created_at' => '2024-01-18 21:07:00',
+                'updated_at' => '2024-01-18 21:07:00',
             ),
             109 => 
             array (
@@ -1116,8 +1116,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3365,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:44',
-                'updated_at' => '2024-01-17 16:25:44',
+                'created_at' => '2024-01-18 21:07:54',
+                'updated_at' => '2024-01-18 21:07:54',
             ),
             110 => 
             array (
@@ -1126,8 +1126,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3521,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:34',
-                'updated_at' => '2024-01-17 16:26:34',
+                'created_at' => '2024-01-18 21:09:55',
+                'updated_at' => '2024-01-18 21:09:55',
             ),
             111 => 
             array (
@@ -1136,8 +1136,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3547,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:43',
-                'updated_at' => '2024-01-17 16:26:43',
+                'created_at' => '2024-01-18 21:10:15',
+                'updated_at' => '2024-01-18 21:10:15',
             ),
             112 => 
             array (
@@ -1146,8 +1146,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3573,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:51',
-                'updated_at' => '2024-01-17 16:26:51',
+                'created_at' => '2024-01-18 21:10:35',
+                'updated_at' => '2024-01-18 21:10:35',
             ),
             113 => 
             array (
@@ -1156,8 +1156,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3611,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:03',
-                'updated_at' => '2024-01-17 16:27:03',
+                'created_at' => '2024-01-18 21:11:04',
+                'updated_at' => '2024-01-18 21:11:04',
             ),
             114 => 
             array (
@@ -1166,8 +1166,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3645,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:14',
-                'updated_at' => '2024-01-17 16:27:14',
+                'created_at' => '2024-01-18 21:11:30',
+                'updated_at' => '2024-01-18 21:11:30',
             ),
             115 => 
             array (
@@ -1176,8 +1176,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3722,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:38',
-                'updated_at' => '2024-01-17 16:27:38',
+                'created_at' => '2024-01-18 21:12:29',
+                'updated_at' => '2024-01-18 21:12:29',
             ),
             116 => 
             array (
@@ -1186,8 +1186,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3738,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:43',
-                'updated_at' => '2024-01-17 16:27:43',
+                'created_at' => '2024-01-18 21:12:42',
+                'updated_at' => '2024-01-18 21:12:42',
             ),
             117 => 
             array (
@@ -1196,8 +1196,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3751,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:48',
-                'updated_at' => '2024-01-17 16:27:48',
+                'created_at' => '2024-01-18 21:12:52',
+                'updated_at' => '2024-01-18 21:12:52',
             ),
             118 => 
             array (
@@ -1206,8 +1206,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3756,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:49',
-                'updated_at' => '2024-01-17 16:27:49',
+                'created_at' => '2024-01-18 21:12:56',
+                'updated_at' => '2024-01-18 21:12:56',
             ),
             119 => 
             array (
@@ -1216,8 +1216,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 3822,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:28:10',
-            'updated_at' => '2024-01-17 16:28:10',
+            'created_at' => '2024-01-18 21:13:47',
+            'updated_at' => '2024-01-18 21:13:47',
         ),
         120 => 
         array (
@@ -1226,8 +1226,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 3844,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:28:16',
-            'updated_at' => '2024-01-17 16:28:16',
+            'created_at' => '2024-01-18 21:14:05',
+            'updated_at' => '2024-01-18 21:14:05',
         ),
         121 => 
         array (
@@ -1236,8 +1236,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 3847,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:28:17',
-            'updated_at' => '2024-01-17 16:28:17',
+            'created_at' => '2024-01-18 21:14:07',
+            'updated_at' => '2024-01-18 21:14:07',
         ),
         122 => 
         array (
@@ -1246,8 +1246,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 3866,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:28:23',
-            'updated_at' => '2024-01-17 16:28:23',
+            'created_at' => '2024-01-18 21:14:22',
+            'updated_at' => '2024-01-18 21:14:22',
         ),
         123 => 
         array (
@@ -1256,8 +1256,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 3897,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:28:32',
-            'updated_at' => '2024-01-17 16:28:32',
+            'created_at' => '2024-01-18 21:14:46',
+            'updated_at' => '2024-01-18 21:14:46',
         ),
         124 => 
         array (
@@ -1266,8 +1266,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4024,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:12',
-            'updated_at' => '2024-01-17 16:29:12',
+            'created_at' => '2024-01-18 21:16:27',
+            'updated_at' => '2024-01-18 21:16:27',
         ),
         125 => 
         array (
@@ -1276,8 +1276,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4031,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:14',
-            'updated_at' => '2024-01-17 16:29:14',
+            'created_at' => '2024-01-18 21:16:33',
+            'updated_at' => '2024-01-18 21:16:33',
         ),
         126 => 
         array (
@@ -1286,8 +1286,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4091,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:33',
-            'updated_at' => '2024-01-17 16:29:33',
+            'created_at' => '2024-01-18 21:17:20',
+            'updated_at' => '2024-01-18 21:17:20',
         ),
         127 => 
         array (
@@ -1296,8 +1296,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4093,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:33',
-            'updated_at' => '2024-01-17 16:29:33',
+            'created_at' => '2024-01-18 21:17:22',
+            'updated_at' => '2024-01-18 21:17:22',
         ),
         128 => 
         array (
@@ -1306,8 +1306,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4109,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:38',
-            'updated_at' => '2024-01-17 16:29:38',
+            'created_at' => '2024-01-18 21:17:34',
+            'updated_at' => '2024-01-18 21:17:34',
         ),
         129 => 
         array (
@@ -1316,8 +1316,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4165,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:55',
-            'updated_at' => '2024-01-17 16:29:55',
+            'created_at' => '2024-01-18 21:18:17',
+            'updated_at' => '2024-01-18 21:18:17',
         ),
         130 => 
         array (
@@ -1326,8 +1326,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4173,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:58',
-            'updated_at' => '2024-01-17 16:29:58',
+            'created_at' => '2024-01-18 21:18:23',
+            'updated_at' => '2024-01-18 21:18:23',
         ),
         131 => 
         array (
@@ -1336,8 +1336,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4178,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:29:59',
-            'updated_at' => '2024-01-17 16:29:59',
+            'created_at' => '2024-01-18 21:18:27',
+            'updated_at' => '2024-01-18 21:18:27',
         ),
         132 => 
         array (
@@ -1346,8 +1346,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4188,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:03',
-            'updated_at' => '2024-01-17 16:30:03',
+            'created_at' => '2024-01-18 21:18:35',
+            'updated_at' => '2024-01-18 21:18:35',
         ),
         133 => 
         array (
@@ -1356,8 +1356,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4202,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:07',
-            'updated_at' => '2024-01-17 16:30:07',
+            'created_at' => '2024-01-18 21:18:46',
+            'updated_at' => '2024-01-18 21:18:46',
         ),
         134 => 
         array (
@@ -1366,8 +1366,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4203,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:07',
-            'updated_at' => '2024-01-17 16:30:07',
+            'created_at' => '2024-01-18 21:18:46',
+            'updated_at' => '2024-01-18 21:18:46',
         ),
         135 => 
         array (
@@ -1376,8 +1376,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4228,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:15',
-            'updated_at' => '2024-01-17 16:30:15',
+            'created_at' => '2024-01-18 21:19:06',
+            'updated_at' => '2024-01-18 21:19:06',
         ),
         136 => 
         array (
@@ -1386,8 +1386,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4299,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:38',
-            'updated_at' => '2024-01-17 16:30:38',
+            'created_at' => '2024-01-18 21:20:03',
+            'updated_at' => '2024-01-18 21:20:03',
         ),
         137 => 
         array (
@@ -1396,8 +1396,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4336,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:50',
-            'updated_at' => '2024-01-17 16:30:50',
+            'created_at' => '2024-01-18 21:20:32',
+            'updated_at' => '2024-01-18 21:20:32',
         ),
         138 => 
         array (
@@ -1406,8 +1406,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4358,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:30:56',
-            'updated_at' => '2024-01-17 16:30:56',
+            'created_at' => '2024-01-18 21:20:49',
+            'updated_at' => '2024-01-18 21:20:49',
         ),
         139 => 
         array (
@@ -1416,8 +1416,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4496,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:31:40',
-            'updated_at' => '2024-01-17 16:31:40',
+            'created_at' => '2024-01-18 21:22:39',
+            'updated_at' => '2024-01-18 21:22:39',
         ),
         140 => 
         array (
@@ -1426,8 +1426,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4533,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:31:51',
-            'updated_at' => '2024-01-17 16:31:51',
+            'created_at' => '2024-01-18 21:23:12',
+            'updated_at' => '2024-01-18 21:23:12',
         ),
         141 => 
         array (
@@ -1436,8 +1436,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4571,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:03',
-            'updated_at' => '2024-01-17 16:32:03',
+            'created_at' => '2024-01-18 21:23:42',
+            'updated_at' => '2024-01-18 21:23:42',
         ),
         142 => 
         array (
@@ -1446,8 +1446,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4580,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:06',
-            'updated_at' => '2024-01-17 16:32:06',
+            'created_at' => '2024-01-18 21:23:51',
+            'updated_at' => '2024-01-18 21:23:51',
         ),
         143 => 
         array (
@@ -1456,8 +1456,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4589,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:08',
-            'updated_at' => '2024-01-17 16:32:08',
+            'created_at' => '2024-01-18 21:23:58',
+            'updated_at' => '2024-01-18 21:23:58',
         ),
         144 => 
         array (
@@ -1466,8 +1466,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4600,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:12',
-            'updated_at' => '2024-01-17 16:32:12',
+            'created_at' => '2024-01-18 21:24:06',
+            'updated_at' => '2024-01-18 21:24:06',
         ),
         145 => 
         array (
@@ -1476,8 +1476,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4645,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:26',
-            'updated_at' => '2024-01-17 16:32:26',
+            'created_at' => '2024-01-18 21:24:42',
+            'updated_at' => '2024-01-18 21:24:42',
         ),
         146 => 
         array (
@@ -1486,8 +1486,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4652,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:28',
-            'updated_at' => '2024-01-17 16:32:28',
+            'created_at' => '2024-01-18 21:24:47',
+            'updated_at' => '2024-01-18 21:24:47',
         ),
         147 => 
         array (
@@ -1496,8 +1496,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4676,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:35',
-            'updated_at' => '2024-01-17 16:32:35',
+            'created_at' => '2024-01-18 21:25:06',
+            'updated_at' => '2024-01-18 21:25:06',
         ),
         148 => 
         array (
@@ -1506,8 +1506,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4681,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:37',
-            'updated_at' => '2024-01-17 16:32:37',
+            'created_at' => '2024-01-18 21:25:10',
+            'updated_at' => '2024-01-18 21:25:10',
         ),
         149 => 
         array (
@@ -1516,8 +1516,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4682,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:32:37',
-            'updated_at' => '2024-01-17 16:32:37',
+            'created_at' => '2024-01-18 21:25:11',
+            'updated_at' => '2024-01-18 21:25:11',
         ),
         150 => 
         array (
@@ -1526,8 +1526,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4814,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:33:18',
-            'updated_at' => '2024-01-17 16:33:18',
+            'created_at' => '2024-01-18 21:26:56',
+            'updated_at' => '2024-01-18 21:26:56',
         ),
         151 => 
         array (
@@ -1536,8 +1536,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4823,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:33:21',
-            'updated_at' => '2024-01-17 16:33:21',
+            'created_at' => '2024-01-18 21:27:02',
+            'updated_at' => '2024-01-18 21:27:02',
         ),
         152 => 
         array (
@@ -1546,8 +1546,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4840,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:33:26',
-            'updated_at' => '2024-01-17 16:33:26',
+            'created_at' => '2024-01-18 21:27:16',
+            'updated_at' => '2024-01-18 21:27:16',
         ),
         153 => 
         array (
@@ -1556,8 +1556,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4844,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:33:28',
-            'updated_at' => '2024-01-17 16:33:28',
+            'created_at' => '2024-01-18 21:27:19',
+            'updated_at' => '2024-01-18 21:27:19',
         ),
         154 => 
         array (
@@ -1566,8 +1566,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4886,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:33:41',
-            'updated_at' => '2024-01-17 16:33:41',
+            'created_at' => '2024-01-18 21:27:53',
+            'updated_at' => '2024-01-18 21:27:53',
         ),
         155 => 
         array (
@@ -1576,8 +1576,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 4963,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:34:05',
-            'updated_at' => '2024-01-17 16:34:05',
+            'created_at' => '2024-01-18 21:28:54',
+            'updated_at' => '2024-01-18 21:28:54',
         ),
         156 => 
         array (
@@ -1586,8 +1586,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5001,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:34:17',
-            'updated_at' => '2024-01-17 16:34:17',
+            'created_at' => '2024-01-18 21:29:24',
+            'updated_at' => '2024-01-18 21:29:24',
         ),
         157 => 
         array (
@@ -1596,8 +1596,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5106,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:34:49',
-            'updated_at' => '2024-01-17 16:34:49',
+            'created_at' => '2024-01-18 21:30:48',
+            'updated_at' => '2024-01-18 21:30:48',
         ),
         158 => 
         array (
@@ -1606,8 +1606,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5134,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:34:58',
-            'updated_at' => '2024-01-17 16:34:58',
+            'created_at' => '2024-01-18 21:31:11',
+            'updated_at' => '2024-01-18 21:31:11',
         ),
         159 => 
         array (
@@ -1616,8 +1616,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5161,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:35:06',
-            'updated_at' => '2024-01-17 16:35:06',
+            'created_at' => '2024-01-18 21:31:33',
+            'updated_at' => '2024-01-18 21:31:33',
         ),
         160 => 
         array (
@@ -1626,8 +1626,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5172,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:35:10',
-            'updated_at' => '2024-01-17 16:35:10',
+            'created_at' => '2024-01-18 21:31:42',
+            'updated_at' => '2024-01-18 21:31:42',
         ),
         161 => 
         array (
@@ -1636,8 +1636,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5324,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:35:57',
-            'updated_at' => '2024-01-17 16:35:57',
+            'created_at' => '2024-01-18 21:33:43',
+            'updated_at' => '2024-01-18 21:33:43',
         ),
         162 => 
         array (
@@ -1646,8 +1646,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5371,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:11',
-            'updated_at' => '2024-01-17 16:36:11',
+            'created_at' => '2024-01-18 21:34:20',
+            'updated_at' => '2024-01-18 21:34:20',
         ),
         163 => 
         array (
@@ -1656,8 +1656,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5380,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:14',
-            'updated_at' => '2024-01-17 16:36:14',
+            'created_at' => '2024-01-18 21:34:27',
+            'updated_at' => '2024-01-18 21:34:27',
         ),
         164 => 
         array (
@@ -1666,8 +1666,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5382,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:15',
-            'updated_at' => '2024-01-17 16:36:15',
+            'created_at' => '2024-01-18 21:34:29',
+            'updated_at' => '2024-01-18 21:34:29',
         ),
         165 => 
         array (
@@ -1676,8 +1676,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5457,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:40',
-            'updated_at' => '2024-01-17 16:36:40',
+            'created_at' => '2024-01-18 21:35:30',
+            'updated_at' => '2024-01-18 21:35:30',
         ),
         166 => 
         array (
@@ -1686,8 +1686,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5464,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:42',
-            'updated_at' => '2024-01-17 16:36:42',
+            'created_at' => '2024-01-18 21:35:36',
+            'updated_at' => '2024-01-18 21:35:36',
         ),
         167 => 
         array (
@@ -1696,8 +1696,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5470,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:44',
-            'updated_at' => '2024-01-17 16:36:44',
+            'created_at' => '2024-01-18 21:35:42',
+            'updated_at' => '2024-01-18 21:35:42',
         ),
         168 => 
         array (
@@ -1706,8 +1706,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5501,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:55',
-            'updated_at' => '2024-01-17 16:36:55',
+            'created_at' => '2024-01-18 21:36:07',
+            'updated_at' => '2024-01-18 21:36:07',
         ),
         169 => 
         array (
@@ -1716,8 +1716,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5503,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:56',
-            'updated_at' => '2024-01-17 16:36:56',
+            'created_at' => '2024-01-18 21:36:08',
+            'updated_at' => '2024-01-18 21:36:08',
         ),
         170 => 
         array (
@@ -1726,8 +1726,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5510,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:36:58',
-            'updated_at' => '2024-01-17 16:36:58',
+            'created_at' => '2024-01-18 21:36:14',
+            'updated_at' => '2024-01-18 21:36:14',
         ),
         171 => 
         array (
@@ -1736,8 +1736,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5521,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:01',
-            'updated_at' => '2024-01-17 16:37:01',
+            'created_at' => '2024-01-18 21:36:22',
+            'updated_at' => '2024-01-18 21:36:22',
         ),
         172 => 
         array (
@@ -1746,8 +1746,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5556,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:12',
-            'updated_at' => '2024-01-17 16:37:12',
+            'created_at' => '2024-01-18 21:36:50',
+            'updated_at' => '2024-01-18 21:36:50',
         ),
         173 => 
         array (
@@ -1756,8 +1756,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5618,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:31',
-            'updated_at' => '2024-01-17 16:37:31',
+            'created_at' => '2024-01-18 21:37:39',
+            'updated_at' => '2024-01-18 21:37:39',
         ),
         174 => 
         array (
@@ -1766,8 +1766,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5659,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:44',
-            'updated_at' => '2024-01-17 16:37:44',
+            'created_at' => '2024-01-18 21:38:14',
+            'updated_at' => '2024-01-18 21:38:14',
         ),
         175 => 
         array (
@@ -1776,8 +1776,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5662,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:45',
-            'updated_at' => '2024-01-17 16:37:45',
+            'created_at' => '2024-01-18 21:38:16',
+            'updated_at' => '2024-01-18 21:38:16',
         ),
         176 => 
         array (
@@ -1786,8 +1786,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5668,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:47',
-            'updated_at' => '2024-01-17 16:37:47',
+            'created_at' => '2024-01-18 21:38:21',
+            'updated_at' => '2024-01-18 21:38:21',
         ),
         177 => 
         array (
@@ -1796,8 +1796,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5692,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:37:54',
-            'updated_at' => '2024-01-17 16:37:54',
+            'created_at' => '2024-01-18 21:38:41',
+            'updated_at' => '2024-01-18 21:38:41',
         ),
         178 => 
         array (
@@ -1806,8 +1806,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5727,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:05',
-            'updated_at' => '2024-01-17 16:38:05',
+            'created_at' => '2024-01-18 21:39:09',
+            'updated_at' => '2024-01-18 21:39:09',
         ),
         179 => 
         array (
@@ -1816,8 +1816,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5757,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:15',
-            'updated_at' => '2024-01-17 16:38:15',
+            'created_at' => '2024-01-18 21:39:33',
+            'updated_at' => '2024-01-18 21:39:33',
         ),
         180 => 
         array (
@@ -1826,8 +1826,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5804,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:29',
-            'updated_at' => '2024-01-17 16:38:29',
+            'created_at' => '2024-01-18 21:40:14',
+            'updated_at' => '2024-01-18 21:40:14',
         ),
         181 => 
         array (
@@ -1836,8 +1836,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5805,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:29',
-            'updated_at' => '2024-01-17 16:38:29',
+            'created_at' => '2024-01-18 21:40:15',
+            'updated_at' => '2024-01-18 21:40:15',
         ),
         182 => 
         array (
@@ -1846,8 +1846,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5817,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:33',
-            'updated_at' => '2024-01-17 16:38:33',
+            'created_at' => '2024-01-18 21:40:24',
+            'updated_at' => '2024-01-18 21:40:24',
         ),
         183 => 
         array (
@@ -1856,8 +1856,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5896,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:57',
-            'updated_at' => '2024-01-17 16:38:57',
+            'created_at' => '2024-01-18 21:41:28',
+            'updated_at' => '2024-01-18 21:41:28',
         ),
         184 => 
         array (
@@ -1866,8 +1866,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5901,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:38:59',
-            'updated_at' => '2024-01-17 16:38:59',
+            'created_at' => '2024-01-18 21:41:33',
+            'updated_at' => '2024-01-18 21:41:33',
         ),
         185 => 
         array (
@@ -1876,8 +1876,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5938,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:11',
-            'updated_at' => '2024-01-17 16:39:11',
+            'created_at' => '2024-01-18 21:42:03',
+            'updated_at' => '2024-01-18 21:42:03',
         ),
         186 => 
         array (
@@ -1886,8 +1886,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5956,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:16',
-            'updated_at' => '2024-01-17 16:39:16',
+            'created_at' => '2024-01-18 21:42:18',
+            'updated_at' => '2024-01-18 21:42:18',
         ),
         187 => 
         array (
@@ -1896,8 +1896,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 5971,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:21',
-            'updated_at' => '2024-01-17 16:39:21',
+            'created_at' => '2024-01-18 21:42:30',
+            'updated_at' => '2024-01-18 21:42:30',
         ),
         188 => 
         array (
@@ -1906,8 +1906,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6012,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:34',
-            'updated_at' => '2024-01-17 16:39:34',
+            'created_at' => '2024-01-18 21:43:05',
+            'updated_at' => '2024-01-18 21:43:05',
         ),
         189 => 
         array (
@@ -1916,8 +1916,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6016,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:35',
-            'updated_at' => '2024-01-17 16:39:35',
+            'created_at' => '2024-01-18 21:43:08',
+            'updated_at' => '2024-01-18 21:43:08',
         ),
         190 => 
         array (
@@ -1926,8 +1926,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6049,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:45',
-            'updated_at' => '2024-01-17 16:39:45',
+            'created_at' => '2024-01-18 21:43:35',
+            'updated_at' => '2024-01-18 21:43:35',
         ),
         191 => 
         array (
@@ -1936,8 +1936,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6074,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:39:53',
-            'updated_at' => '2024-01-17 16:39:53',
+            'created_at' => '2024-01-18 21:43:54',
+            'updated_at' => '2024-01-18 21:43:54',
         ),
         192 => 
         array (
@@ -1946,8 +1946,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6095,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:00',
-            'updated_at' => '2024-01-17 16:40:00',
+            'created_at' => '2024-01-18 21:44:12',
+            'updated_at' => '2024-01-18 21:44:12',
         ),
         193 => 
         array (
@@ -1956,8 +1956,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6114,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:06',
-            'updated_at' => '2024-01-17 16:40:06',
+            'created_at' => '2024-01-18 21:44:27',
+            'updated_at' => '2024-01-18 21:44:27',
         ),
         194 => 
         array (
@@ -1966,8 +1966,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6162,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:20',
-            'updated_at' => '2024-01-17 16:40:20',
+            'created_at' => '2024-01-18 21:45:05',
+            'updated_at' => '2024-01-18 21:45:05',
         ),
         195 => 
         array (
@@ -1976,8 +1976,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6165,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:21',
-            'updated_at' => '2024-01-17 16:40:21',
+            'created_at' => '2024-01-18 21:45:08',
+            'updated_at' => '2024-01-18 21:45:08',
         ),
         196 => 
         array (
@@ -1986,8 +1986,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6211,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:35',
-            'updated_at' => '2024-01-17 16:40:35',
+            'created_at' => '2024-01-18 21:45:44',
+            'updated_at' => '2024-01-18 21:45:44',
         ),
         197 => 
         array (
@@ -1996,8 +1996,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6259,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:50',
-            'updated_at' => '2024-01-17 16:40:50',
+            'created_at' => '2024-01-18 21:46:23',
+            'updated_at' => '2024-01-18 21:46:23',
         ),
         198 => 
         array (
@@ -2006,8 +2006,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6271,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:54',
-            'updated_at' => '2024-01-17 16:40:54',
+            'created_at' => '2024-01-18 21:46:34',
+            'updated_at' => '2024-01-18 21:46:34',
         ),
         199 => 
         array (
@@ -2016,8 +2016,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6281,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:40:57',
-            'updated_at' => '2024-01-17 16:40:57',
+            'created_at' => '2024-01-18 21:46:41',
+            'updated_at' => '2024-01-18 21:46:41',
         ),
         200 => 
         array (
@@ -2026,8 +2026,8 @@ class QualifierNotavailsTableSeeder extends Seeder
             'is_seened' => 0,
             'qualifier_id' => 6326,
             'user_id' => 1,
-            'created_at' => '2024-01-17 16:41:11',
-            'updated_at' => '2024-01-17 16:41:11',
+            'created_at' => '2024-01-18 21:47:18',
+            'updated_at' => '2024-01-18 21:47:18',
         ),
         201 => 
         array (
@@ -2036,8 +2036,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6377,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:27',
-                'updated_at' => '2024-01-17 16:41:27',
+                'created_at' => '2024-01-18 21:47:58',
+                'updated_at' => '2024-01-18 21:47:58',
             ),
             202 => 
             array (
@@ -2046,8 +2046,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6399,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:33',
-                'updated_at' => '2024-01-17 16:41:33',
+                'created_at' => '2024-01-18 21:48:15',
+                'updated_at' => '2024-01-18 21:48:15',
             ),
             203 => 
             array (
@@ -2056,8 +2056,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6420,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:40',
-                'updated_at' => '2024-01-17 16:41:40',
+                'created_at' => '2024-01-18 21:48:32',
+                'updated_at' => '2024-01-18 21:48:32',
             ),
             204 => 
             array (
@@ -2066,8 +2066,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6447,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:48',
-                'updated_at' => '2024-01-17 16:41:48',
+                'created_at' => '2024-01-18 21:48:53',
+                'updated_at' => '2024-01-18 21:48:53',
             ),
             205 => 
             array (
@@ -2076,8 +2076,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6449,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:49',
-                'updated_at' => '2024-01-17 16:41:49',
+                'created_at' => '2024-01-18 21:48:55',
+                'updated_at' => '2024-01-18 21:48:55',
             ),
             206 => 
             array (
@@ -2086,8 +2086,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6451,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:49',
-                'updated_at' => '2024-01-17 16:41:49',
+                'created_at' => '2024-01-18 21:48:56',
+                'updated_at' => '2024-01-18 21:48:56',
             ),
             207 => 
             array (
@@ -2096,8 +2096,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6483,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:59',
-                'updated_at' => '2024-01-17 16:41:59',
+                'created_at' => '2024-01-18 21:49:22',
+                'updated_at' => '2024-01-18 21:49:22',
             ),
             208 => 
             array (
@@ -2106,8 +2106,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6558,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:22',
-                'updated_at' => '2024-01-17 16:42:22',
+                'created_at' => '2024-01-18 21:50:22',
+                'updated_at' => '2024-01-18 21:50:22',
             ),
             209 => 
             array (
@@ -2116,8 +2116,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6562,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:23',
-                'updated_at' => '2024-01-17 16:42:23',
+                'created_at' => '2024-01-18 21:50:26',
+                'updated_at' => '2024-01-18 21:50:26',
             ),
             210 => 
             array (
@@ -2126,8 +2126,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6639,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:47',
-                'updated_at' => '2024-01-17 16:42:47',
+                'created_at' => '2024-01-18 21:51:29',
+                'updated_at' => '2024-01-18 21:51:29',
             ),
             211 => 
             array (
@@ -2136,8 +2136,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6645,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:49',
-                'updated_at' => '2024-01-17 16:42:49',
+                'created_at' => '2024-01-18 21:51:34',
+                'updated_at' => '2024-01-18 21:51:34',
             ),
             212 => 
             array (
@@ -2146,8 +2146,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6660,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:53',
-                'updated_at' => '2024-01-17 16:42:53',
+                'created_at' => '2024-01-18 21:51:46',
+                'updated_at' => '2024-01-18 21:51:46',
             ),
             213 => 
             array (
@@ -2156,8 +2156,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6669,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:56',
-                'updated_at' => '2024-01-17 16:42:56',
+                'created_at' => '2024-01-18 21:51:53',
+                'updated_at' => '2024-01-18 21:51:53',
             ),
             214 => 
             array (
@@ -2166,8 +2166,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6672,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:57',
-                'updated_at' => '2024-01-17 16:42:57',
+                'created_at' => '2024-01-18 21:51:55',
+                'updated_at' => '2024-01-18 21:51:55',
             ),
             215 => 
             array (
@@ -2176,8 +2176,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6767,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:27',
-                'updated_at' => '2024-01-17 16:43:27',
+                'created_at' => '2024-01-18 21:53:13',
+                'updated_at' => '2024-01-18 21:53:13',
             ),
             216 => 
             array (
@@ -2186,8 +2186,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6782,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:32',
-                'updated_at' => '2024-01-17 16:43:32',
+                'created_at' => '2024-01-18 21:53:24',
+                'updated_at' => '2024-01-18 21:53:24',
             ),
             217 => 
             array (
@@ -2196,8 +2196,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6799,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:37',
-                'updated_at' => '2024-01-17 16:43:37',
+                'created_at' => '2024-01-18 21:53:38',
+                'updated_at' => '2024-01-18 21:53:38',
             ),
             218 => 
             array (
@@ -2206,8 +2206,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6854,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:54',
-                'updated_at' => '2024-01-17 16:43:54',
+                'created_at' => '2024-01-18 21:54:24',
+                'updated_at' => '2024-01-18 21:54:24',
             ),
             219 => 
             array (
@@ -2216,8 +2216,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6917,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:44:14',
-                'updated_at' => '2024-01-17 16:44:14',
+                'created_at' => '2024-01-18 21:55:15',
+                'updated_at' => '2024-01-18 21:55:15',
             ),
             220 => 
             array (
@@ -2226,8 +2226,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6922,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:44:15',
-                'updated_at' => '2024-01-17 16:44:15',
+                'created_at' => '2024-01-18 21:55:20',
+                'updated_at' => '2024-01-18 21:55:20',
             ),
             221 => 
             array (
@@ -2236,8 +2236,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6977,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:44:33',
-                'updated_at' => '2024-01-17 16:44:33',
+                'created_at' => '2024-01-18 21:56:09',
+                'updated_at' => '2024-01-18 21:56:09',
             ),
             222 => 
             array (
@@ -2246,8 +2246,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7009,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:44:44',
-                'updated_at' => '2024-01-17 16:44:44',
+                'created_at' => '2024-01-18 21:56:38',
+                'updated_at' => '2024-01-18 21:56:38',
             ),
             223 => 
             array (
@@ -2256,8 +2256,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7015,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:44:46',
-                'updated_at' => '2024-01-17 16:44:46',
+                'created_at' => '2024-01-18 21:56:43',
+                'updated_at' => '2024-01-18 21:56:43',
             ),
             224 => 
             array (
@@ -2266,8 +2266,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7181,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:45:37',
-                'updated_at' => '2024-01-17 16:45:37',
+                'created_at' => '2024-01-18 21:59:05',
+                'updated_at' => '2024-01-18 21:59:05',
             ),
             225 => 
             array (
@@ -2276,8 +2276,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7234,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:45:53',
-                'updated_at' => '2024-01-17 16:45:53',
+                'created_at' => '2024-01-18 21:59:48',
+                'updated_at' => '2024-01-18 21:59:48',
             ),
             226 => 
             array (
@@ -2286,8 +2286,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7270,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:04',
-                'updated_at' => '2024-01-17 16:46:04',
+                'created_at' => '2024-01-18 22:00:17',
+                'updated_at' => '2024-01-18 22:00:17',
             ),
             227 => 
             array (
@@ -2296,8 +2296,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7345,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:27',
-                'updated_at' => '2024-01-17 16:46:27',
+                'created_at' => '2024-01-18 22:01:24',
+                'updated_at' => '2024-01-18 22:01:24',
             ),
             228 => 
             array (
@@ -2306,8 +2306,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7389,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:40',
-                'updated_at' => '2024-01-17 16:46:40',
+                'created_at' => '2024-01-18 22:02:02',
+                'updated_at' => '2024-01-18 22:02:02',
             ),
             229 => 
             array (
@@ -2316,8 +2316,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7427,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:52',
-                'updated_at' => '2024-01-17 16:46:52',
+                'created_at' => '2024-01-18 22:02:33',
+                'updated_at' => '2024-01-18 22:02:33',
             ),
             230 => 
             array (
@@ -2326,8 +2326,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7564,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:47:34',
-                'updated_at' => '2024-01-17 16:47:34',
+                'created_at' => '2024-01-18 22:04:30',
+                'updated_at' => '2024-01-18 22:04:30',
             ),
             231 => 
             array (
@@ -2336,8 +2336,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7588,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:47:42',
-                'updated_at' => '2024-01-17 16:47:42',
+                'created_at' => '2024-01-18 22:04:50',
+                'updated_at' => '2024-01-18 22:04:50',
             ),
             232 => 
             array (
@@ -2346,8 +2346,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7702,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:17',
-                'updated_at' => '2024-01-17 16:48:17',
+                'created_at' => '2024-01-18 22:06:26',
+                'updated_at' => '2024-01-18 22:06:26',
             ),
             233 => 
             array (
@@ -2356,8 +2356,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7733,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:26',
-                'updated_at' => '2024-01-17 16:48:26',
+                'created_at' => '2024-01-18 22:06:51',
+                'updated_at' => '2024-01-18 22:06:51',
             ),
             234 => 
             array (
@@ -2366,8 +2366,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7742,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:29',
-                'updated_at' => '2024-01-17 16:48:29',
+                'created_at' => '2024-01-18 22:06:59',
+                'updated_at' => '2024-01-18 22:06:59',
             ),
             235 => 
             array (
@@ -2376,8 +2376,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7770,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:37',
-                'updated_at' => '2024-01-17 16:48:37',
+                'created_at' => '2024-01-18 22:07:25',
+                'updated_at' => '2024-01-18 22:07:25',
             ),
             236 => 
             array (
@@ -2386,8 +2386,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7783,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:41',
-                'updated_at' => '2024-01-17 16:48:41',
+                'created_at' => '2024-01-18 22:07:37',
+                'updated_at' => '2024-01-18 22:07:37',
             ),
             237 => 
             array (
@@ -2396,8 +2396,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7806,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:48',
-                'updated_at' => '2024-01-17 16:48:48',
+                'created_at' => '2024-01-18 22:07:59',
+                'updated_at' => '2024-01-18 22:07:59',
             ),
             238 => 
             array (
@@ -2406,8 +2406,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7862,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:06',
-                'updated_at' => '2024-01-17 16:49:06',
+                'created_at' => '2024-01-18 22:08:50',
+                'updated_at' => '2024-01-18 22:08:50',
             ),
             239 => 
             array (
@@ -2416,8 +2416,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7869,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:08',
-                'updated_at' => '2024-01-17 16:49:08',
+                'created_at' => '2024-01-18 22:08:56',
+                'updated_at' => '2024-01-18 22:08:56',
             ),
             240 => 
             array (
@@ -2426,8 +2426,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7872,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:09',
-                'updated_at' => '2024-01-17 16:49:09',
+                'created_at' => '2024-01-18 22:08:58',
+                'updated_at' => '2024-01-18 22:08:58',
             ),
             241 => 
             array (
@@ -2436,8 +2436,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7879,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:11',
-                'updated_at' => '2024-01-17 16:49:11',
+                'created_at' => '2024-01-18 22:09:06',
+                'updated_at' => '2024-01-18 22:09:06',
             ),
             242 => 
             array (
@@ -2446,8 +2446,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7941,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:30',
-                'updated_at' => '2024-01-17 16:49:30',
+                'created_at' => '2024-01-18 22:10:02',
+                'updated_at' => '2024-01-18 22:10:02',
             ),
             243 => 
             array (
@@ -2456,8 +2456,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8029,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:56',
-                'updated_at' => '2024-01-17 16:49:56',
+                'created_at' => '2024-01-18 22:11:19',
+                'updated_at' => '2024-01-18 22:11:19',
             ),
             244 => 
             array (
@@ -2466,8 +2466,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8031,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:57',
-                'updated_at' => '2024-01-17 16:49:57',
+                'created_at' => '2024-01-18 22:11:20',
+                'updated_at' => '2024-01-18 22:11:20',
             ),
             245 => 
             array (
@@ -2476,8 +2476,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8036,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:58',
-                'updated_at' => '2024-01-17 16:49:58',
+                'created_at' => '2024-01-18 22:11:24',
+                'updated_at' => '2024-01-18 22:11:24',
             ),
             246 => 
             array (
@@ -2486,8 +2486,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8068,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:08',
-                'updated_at' => '2024-01-17 16:50:08',
+                'created_at' => '2024-01-18 22:11:51',
+                'updated_at' => '2024-01-18 22:11:51',
             ),
             247 => 
             array (
@@ -2496,8 +2496,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8110,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:21',
-                'updated_at' => '2024-01-17 16:50:21',
+                'created_at' => '2024-01-18 22:12:30',
+                'updated_at' => '2024-01-18 22:12:30',
             ),
             248 => 
             array (
@@ -2506,8 +2506,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8152,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:34',
-                'updated_at' => '2024-01-17 16:50:34',
+                'created_at' => '2024-01-18 22:13:07',
+                'updated_at' => '2024-01-18 22:13:07',
             ),
             249 => 
             array (
@@ -2516,8 +2516,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8159,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:36',
-                'updated_at' => '2024-01-17 16:50:36',
+                'created_at' => '2024-01-18 22:13:12',
+                'updated_at' => '2024-01-18 22:13:12',
             ),
             250 => 
             array (
@@ -2526,8 +2526,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8259,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:06',
-                'updated_at' => '2024-01-17 16:51:06',
+                'created_at' => '2024-01-18 22:14:43',
+                'updated_at' => '2024-01-18 22:14:43',
             ),
             251 => 
             array (
@@ -2536,8 +2536,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8304,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:20',
-                'updated_at' => '2024-01-17 16:51:20',
+                'created_at' => '2024-01-18 22:15:22',
+                'updated_at' => '2024-01-18 22:15:22',
             ),
             252 => 
             array (
@@ -2546,8 +2546,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8327,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:27',
-                'updated_at' => '2024-01-17 16:51:27',
+                'created_at' => '2024-01-18 22:15:42',
+                'updated_at' => '2024-01-18 22:15:42',
             ),
             253 => 
             array (
@@ -2556,8 +2556,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8336,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:30',
-                'updated_at' => '2024-01-17 16:51:30',
+                'created_at' => '2024-01-18 22:15:50',
+                'updated_at' => '2024-01-18 22:15:50',
             ),
             254 => 
             array (
@@ -2566,8 +2566,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8365,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:40',
-                'updated_at' => '2024-01-17 16:51:40',
+                'created_at' => '2024-01-18 22:16:13',
+                'updated_at' => '2024-01-18 22:16:13',
             ),
             255 => 
             array (
@@ -2576,8 +2576,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8369,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:41',
-                'updated_at' => '2024-01-17 16:51:41',
+                'created_at' => '2024-01-18 22:16:16',
+                'updated_at' => '2024-01-18 22:16:16',
             ),
             256 => 
             array (
@@ -2586,8 +2586,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8401,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:51',
-                'updated_at' => '2024-01-17 16:51:51',
+                'created_at' => '2024-01-18 22:16:45',
+                'updated_at' => '2024-01-18 22:16:45',
             ),
             257 => 
             array (
@@ -2596,8 +2596,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8427,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:59',
-                'updated_at' => '2024-01-17 16:51:59',
+                'created_at' => '2024-01-18 22:17:07',
+                'updated_at' => '2024-01-18 22:17:07',
             ),
             258 => 
             array (
@@ -2606,8 +2606,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8452,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:07',
-                'updated_at' => '2024-01-17 16:52:07',
+                'created_at' => '2024-01-18 22:17:27',
+                'updated_at' => '2024-01-18 22:17:27',
             ),
             259 => 
             array (
@@ -2616,8 +2616,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8508,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:24',
-                'updated_at' => '2024-01-17 16:52:24',
+                'created_at' => '2024-01-18 22:18:19',
+                'updated_at' => '2024-01-18 22:18:19',
             ),
             260 => 
             array (
@@ -2626,8 +2626,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8525,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:30',
-                'updated_at' => '2024-01-17 16:52:30',
+                'created_at' => '2024-01-18 22:18:32',
+                'updated_at' => '2024-01-18 22:18:32',
             ),
             261 => 
             array (
@@ -2636,8 +2636,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8581,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:48',
-                'updated_at' => '2024-01-17 16:52:48',
+                'created_at' => '2024-01-18 22:19:18',
+                'updated_at' => '2024-01-18 22:19:18',
             ),
             262 => 
             array (
@@ -2646,8 +2646,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8621,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:01',
-                'updated_at' => '2024-01-17 16:53:01',
+                'created_at' => '2024-01-18 22:19:53',
+                'updated_at' => '2024-01-18 22:19:53',
             ),
             263 => 
             array (
@@ -2656,8 +2656,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8645,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:08',
-                'updated_at' => '2024-01-17 16:53:08',
+                'created_at' => '2024-01-18 22:20:18',
+                'updated_at' => '2024-01-18 22:20:18',
             ),
             264 => 
             array (
@@ -2666,8 +2666,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8729,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:35',
-                'updated_at' => '2024-01-17 16:53:35',
+                'created_at' => '2024-01-18 22:21:31',
+                'updated_at' => '2024-01-18 22:21:31',
             ),
             265 => 
             array (
@@ -2676,8 +2676,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8737,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:38',
-                'updated_at' => '2024-01-17 16:53:38',
+                'created_at' => '2024-01-18 22:21:38',
+                'updated_at' => '2024-01-18 22:21:38',
             ),
             266 => 
             array (
@@ -2686,8 +2686,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8752,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:42',
-                'updated_at' => '2024-01-17 16:53:42',
+                'created_at' => '2024-01-18 22:21:53',
+                'updated_at' => '2024-01-18 22:21:53',
             ),
             267 => 
             array (
@@ -2696,8 +2696,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8756,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:44',
-                'updated_at' => '2024-01-17 16:53:44',
+                'created_at' => '2024-01-18 22:21:56',
+                'updated_at' => '2024-01-18 22:21:56',
             ),
             268 => 
             array (
@@ -2706,8 +2706,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8786,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:53',
-                'updated_at' => '2024-01-17 16:53:53',
+                'created_at' => '2024-01-18 22:22:21',
+                'updated_at' => '2024-01-18 22:22:21',
             ),
             269 => 
             array (
@@ -2716,8 +2716,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8873,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:21',
-                'updated_at' => '2024-01-17 16:54:21',
+                'created_at' => '2024-01-18 22:23:43',
+                'updated_at' => '2024-01-18 22:23:43',
             ),
             270 => 
             array (
@@ -2726,8 +2726,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8881,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:23',
-                'updated_at' => '2024-01-17 16:54:23',
+                'created_at' => '2024-01-18 22:23:50',
+                'updated_at' => '2024-01-18 22:23:50',
             ),
             271 => 
             array (
@@ -2736,8 +2736,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8916,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:34',
-                'updated_at' => '2024-01-17 16:54:34',
+                'created_at' => '2024-01-18 22:24:19',
+                'updated_at' => '2024-01-18 22:24:19',
             ),
             272 => 
             array (
@@ -2746,8 +2746,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8952,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:46',
-                'updated_at' => '2024-01-17 16:54:46',
+                'created_at' => '2024-01-18 22:24:51',
+                'updated_at' => '2024-01-18 22:24:51',
             ),
             273 => 
             array (
@@ -2756,8 +2756,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9002,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:03',
-                'updated_at' => '2024-01-17 16:55:03',
+                'created_at' => '2024-01-18 22:25:39',
+                'updated_at' => '2024-01-18 22:25:39',
             ),
             274 => 
             array (
@@ -2766,8 +2766,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9065,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:23',
-                'updated_at' => '2024-01-17 16:55:23',
+                'created_at' => '2024-01-18 22:26:33',
+                'updated_at' => '2024-01-18 22:26:33',
             ),
             275 => 
             array (
@@ -2776,8 +2776,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9135,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:45',
-                'updated_at' => '2024-01-17 16:55:45',
+                'created_at' => '2024-01-18 22:27:38',
+                'updated_at' => '2024-01-18 22:27:38',
             ),
             276 => 
             array (
@@ -2786,8 +2786,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9145,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:48',
-                'updated_at' => '2024-01-17 16:55:48',
+                'created_at' => '2024-01-18 22:27:47',
+                'updated_at' => '2024-01-18 22:27:47',
             ),
             277 => 
             array (
@@ -2796,8 +2796,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9194,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:03',
-                'updated_at' => '2024-01-17 16:56:03',
+                'created_at' => '2024-01-18 22:28:29',
+                'updated_at' => '2024-01-18 22:28:29',
             ),
             278 => 
             array (
@@ -2806,8 +2806,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9262,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:25',
-                'updated_at' => '2024-01-17 16:56:25',
+                'created_at' => '2024-01-18 22:29:31',
+                'updated_at' => '2024-01-18 22:29:31',
             ),
             279 => 
             array (
@@ -2816,8 +2816,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9290,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:34',
-                'updated_at' => '2024-01-17 16:56:34',
+                'created_at' => '2024-01-18 22:29:55',
+                'updated_at' => '2024-01-18 22:29:55',
             ),
             280 => 
             array (
@@ -2826,8 +2826,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9298,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:37',
-                'updated_at' => '2024-01-17 16:56:37',
+                'created_at' => '2024-01-18 22:30:01',
+                'updated_at' => '2024-01-18 22:30:01',
             ),
             281 => 
             array (
@@ -2836,8 +2836,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9311,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:41',
-                'updated_at' => '2024-01-17 16:56:41',
+                'created_at' => '2024-01-18 22:30:12',
+                'updated_at' => '2024-01-18 22:30:12',
             ),
             282 => 
             array (
@@ -2846,8 +2846,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9366,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:58',
-                'updated_at' => '2024-01-17 16:56:58',
+                'created_at' => '2024-01-18 22:31:02',
+                'updated_at' => '2024-01-18 22:31:02',
             ),
             283 => 
             array (
@@ -2856,8 +2856,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9367,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:58',
-                'updated_at' => '2024-01-17 16:56:58',
+                'created_at' => '2024-01-18 22:31:02',
+                'updated_at' => '2024-01-18 22:31:02',
             ),
             284 => 
             array (
@@ -2866,8 +2866,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9391,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:06',
-                'updated_at' => '2024-01-17 16:57:06',
+                'created_at' => '2024-01-18 22:31:24',
+                'updated_at' => '2024-01-18 22:31:24',
             ),
             285 => 
             array (
@@ -2876,8 +2876,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9458,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:26',
-                'updated_at' => '2024-01-17 16:57:26',
+                'created_at' => '2024-01-18 22:32:28',
+                'updated_at' => '2024-01-18 22:32:28',
             ),
             286 => 
             array (
@@ -2886,8 +2886,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9463,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:28',
-                'updated_at' => '2024-01-17 16:57:28',
+                'created_at' => '2024-01-18 22:32:32',
+                'updated_at' => '2024-01-18 22:32:32',
             ),
             287 => 
             array (
@@ -2896,8 +2896,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9482,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:34',
-                'updated_at' => '2024-01-17 16:57:34',
+                'created_at' => '2024-01-18 22:32:53',
+                'updated_at' => '2024-01-18 22:32:53',
             ),
             288 => 
             array (
@@ -2906,8 +2906,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9506,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:41',
-                'updated_at' => '2024-01-17 16:57:41',
+                'created_at' => '2024-01-18 22:33:14',
+                'updated_at' => '2024-01-18 22:33:14',
             ),
             289 => 
             array (
@@ -2916,8 +2916,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9526,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:47',
-                'updated_at' => '2024-01-17 16:57:47',
+                'created_at' => '2024-01-18 22:33:32',
+                'updated_at' => '2024-01-18 22:33:32',
             ),
             290 => 
             array (
@@ -2926,8 +2926,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9537,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:50',
-                'updated_at' => '2024-01-17 16:57:50',
+                'created_at' => '2024-01-18 22:33:41',
+                'updated_at' => '2024-01-18 22:33:41',
             ),
             291 => 
             array (
@@ -2936,8 +2936,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9582,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:06',
-                'updated_at' => '2024-01-17 16:58:06',
+                'created_at' => '2024-01-18 22:34:19',
+                'updated_at' => '2024-01-18 22:34:19',
             ),
             292 => 
             array (
@@ -2946,8 +2946,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9598,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:11',
-                'updated_at' => '2024-01-17 16:58:11',
+                'created_at' => '2024-01-18 22:34:34',
+                'updated_at' => '2024-01-18 22:34:34',
             ),
             293 => 
             array (
@@ -2956,8 +2956,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9643,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:27',
-                'updated_at' => '2024-01-17 16:58:27',
+                'created_at' => '2024-01-18 22:35:11',
+                'updated_at' => '2024-01-18 22:35:11',
             ),
             294 => 
             array (
@@ -2966,8 +2966,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9672,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:37',
-                'updated_at' => '2024-01-17 16:58:37',
+                'created_at' => '2024-01-18 22:35:35',
+                'updated_at' => '2024-01-18 22:35:35',
             ),
             295 => 
             array (
@@ -2976,8 +2976,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9677,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:38',
-                'updated_at' => '2024-01-17 16:58:38',
+                'created_at' => '2024-01-18 22:35:39',
+                'updated_at' => '2024-01-18 22:35:39',
             ),
             296 => 
             array (
@@ -2986,8 +2986,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9717,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:51',
-                'updated_at' => '2024-01-17 16:58:51',
+                'created_at' => '2024-01-18 22:36:13',
+                'updated_at' => '2024-01-18 22:36:13',
             ),
             297 => 
             array (
@@ -2996,8 +2996,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9725,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:54',
-                'updated_at' => '2024-01-17 16:58:54',
+                'created_at' => '2024-01-18 22:36:21',
+                'updated_at' => '2024-01-18 22:36:21',
             ),
             298 => 
             array (
@@ -3006,8 +3006,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9755,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:03',
-                'updated_at' => '2024-01-17 16:59:03',
+                'created_at' => '2024-01-18 22:36:49',
+                'updated_at' => '2024-01-18 22:36:49',
             ),
             299 => 
             array (
@@ -3016,8 +3016,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9769,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:08',
-                'updated_at' => '2024-01-17 16:59:08',
+                'created_at' => '2024-01-18 22:37:00',
+                'updated_at' => '2024-01-18 22:37:00',
             ),
             300 => 
             array (
@@ -3026,8 +3026,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9791,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:16',
-                'updated_at' => '2024-01-17 16:59:16',
+                'created_at' => '2024-01-18 22:37:21',
+                'updated_at' => '2024-01-18 22:37:21',
             ),
             301 => 
             array (
@@ -3036,8 +3036,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9818,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:24',
-                'updated_at' => '2024-01-17 16:59:24',
+                'created_at' => '2024-01-18 22:37:46',
+                'updated_at' => '2024-01-18 22:37:46',
             ),
             302 => 
             array (
@@ -3046,8 +3046,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9851,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:35',
-                'updated_at' => '2024-01-17 16:59:35',
+                'created_at' => '2024-01-18 22:38:18',
+                'updated_at' => '2024-01-18 22:38:18',
             ),
             303 => 
             array (
@@ -3056,8 +3056,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9853,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:35',
-                'updated_at' => '2024-01-17 16:59:35',
+                'created_at' => '2024-01-18 22:38:20',
+                'updated_at' => '2024-01-18 22:38:20',
             ),
             304 => 
             array (
@@ -3066,8 +3066,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9884,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:45',
-                'updated_at' => '2024-01-17 16:59:45',
+                'created_at' => '2024-01-18 22:38:48',
+                'updated_at' => '2024-01-18 22:38:48',
             ),
             305 => 
             array (
@@ -3076,8 +3076,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9901,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:50',
-                'updated_at' => '2024-01-17 16:59:50',
+                'created_at' => '2024-01-18 22:39:01',
+                'updated_at' => '2024-01-18 22:39:01',
             ),
             306 => 
             array (
@@ -3086,8 +3086,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9928,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:58',
-                'updated_at' => '2024-01-17 16:59:58',
+                'created_at' => '2024-01-18 22:39:25',
+                'updated_at' => '2024-01-18 22:39:25',
             ),
             307 => 
             array (
@@ -3096,8 +3096,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10000,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:20',
-                'updated_at' => '2024-01-17 17:00:20',
+                'created_at' => '2024-01-18 22:40:29',
+                'updated_at' => '2024-01-18 22:40:29',
             ),
             308 => 
             array (
@@ -3106,8 +3106,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10093,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:49',
-                'updated_at' => '2024-01-17 17:00:49',
+                'created_at' => '2024-01-18 22:41:51',
+                'updated_at' => '2024-01-18 22:41:51',
             ),
             309 => 
             array (
@@ -3116,8 +3116,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10101,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:52',
-                'updated_at' => '2024-01-17 17:00:52',
+                'created_at' => '2024-01-18 22:41:58',
+                'updated_at' => '2024-01-18 22:41:58',
             ),
             310 => 
             array (
@@ -3126,8 +3126,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10128,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:00',
-                'updated_at' => '2024-01-17 17:01:00',
+                'created_at' => '2024-01-18 22:42:24',
+                'updated_at' => '2024-01-18 22:42:24',
             ),
             311 => 
             array (
@@ -3136,8 +3136,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10139,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:03',
-                'updated_at' => '2024-01-17 17:01:03',
+                'created_at' => '2024-01-18 22:42:36',
+                'updated_at' => '2024-01-18 22:42:36',
             ),
             312 => 
             array (
@@ -3146,8 +3146,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10148,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:06',
-                'updated_at' => '2024-01-17 17:01:06',
+                'created_at' => '2024-01-18 22:42:43',
+                'updated_at' => '2024-01-18 22:42:43',
             ),
             313 => 
             array (
@@ -3156,8 +3156,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10151,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:07',
-                'updated_at' => '2024-01-17 17:01:07',
+                'created_at' => '2024-01-18 22:42:46',
+                'updated_at' => '2024-01-18 22:42:46',
             ),
             314 => 
             array (
@@ -3166,8 +3166,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10189,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:19',
-                'updated_at' => '2024-01-17 17:01:19',
+                'created_at' => '2024-01-18 22:43:19',
+                'updated_at' => '2024-01-18 22:43:19',
             ),
             315 => 
             array (
@@ -3176,8 +3176,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10202,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:23',
-                'updated_at' => '2024-01-17 17:01:23',
+                'created_at' => '2024-01-18 22:43:31',
+                'updated_at' => '2024-01-18 22:43:31',
             ),
             316 => 
             array (
@@ -3186,8 +3186,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10204,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:24',
-                'updated_at' => '2024-01-17 17:01:24',
+                'created_at' => '2024-01-18 22:43:33',
+                'updated_at' => '2024-01-18 22:43:33',
             ),
             317 => 
             array (
@@ -3196,8 +3196,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10248,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:38',
-                'updated_at' => '2024-01-17 17:01:38',
+                'created_at' => '2024-01-18 22:44:10',
+                'updated_at' => '2024-01-18 22:44:10',
             ),
             318 => 
             array (
@@ -3206,8 +3206,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10257,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:40',
-                'updated_at' => '2024-01-17 17:01:40',
+                'created_at' => '2024-01-18 22:44:19',
+                'updated_at' => '2024-01-18 22:44:19',
             ),
             319 => 
             array (
@@ -3216,8 +3216,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10290,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:51',
-                'updated_at' => '2024-01-17 17:01:51',
+                'created_at' => '2024-01-18 22:44:50',
+                'updated_at' => '2024-01-18 22:44:50',
             ),
             320 => 
             array (
@@ -3226,8 +3226,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10306,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:56',
-                'updated_at' => '2024-01-17 17:01:56',
+                'created_at' => '2024-01-18 22:45:03',
+                'updated_at' => '2024-01-18 22:45:03',
             ),
             321 => 
             array (
@@ -3236,8 +3236,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10336,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:05',
-                'updated_at' => '2024-01-17 17:02:05',
+                'created_at' => '2024-01-18 22:45:29',
+                'updated_at' => '2024-01-18 22:45:29',
             ),
             322 => 
             array (
@@ -3246,8 +3246,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10346,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:08',
-                'updated_at' => '2024-01-17 17:02:08',
+                'created_at' => '2024-01-18 22:45:37',
+                'updated_at' => '2024-01-18 22:45:37',
             ),
             323 => 
             array (
@@ -3256,8 +3256,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10370,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:15',
-                'updated_at' => '2024-01-17 17:02:15',
+                'created_at' => '2024-01-18 22:46:01',
+                'updated_at' => '2024-01-18 22:46:01',
             ),
             324 => 
             array (
@@ -3266,8 +3266,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10385,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:20',
-                'updated_at' => '2024-01-17 17:02:20',
+                'created_at' => '2024-01-18 22:46:12',
+                'updated_at' => '2024-01-18 22:46:12',
             ),
             325 => 
             array (
@@ -3276,8 +3276,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10386,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:20',
-                'updated_at' => '2024-01-17 17:02:20',
+                'created_at' => '2024-01-18 22:46:13',
+                'updated_at' => '2024-01-18 22:46:13',
             ),
             326 => 
             array (
@@ -3286,8 +3286,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10404,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:25',
-                'updated_at' => '2024-01-17 17:02:25',
+                'created_at' => '2024-01-18 22:46:28',
+                'updated_at' => '2024-01-18 22:46:28',
             ),
             327 => 
             array (
@@ -3296,8 +3296,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10449,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:39',
-                'updated_at' => '2024-01-17 17:02:39',
+                'created_at' => '2024-01-18 22:47:08',
+                'updated_at' => '2024-01-18 22:47:08',
             ),
             328 => 
             array (
@@ -3306,8 +3306,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10458,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:42',
-                'updated_at' => '2024-01-17 17:02:42',
+                'created_at' => '2024-01-18 22:47:18',
+                'updated_at' => '2024-01-18 22:47:18',
             ),
             329 => 
             array (
@@ -3316,8 +3316,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10462,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:43',
-                'updated_at' => '2024-01-17 17:02:43',
+                'created_at' => '2024-01-18 22:47:23',
+                'updated_at' => '2024-01-18 22:47:23',
             ),
             330 => 
             array (
@@ -3326,8 +3326,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10495,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:53',
-                'updated_at' => '2024-01-17 17:02:53',
+                'created_at' => '2024-01-18 22:47:53',
+                'updated_at' => '2024-01-18 22:47:53',
             ),
             331 => 
             array (
@@ -3336,8 +3336,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10555,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:12',
-                'updated_at' => '2024-01-17 17:03:12',
+                'created_at' => '2024-01-18 22:48:48',
+                'updated_at' => '2024-01-18 22:48:48',
             ),
             332 => 
             array (
@@ -3346,8 +3346,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10619,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:32',
-                'updated_at' => '2024-01-17 17:03:32',
+                'created_at' => '2024-01-18 22:49:41',
+                'updated_at' => '2024-01-18 22:49:41',
             ),
             333 => 
             array (
@@ -3356,8 +3356,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10627,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:35',
-                'updated_at' => '2024-01-17 17:03:35',
+                'created_at' => '2024-01-18 22:49:48',
+                'updated_at' => '2024-01-18 22:49:48',
             ),
             334 => 
             array (
@@ -3366,8 +3366,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10660,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:45',
-                'updated_at' => '2024-01-17 17:03:45',
+                'created_at' => '2024-01-18 22:50:22',
+                'updated_at' => '2024-01-18 22:50:22',
             ),
             335 => 
             array (
@@ -3376,8 +3376,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10676,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:50',
-                'updated_at' => '2024-01-17 17:03:50',
+                'created_at' => '2024-01-18 22:50:37',
+                'updated_at' => '2024-01-18 22:50:37',
             ),
             336 => 
             array (
@@ -3386,8 +3386,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10684,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:54',
-                'updated_at' => '2024-01-17 17:03:54',
+                'created_at' => '2024-01-18 22:50:44',
+                'updated_at' => '2024-01-18 22:50:44',
             ),
             337 => 
             array (
@@ -3396,8 +3396,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10703,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:00',
-                'updated_at' => '2024-01-17 17:04:00',
+                'created_at' => '2024-01-18 22:50:59',
+                'updated_at' => '2024-01-18 22:50:59',
             ),
             338 => 
             array (
@@ -3406,8 +3406,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10712,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:02',
-                'updated_at' => '2024-01-17 17:04:02',
+                'created_at' => '2024-01-18 22:51:08',
+                'updated_at' => '2024-01-18 22:51:08',
             ),
             339 => 
             array (
@@ -3416,8 +3416,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10733,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:09',
-                'updated_at' => '2024-01-17 17:04:09',
+                'created_at' => '2024-01-18 22:51:26',
+                'updated_at' => '2024-01-18 22:51:26',
             ),
             340 => 
             array (
@@ -3426,8 +3426,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10739,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:11',
-                'updated_at' => '2024-01-17 17:04:11',
+                'created_at' => '2024-01-18 22:51:32',
+                'updated_at' => '2024-01-18 22:51:32',
             ),
             341 => 
             array (
@@ -3436,8 +3436,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10750,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:14',
-                'updated_at' => '2024-01-17 17:04:14',
+                'created_at' => '2024-01-18 22:51:42',
+                'updated_at' => '2024-01-18 22:51:42',
             ),
             342 => 
             array (
@@ -3446,8 +3446,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10762,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:18',
-                'updated_at' => '2024-01-17 17:04:18',
+                'created_at' => '2024-01-18 22:51:57',
+                'updated_at' => '2024-01-18 22:51:57',
             ),
             343 => 
             array (
@@ -3456,8 +3456,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10842,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:42',
-                'updated_at' => '2024-01-17 17:04:42',
+                'created_at' => '2024-01-18 22:53:06',
+                'updated_at' => '2024-01-18 22:53:06',
             ),
             344 => 
             array (
@@ -3466,8 +3466,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10843,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:42',
-                'updated_at' => '2024-01-17 17:04:42',
+                'created_at' => '2024-01-18 22:53:07',
+                'updated_at' => '2024-01-18 22:53:07',
             ),
             345 => 
             array (
@@ -3476,8 +3476,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10853,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:45',
-                'updated_at' => '2024-01-17 17:04:45',
+                'created_at' => '2024-01-18 22:53:15',
+                'updated_at' => '2024-01-18 22:53:15',
             ),
             346 => 
             array (
@@ -3486,8 +3486,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10856,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:46',
-                'updated_at' => '2024-01-17 17:04:46',
+                'created_at' => '2024-01-18 22:53:19',
+                'updated_at' => '2024-01-18 22:53:19',
             ),
             347 => 
             array (
@@ -3496,8 +3496,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10953,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:05:16',
-                'updated_at' => '2024-01-17 17:05:16',
+                'created_at' => '2024-01-18 22:54:50',
+                'updated_at' => '2024-01-18 22:54:50',
             ),
             348 => 
             array (
@@ -3506,8 +3506,8 @@ class QualifierNotavailsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10991,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:05:29',
-                'updated_at' => '2024-01-17 17:05:29',
+                'created_at' => '2024-01-18 22:55:25',
+                'updated_at' => '2024-01-18 22:55:25',
             ),
         ));
         

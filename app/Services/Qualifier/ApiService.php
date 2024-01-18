@@ -114,7 +114,7 @@ class ApiService
                         'subprogram_id' => $this->program($program),
                         'status_id' => $this->status($avail,$defer,$school_region,$region),
                         'status_type' =>18,
-                        'is_undergrad' => 0,
+                        'is_undergrad' => 1,
                         'is_completed' => 1,
                         'is_endorsed' => $this->is_endorsed($region,$school_region)
                     ];
@@ -312,7 +312,7 @@ class ApiService
                         'spas_id' => $spas_id,
                         'school' => $school,
                         'course' => $course,
-                        'school_region' => $this->region($school_region),
+                        'region' => $this->region($school_region),
                         'qualified_year' => $qualified_year,
                         'program_id' => $this->program($program),
                         'subprogram_id' => $this->program($program),

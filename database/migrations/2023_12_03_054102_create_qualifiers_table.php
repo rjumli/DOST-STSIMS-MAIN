@@ -19,8 +19,8 @@ return new class extends Migration
             $table->string('spas_id')->unique();
             $table->string('school')->nullable();
             $table->string('course')->nullable();
-            $table->string('school_region')->nullable()->constrained();
-            $table->foreign('school_region')->references('code')->on('location_regions')->onDelete('cascade');
+            $table->string('region')->nullable()->constrained();
+            $table->foreign('region')->references('code')->on('location_regions')->onDelete('cascade');
             $table->year('qualified_year');
             $table->tinyInteger('program_id')->unsigned()->index();
             $table->foreign('program_id')->references('id')->on('list_programs')->onDelete('cascade');

@@ -20,7 +20,7 @@ class IndexResource extends JsonResource
             'spas_id' => $this->spas_id,
             'program' => $this->program,
             'type' => $this->type,
-            'subprogram' => $this->subprogram,
+            'subprogram' => ($this->is_undergrad) ? 'Undergraduate' : 'JLSS',
             'status' => $this->status,
             'qualified_year' => $this->qualified_year,
             'profile' => new ProfileResource($this->profile), 

@@ -22,7 +22,7 @@ class Qualifier extends Model
         'information',
         'school',
         'course',
-        'school_region'
+        'region'
     ];
 
     public function type()

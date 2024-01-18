@@ -17,7 +17,6 @@ return new class extends Migration
             $table->engine = 'InnoDB';
             $table->smallIncrements('id');
             $table->string('code',50)->unique();
-            $table->string('subcode',10)->unique()->nullable();
             $table->string('name',150)->unique();
             $table->string('region',50)->unique();
             $table->string('island',50);

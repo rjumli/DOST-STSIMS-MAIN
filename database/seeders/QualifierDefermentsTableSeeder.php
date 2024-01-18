@@ -29,8 +29,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 125,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:08:42',
-                'updated_at' => '2024-01-17 16:08:42',
+                'created_at' => '2024-01-18 20:27:17',
+                'updated_at' => '2024-01-18 20:27:17',
             ),
             1 => 
             array (
@@ -42,8 +42,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 177,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:08:58',
-                'updated_at' => '2024-01-17 16:08:58',
+                'created_at' => '2024-01-18 20:27:55',
+                'updated_at' => '2024-01-18 20:27:55',
             ),
             2 => 
             array (
@@ -55,8 +55,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 192,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:03',
-                'updated_at' => '2024-01-17 16:09:03',
+                'created_at' => '2024-01-18 20:28:06',
+                'updated_at' => '2024-01-18 20:28:06',
             ),
             3 => 
             array (
@@ -68,8 +68,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 238,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:17',
-                'updated_at' => '2024-01-17 16:09:17',
+                'created_at' => '2024-01-18 20:28:39',
+                'updated_at' => '2024-01-18 20:28:39',
             ),
             4 => 
             array (
@@ -81,8 +81,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 254,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:22',
-                'updated_at' => '2024-01-17 16:09:22',
+                'created_at' => '2024-01-18 20:28:50',
+                'updated_at' => '2024-01-18 20:28:50',
             ),
             5 => 
             array (
@@ -94,8 +94,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 279,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:29',
-                'updated_at' => '2024-01-17 16:09:29',
+                'created_at' => '2024-01-18 20:29:08',
+                'updated_at' => '2024-01-18 20:29:08',
             ),
             6 => 
             array (
@@ -107,8 +107,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 303,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:37',
-                'updated_at' => '2024-01-17 16:09:37',
+                'created_at' => '2024-01-18 20:29:26',
+                'updated_at' => '2024-01-18 20:29:26',
             ),
             7 => 
             array (
@@ -120,8 +120,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 353,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:52',
-                'updated_at' => '2024-01-17 16:09:52',
+                'created_at' => '2024-01-18 20:30:02',
+                'updated_at' => '2024-01-18 20:30:02',
             ),
             8 => 
             array (
@@ -133,8 +133,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 366,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:56',
-                'updated_at' => '2024-01-17 16:09:56',
+                'created_at' => '2024-01-18 20:30:12',
+                'updated_at' => '2024-01-18 20:30:12',
             ),
             9 => 
             array (
@@ -146,8 +146,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 372,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:09:58',
-                'updated_at' => '2024-01-17 16:09:58',
+                'created_at' => '2024-01-18 20:30:16',
+                'updated_at' => '2024-01-18 20:30:16',
             ),
             10 => 
             array (
@@ -159,8 +159,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 411,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:11',
-                'updated_at' => '2024-01-17 16:10:11',
+                'created_at' => '2024-01-18 20:30:44',
+                'updated_at' => '2024-01-18 20:30:44',
             ),
             11 => 
             array (
@@ -172,8 +172,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 418,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:13',
-                'updated_at' => '2024-01-17 16:10:13',
+                'created_at' => '2024-01-18 20:30:49',
+                'updated_at' => '2024-01-18 20:30:49',
             ),
             12 => 
             array (
@@ -185,8 +185,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 452,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:26',
-                'updated_at' => '2024-01-17 16:10:26',
+                'created_at' => '2024-01-18 20:31:14',
+                'updated_at' => '2024-01-18 20:31:14',
             ),
             13 => 
             array (
@@ -198,8 +198,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 537,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:53',
-                'updated_at' => '2024-01-17 16:10:53',
+                'created_at' => '2024-01-18 20:32:15',
+                'updated_at' => '2024-01-18 20:32:15',
             ),
             14 => 
             array (
@@ -211,8 +211,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 557,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:10:59',
-                'updated_at' => '2024-01-17 16:10:59',
+                'created_at' => '2024-01-18 20:32:30',
+                'updated_at' => '2024-01-18 20:32:30',
             ),
             15 => 
             array (
@@ -224,8 +224,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 629,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:22',
-                'updated_at' => '2024-01-17 16:11:22',
+                'created_at' => '2024-01-18 20:33:22',
+                'updated_at' => '2024-01-18 20:33:22',
             ),
             16 => 
             array (
@@ -237,8 +237,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 661,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:33',
-                'updated_at' => '2024-01-17 16:11:33',
+                'created_at' => '2024-01-18 20:33:45',
+                'updated_at' => '2024-01-18 20:33:45',
             ),
             17 => 
             array (
@@ -250,8 +250,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 698,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:49',
-                'updated_at' => '2024-01-17 16:11:49',
+                'created_at' => '2024-01-18 20:34:12',
+                'updated_at' => '2024-01-18 20:34:12',
             ),
             18 => 
             array (
@@ -263,8 +263,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 709,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:53',
-                'updated_at' => '2024-01-17 16:11:53',
+                'created_at' => '2024-01-18 20:34:20',
+                'updated_at' => '2024-01-18 20:34:20',
             ),
             19 => 
             array (
@@ -276,8 +276,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 710,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:53',
-                'updated_at' => '2024-01-17 16:11:53',
+                'created_at' => '2024-01-18 20:34:21',
+                'updated_at' => '2024-01-18 20:34:21',
             ),
             20 => 
             array (
@@ -289,8 +289,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 714,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:54',
-                'updated_at' => '2024-01-17 16:11:54',
+                'created_at' => '2024-01-18 20:34:23',
+                'updated_at' => '2024-01-18 20:34:23',
             ),
             21 => 
             array (
@@ -302,8 +302,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 719,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:11:56',
-                'updated_at' => '2024-01-17 16:11:56',
+                'created_at' => '2024-01-18 20:34:27',
+                'updated_at' => '2024-01-18 20:34:27',
             ),
             22 => 
             array (
@@ -315,8 +315,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 801,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:22',
-                'updated_at' => '2024-01-17 16:12:22',
+                'created_at' => '2024-01-18 20:35:27',
+                'updated_at' => '2024-01-18 20:35:27',
             ),
             23 => 
             array (
@@ -328,8 +328,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 810,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:24',
-                'updated_at' => '2024-01-17 16:12:24',
+                'created_at' => '2024-01-18 20:35:34',
+                'updated_at' => '2024-01-18 20:35:34',
             ),
             24 => 
             array (
@@ -341,8 +341,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 824,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:29',
-                'updated_at' => '2024-01-17 16:12:29',
+                'created_at' => '2024-01-18 20:35:44',
+                'updated_at' => '2024-01-18 20:35:44',
             ),
             25 => 
             array (
@@ -354,8 +354,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 842,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:36',
-                'updated_at' => '2024-01-17 16:12:36',
+                'created_at' => '2024-01-18 20:35:57',
+                'updated_at' => '2024-01-18 20:35:57',
             ),
             26 => 
             array (
@@ -367,8 +367,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 861,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:42',
-                'updated_at' => '2024-01-17 16:12:42',
+                'created_at' => '2024-01-18 20:36:11',
+                'updated_at' => '2024-01-18 20:36:11',
             ),
             27 => 
             array (
@@ -380,8 +380,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 887,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:12:50',
-                'updated_at' => '2024-01-17 16:12:50',
+                'created_at' => '2024-01-18 20:36:30',
+                'updated_at' => '2024-01-18 20:36:30',
             ),
             28 => 
             array (
@@ -393,8 +393,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 945,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:12',
-                'updated_at' => '2024-01-17 16:13:12',
+                'created_at' => '2024-01-18 20:37:13',
+                'updated_at' => '2024-01-18 20:37:13',
             ),
             29 => 
             array (
@@ -406,8 +406,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 989,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:26',
-                'updated_at' => '2024-01-17 16:13:26',
+                'created_at' => '2024-01-18 20:37:46',
+                'updated_at' => '2024-01-18 20:37:46',
             ),
             30 => 
             array (
@@ -419,8 +419,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 996,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:28',
-                'updated_at' => '2024-01-17 16:13:28',
+                'created_at' => '2024-01-18 20:37:51',
+                'updated_at' => '2024-01-18 20:37:51',
             ),
             31 => 
             array (
@@ -432,8 +432,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1050,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:46',
-                'updated_at' => '2024-01-17 16:13:46',
+                'created_at' => '2024-01-18 20:38:31',
+                'updated_at' => '2024-01-18 20:38:31',
             ),
             32 => 
             array (
@@ -445,8 +445,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1065,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:50',
-                'updated_at' => '2024-01-17 16:13:50',
+                'created_at' => '2024-01-18 20:38:43',
+                'updated_at' => '2024-01-18 20:38:43',
             ),
             33 => 
             array (
@@ -458,8 +458,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1079,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:13:55',
-                'updated_at' => '2024-01-17 16:13:55',
+                'created_at' => '2024-01-18 20:38:53',
+                'updated_at' => '2024-01-18 20:38:53',
             ),
             34 => 
             array (
@@ -471,8 +471,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1154,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:19',
-                'updated_at' => '2024-01-17 16:14:19',
+                'created_at' => '2024-01-18 20:39:49',
+                'updated_at' => '2024-01-18 20:39:49',
             ),
             35 => 
             array (
@@ -484,8 +484,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1158,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:20',
-                'updated_at' => '2024-01-17 16:14:20',
+                'created_at' => '2024-01-18 20:39:52',
+                'updated_at' => '2024-01-18 20:39:52',
             ),
             36 => 
             array (
@@ -497,8 +497,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1171,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:24',
-                'updated_at' => '2024-01-17 16:14:24',
+                'created_at' => '2024-01-18 20:40:02',
+                'updated_at' => '2024-01-18 20:40:02',
             ),
             37 => 
             array (
@@ -510,8 +510,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1207,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:35',
-                'updated_at' => '2024-01-17 16:14:35',
+                'created_at' => '2024-01-18 20:40:28',
+                'updated_at' => '2024-01-18 20:40:28',
             ),
             38 => 
             array (
@@ -523,8 +523,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1240,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:14:45',
-                'updated_at' => '2024-01-17 16:14:45',
+                'created_at' => '2024-01-18 20:40:53',
+                'updated_at' => '2024-01-18 20:40:53',
             ),
             39 => 
             array (
@@ -536,8 +536,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1321,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:10',
-                'updated_at' => '2024-01-17 16:15:10',
+                'created_at' => '2024-01-18 20:41:54',
+                'updated_at' => '2024-01-18 20:41:54',
             ),
             40 => 
             array (
@@ -549,8 +549,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1409,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:37',
-                'updated_at' => '2024-01-17 16:15:37',
+                'created_at' => '2024-01-18 20:43:00',
+                'updated_at' => '2024-01-18 20:43:00',
             ),
             41 => 
             array (
@@ -562,8 +562,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1414,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:38',
-                'updated_at' => '2024-01-17 16:15:38',
+                'created_at' => '2024-01-18 20:43:04',
+                'updated_at' => '2024-01-18 20:43:04',
             ),
             42 => 
             array (
@@ -575,8 +575,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1440,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:46',
-                'updated_at' => '2024-01-17 16:15:46',
+                'created_at' => '2024-01-18 20:43:24',
+                'updated_at' => '2024-01-18 20:43:24',
             ),
             43 => 
             array (
@@ -588,8 +588,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1448,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:49',
-                'updated_at' => '2024-01-17 16:15:49',
+                'created_at' => '2024-01-18 20:43:30',
+                'updated_at' => '2024-01-18 20:43:30',
             ),
             44 => 
             array (
@@ -601,8 +601,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1459,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:15:52',
-                'updated_at' => '2024-01-17 16:15:52',
+                'created_at' => '2024-01-18 20:43:38',
+                'updated_at' => '2024-01-18 20:43:38',
             ),
             45 => 
             array (
@@ -614,8 +614,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1493,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:03',
-                'updated_at' => '2024-01-17 16:16:03',
+                'created_at' => '2024-01-18 20:44:04',
+                'updated_at' => '2024-01-18 20:44:04',
             ),
             46 => 
             array (
@@ -627,8 +627,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1526,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:13',
-                'updated_at' => '2024-01-17 16:16:13',
+                'created_at' => '2024-01-18 20:44:28',
+                'updated_at' => '2024-01-18 20:44:28',
             ),
             47 => 
             array (
@@ -640,8 +640,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1600,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:36',
-                'updated_at' => '2024-01-17 16:16:36',
+                'created_at' => '2024-01-18 20:45:23',
+                'updated_at' => '2024-01-18 20:45:23',
             ),
             48 => 
             array (
@@ -653,8 +653,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1605,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:37',
-                'updated_at' => '2024-01-17 16:16:37',
+                'created_at' => '2024-01-18 20:45:27',
+                'updated_at' => '2024-01-18 20:45:27',
             ),
             49 => 
             array (
@@ -666,8 +666,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1625,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:44',
-                'updated_at' => '2024-01-17 16:16:44',
+                'created_at' => '2024-01-18 20:45:41',
+                'updated_at' => '2024-01-18 20:45:41',
             ),
             50 => 
             array (
@@ -679,8 +679,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1665,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:56',
-                'updated_at' => '2024-01-17 16:16:56',
+                'created_at' => '2024-01-18 20:46:11',
+                'updated_at' => '2024-01-18 20:46:11',
             ),
             51 => 
             array (
@@ -692,8 +692,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1674,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:16:59',
-                'updated_at' => '2024-01-17 16:16:59',
+                'created_at' => '2024-01-18 20:46:18',
+                'updated_at' => '2024-01-18 20:46:18',
             ),
             52 => 
             array (
@@ -705,8 +705,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1795,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:36',
-                'updated_at' => '2024-01-17 16:17:36',
+                'created_at' => '2024-01-18 20:47:45',
+                'updated_at' => '2024-01-18 20:47:45',
             ),
             53 => 
             array (
@@ -718,8 +718,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1796,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:37',
-                'updated_at' => '2024-01-17 16:17:37',
+                'created_at' => '2024-01-18 20:47:46',
+                'updated_at' => '2024-01-18 20:47:46',
             ),
             54 => 
             array (
@@ -731,8 +731,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1822,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:45',
-                'updated_at' => '2024-01-17 16:17:45',
+                'created_at' => '2024-01-18 20:48:05',
+                'updated_at' => '2024-01-18 20:48:05',
             ),
             55 => 
             array (
@@ -744,8 +744,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1843,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:51',
-                'updated_at' => '2024-01-17 16:17:51',
+                'created_at' => '2024-01-18 20:48:21',
+                'updated_at' => '2024-01-18 20:48:21',
             ),
             56 => 
             array (
@@ -757,8 +757,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1860,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:57',
-                'updated_at' => '2024-01-17 16:17:57',
+                'created_at' => '2024-01-18 20:48:34',
+                'updated_at' => '2024-01-18 20:48:34',
             ),
             57 => 
             array (
@@ -770,8 +770,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1862,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:17:57',
-                'updated_at' => '2024-01-17 16:17:57',
+                'created_at' => '2024-01-18 20:48:35',
+                'updated_at' => '2024-01-18 20:48:35',
             ),
             58 => 
             array (
@@ -783,8 +783,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1898,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:08',
-                'updated_at' => '2024-01-17 16:18:08',
+                'created_at' => '2024-01-18 20:49:02',
+                'updated_at' => '2024-01-18 20:49:02',
             ),
             59 => 
             array (
@@ -796,8 +796,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1902,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:09',
-                'updated_at' => '2024-01-17 16:18:09',
+                'created_at' => '2024-01-18 20:49:05',
+                'updated_at' => '2024-01-18 20:49:05',
             ),
             60 => 
             array (
@@ -809,8 +809,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 1951,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:24',
-                'updated_at' => '2024-01-17 16:18:24',
+                'created_at' => '2024-01-18 20:49:41',
+                'updated_at' => '2024-01-18 20:49:41',
             ),
             61 => 
             array (
@@ -822,8 +822,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2035,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:50',
-                'updated_at' => '2024-01-17 16:18:50',
+                'created_at' => '2024-01-18 20:50:45',
+                'updated_at' => '2024-01-18 20:50:45',
             ),
             62 => 
             array (
@@ -835,8 +835,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2052,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:55',
-                'updated_at' => '2024-01-17 16:18:55',
+                'created_at' => '2024-01-18 20:50:58',
+                'updated_at' => '2024-01-18 20:50:58',
             ),
             63 => 
             array (
@@ -848,8 +848,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2060,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:18:58',
-                'updated_at' => '2024-01-17 16:18:58',
+                'created_at' => '2024-01-18 20:51:05',
+                'updated_at' => '2024-01-18 20:51:05',
             ),
             64 => 
             array (
@@ -861,8 +861,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2108,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:12',
-                'updated_at' => '2024-01-17 16:19:12',
+                'created_at' => '2024-01-18 20:51:41',
+                'updated_at' => '2024-01-18 20:51:41',
             ),
             65 => 
             array (
@@ -874,8 +874,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2116,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:15',
-                'updated_at' => '2024-01-17 16:19:15',
+                'created_at' => '2024-01-18 20:51:47',
+                'updated_at' => '2024-01-18 20:51:47',
             ),
             66 => 
             array (
@@ -887,8 +887,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2132,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:20',
-                'updated_at' => '2024-01-17 16:19:20',
+                'created_at' => '2024-01-18 20:51:59',
+                'updated_at' => '2024-01-18 20:51:59',
             ),
             67 => 
             array (
@@ -900,8 +900,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2153,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:26',
-                'updated_at' => '2024-01-17 16:19:26',
+                'created_at' => '2024-01-18 20:52:15',
+                'updated_at' => '2024-01-18 20:52:15',
             ),
             68 => 
             array (
@@ -913,8 +913,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2165,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:30',
-                'updated_at' => '2024-01-17 16:19:30',
+                'created_at' => '2024-01-18 20:52:25',
+                'updated_at' => '2024-01-18 20:52:25',
             ),
             69 => 
             array (
@@ -926,8 +926,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2181,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:35',
-                'updated_at' => '2024-01-17 16:19:35',
+                'created_at' => '2024-01-18 20:52:36',
+                'updated_at' => '2024-01-18 20:52:36',
             ),
             70 => 
             array (
@@ -939,8 +939,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2197,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:39',
-                'updated_at' => '2024-01-17 16:19:39',
+                'created_at' => '2024-01-18 20:52:48',
+                'updated_at' => '2024-01-18 20:52:48',
             ),
             71 => 
             array (
@@ -952,8 +952,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2208,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:19:43',
-                'updated_at' => '2024-01-17 16:19:43',
+                'created_at' => '2024-01-18 20:52:56',
+                'updated_at' => '2024-01-18 20:52:56',
             ),
             72 => 
             array (
@@ -965,8 +965,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2313,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:16',
-                'updated_at' => '2024-01-17 16:20:16',
+                'created_at' => '2024-01-18 20:54:17',
+                'updated_at' => '2024-01-18 20:54:17',
             ),
             73 => 
             array (
@@ -978,8 +978,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2325,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:20',
-                'updated_at' => '2024-01-17 16:20:20',
+                'created_at' => '2024-01-18 20:54:26',
+                'updated_at' => '2024-01-18 20:54:26',
             ),
             74 => 
             array (
@@ -991,8 +991,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2332,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:22',
-                'updated_at' => '2024-01-17 16:20:22',
+                'created_at' => '2024-01-18 20:54:32',
+                'updated_at' => '2024-01-18 20:54:32',
             ),
             75 => 
             array (
@@ -1004,8 +1004,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2339,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:24',
-                'updated_at' => '2024-01-17 16:20:24',
+                'created_at' => '2024-01-18 20:54:37',
+                'updated_at' => '2024-01-18 20:54:37',
             ),
             76 => 
             array (
@@ -1017,8 +1017,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2363,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:32',
-                'updated_at' => '2024-01-17 16:20:32',
+                'created_at' => '2024-01-18 20:54:55',
+                'updated_at' => '2024-01-18 20:54:55',
             ),
             77 => 
             array (
@@ -1030,8 +1030,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2374,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:35',
-                'updated_at' => '2024-01-17 16:20:35',
+                'created_at' => '2024-01-18 20:55:03',
+                'updated_at' => '2024-01-18 20:55:03',
             ),
             78 => 
             array (
@@ -1043,8 +1043,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2376,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:36',
-                'updated_at' => '2024-01-17 16:20:36',
+                'created_at' => '2024-01-18 20:55:05',
+                'updated_at' => '2024-01-18 20:55:05',
             ),
             79 => 
             array (
@@ -1056,8 +1056,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2402,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:44',
-                'updated_at' => '2024-01-17 16:20:44',
+                'created_at' => '2024-01-18 20:55:26',
+                'updated_at' => '2024-01-18 20:55:26',
             ),
             80 => 
             array (
@@ -1069,8 +1069,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2450,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:20:59',
-                'updated_at' => '2024-01-17 16:20:59',
+                'created_at' => '2024-01-18 20:56:03',
+                'updated_at' => '2024-01-18 20:56:03',
             ),
             81 => 
             array (
@@ -1082,8 +1082,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2472,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:06',
-                'updated_at' => '2024-01-17 16:21:06',
+                'created_at' => '2024-01-18 20:56:21',
+                'updated_at' => '2024-01-18 20:56:21',
             ),
             82 => 
             array (
@@ -1095,8 +1095,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2552,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:31',
-                'updated_at' => '2024-01-17 16:21:31',
+                'created_at' => '2024-01-18 20:57:25',
+                'updated_at' => '2024-01-18 20:57:25',
             ),
             83 => 
             array (
@@ -1108,8 +1108,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2639,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:21:58',
-                'updated_at' => '2024-01-17 16:21:58',
+                'created_at' => '2024-01-18 20:58:33',
+                'updated_at' => '2024-01-18 20:58:33',
             ),
             84 => 
             array (
@@ -1121,8 +1121,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2676,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:10',
-                'updated_at' => '2024-01-17 16:22:10',
+                'created_at' => '2024-01-18 20:59:01',
+                'updated_at' => '2024-01-18 20:59:01',
             ),
             85 => 
             array (
@@ -1134,8 +1134,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2705,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:19',
-                'updated_at' => '2024-01-17 16:22:19',
+                'created_at' => '2024-01-18 20:59:23',
+                'updated_at' => '2024-01-18 20:59:23',
             ),
             86 => 
             array (
@@ -1147,8 +1147,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2714,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:21',
-                'updated_at' => '2024-01-17 16:22:21',
+                'created_at' => '2024-01-18 20:59:30',
+                'updated_at' => '2024-01-18 20:59:30',
             ),
             87 => 
             array (
@@ -1160,8 +1160,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2719,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:23',
-                'updated_at' => '2024-01-17 16:22:23',
+                'created_at' => '2024-01-18 20:59:34',
+                'updated_at' => '2024-01-18 20:59:34',
             ),
             88 => 
             array (
@@ -1173,8 +1173,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2782,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:43',
-                'updated_at' => '2024-01-17 16:22:43',
+                'created_at' => '2024-01-18 21:00:22',
+                'updated_at' => '2024-01-18 21:00:22',
             ),
             89 => 
             array (
@@ -1186,8 +1186,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2785,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:22:44',
-                'updated_at' => '2024-01-17 16:22:44',
+                'created_at' => '2024-01-18 21:00:25',
+                'updated_at' => '2024-01-18 21:00:25',
             ),
             90 => 
             array (
@@ -1199,8 +1199,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2839,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:01',
-                'updated_at' => '2024-01-17 16:23:01',
+                'created_at' => '2024-01-18 21:01:06',
+                'updated_at' => '2024-01-18 21:01:06',
             ),
             91 => 
             array (
@@ -1212,8 +1212,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2846,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:03',
-                'updated_at' => '2024-01-17 16:23:03',
+                'created_at' => '2024-01-18 21:01:11',
+                'updated_at' => '2024-01-18 21:01:11',
             ),
             92 => 
             array (
@@ -1225,8 +1225,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2847,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:03',
-                'updated_at' => '2024-01-17 16:23:03',
+                'created_at' => '2024-01-18 21:01:12',
+                'updated_at' => '2024-01-18 21:01:12',
             ),
             93 => 
             array (
@@ -1238,8 +1238,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2856,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:06',
-                'updated_at' => '2024-01-17 16:23:06',
+                'created_at' => '2024-01-18 21:01:19',
+                'updated_at' => '2024-01-18 21:01:19',
             ),
             94 => 
             array (
@@ -1251,8 +1251,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2860,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:07',
-                'updated_at' => '2024-01-17 16:23:07',
+                'created_at' => '2024-01-18 21:01:22',
+                'updated_at' => '2024-01-18 21:01:22',
             ),
             95 => 
             array (
@@ -1264,8 +1264,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2871,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:11',
-                'updated_at' => '2024-01-17 16:23:11',
+                'created_at' => '2024-01-18 21:01:31',
+                'updated_at' => '2024-01-18 21:01:31',
             ),
             96 => 
             array (
@@ -1277,8 +1277,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2931,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:29',
-                'updated_at' => '2024-01-17 16:23:29',
+                'created_at' => '2024-01-18 21:02:17',
+                'updated_at' => '2024-01-18 21:02:17',
             ),
             97 => 
             array (
@@ -1290,8 +1290,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2959,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:38',
-                'updated_at' => '2024-01-17 16:23:38',
+                'created_at' => '2024-01-18 21:02:40',
+                'updated_at' => '2024-01-18 21:02:40',
             ),
             98 => 
             array (
@@ -1303,8 +1303,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2968,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:41',
-                'updated_at' => '2024-01-17 16:23:41',
+                'created_at' => '2024-01-18 21:02:47',
+                'updated_at' => '2024-01-18 21:02:47',
             ),
             99 => 
             array (
@@ -1316,8 +1316,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 2987,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:46',
-                'updated_at' => '2024-01-17 16:23:46',
+                'created_at' => '2024-01-18 21:03:02',
+                'updated_at' => '2024-01-18 21:03:02',
             ),
             100 => 
             array (
@@ -1329,8 +1329,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3021,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:23:57',
-                'updated_at' => '2024-01-17 16:23:57',
+                'created_at' => '2024-01-18 21:03:28',
+                'updated_at' => '2024-01-18 21:03:28',
             ),
             101 => 
             array (
@@ -1342,8 +1342,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3097,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:20',
-                'updated_at' => '2024-01-17 16:24:20',
+                'created_at' => '2024-01-18 21:04:28',
+                'updated_at' => '2024-01-18 21:04:28',
             ),
             102 => 
             array (
@@ -1355,8 +1355,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3106,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:23',
-                'updated_at' => '2024-01-17 16:24:23',
+                'created_at' => '2024-01-18 21:04:35',
+                'updated_at' => '2024-01-18 21:04:35',
             ),
             103 => 
             array (
@@ -1368,8 +1368,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3111,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:24',
-                'updated_at' => '2024-01-17 16:24:24',
+                'created_at' => '2024-01-18 21:04:39',
+                'updated_at' => '2024-01-18 21:04:39',
             ),
             104 => 
             array (
@@ -1381,8 +1381,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3167,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:41',
-                'updated_at' => '2024-01-17 16:24:41',
+                'created_at' => '2024-01-18 21:05:21',
+                'updated_at' => '2024-01-18 21:05:21',
             ),
             105 => 
             array (
@@ -1394,8 +1394,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3172,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:43',
-                'updated_at' => '2024-01-17 16:24:43',
+                'created_at' => '2024-01-18 21:05:25',
+                'updated_at' => '2024-01-18 21:05:25',
             ),
             106 => 
             array (
@@ -1407,8 +1407,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3199,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:51',
-                'updated_at' => '2024-01-17 16:24:51',
+                'created_at' => '2024-01-18 21:05:46',
+                'updated_at' => '2024-01-18 21:05:46',
             ),
             107 => 
             array (
@@ -1420,8 +1420,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3212,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:24:55',
-                'updated_at' => '2024-01-17 16:24:55',
+                'created_at' => '2024-01-18 21:05:56',
+                'updated_at' => '2024-01-18 21:05:56',
             ),
             108 => 
             array (
@@ -1433,8 +1433,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3289,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:20',
-                'updated_at' => '2024-01-17 16:25:20',
+                'created_at' => '2024-01-18 21:06:54',
+                'updated_at' => '2024-01-18 21:06:54',
             ),
             109 => 
             array (
@@ -1446,8 +1446,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3306,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:26',
-                'updated_at' => '2024-01-17 16:25:26',
+                'created_at' => '2024-01-18 21:07:07',
+                'updated_at' => '2024-01-18 21:07:07',
             ),
             110 => 
             array (
@@ -1459,8 +1459,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3364,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:25:44',
-                'updated_at' => '2024-01-17 16:25:44',
+                'created_at' => '2024-01-18 21:07:53',
+                'updated_at' => '2024-01-18 21:07:53',
             ),
             111 => 
             array (
@@ -1472,8 +1472,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3469,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:18',
-                'updated_at' => '2024-01-17 16:26:18',
+                'created_at' => '2024-01-18 21:09:15',
+                'updated_at' => '2024-01-18 21:09:15',
             ),
             112 => 
             array (
@@ -1485,8 +1485,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3536,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:39',
-                'updated_at' => '2024-01-17 16:26:39',
+                'created_at' => '2024-01-18 21:10:06',
+                'updated_at' => '2024-01-18 21:10:06',
             ),
             113 => 
             array (
@@ -1498,8 +1498,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3559,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:46',
-                'updated_at' => '2024-01-17 16:26:46',
+                'created_at' => '2024-01-18 21:10:24',
+                'updated_at' => '2024-01-18 21:10:24',
             ),
             114 => 
             array (
@@ -1511,8 +1511,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3593,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:57',
-                'updated_at' => '2024-01-17 16:26:57',
+                'created_at' => '2024-01-18 21:10:50',
+                'updated_at' => '2024-01-18 21:10:50',
             ),
             115 => 
             array (
@@ -1524,8 +1524,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3595,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:26:58',
-                'updated_at' => '2024-01-17 16:26:58',
+                'created_at' => '2024-01-18 21:10:52',
+                'updated_at' => '2024-01-18 21:10:52',
             ),
             116 => 
             array (
@@ -1537,8 +1537,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3636,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:11',
-                'updated_at' => '2024-01-17 16:27:11',
+                'created_at' => '2024-01-18 21:11:23',
+                'updated_at' => '2024-01-18 21:11:23',
             ),
             117 => 
             array (
@@ -1550,8 +1550,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3640,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:12',
-                'updated_at' => '2024-01-17 16:27:12',
+                'created_at' => '2024-01-18 21:11:26',
+                'updated_at' => '2024-01-18 21:11:26',
             ),
             118 => 
             array (
@@ -1563,8 +1563,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3654,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:16',
-                'updated_at' => '2024-01-17 16:27:16',
+                'created_at' => '2024-01-18 21:11:37',
+                'updated_at' => '2024-01-18 21:11:37',
             ),
             119 => 
             array (
@@ -1576,8 +1576,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3659,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:18',
-                'updated_at' => '2024-01-17 16:27:18',
+                'created_at' => '2024-01-18 21:11:41',
+                'updated_at' => '2024-01-18 21:11:41',
             ),
             120 => 
             array (
@@ -1589,8 +1589,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3691,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:28',
-                'updated_at' => '2024-01-17 16:27:28',
+                'created_at' => '2024-01-18 21:12:06',
+                'updated_at' => '2024-01-18 21:12:06',
             ),
             121 => 
             array (
@@ -1602,8 +1602,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3696,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:29',
-                'updated_at' => '2024-01-17 16:27:29',
+                'created_at' => '2024-01-18 21:12:10',
+                'updated_at' => '2024-01-18 21:12:10',
             ),
             122 => 
             array (
@@ -1615,8 +1615,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3699,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:30',
-                'updated_at' => '2024-01-17 16:27:30',
+                'created_at' => '2024-01-18 21:12:12',
+                'updated_at' => '2024-01-18 21:12:12',
             ),
             123 => 
             array (
@@ -1628,8 +1628,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3733,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:42',
-                'updated_at' => '2024-01-17 16:27:42',
+                'created_at' => '2024-01-18 21:12:38',
+                'updated_at' => '2024-01-18 21:12:38',
             ),
             124 => 
             array (
@@ -1641,8 +1641,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3741,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:44',
-                'updated_at' => '2024-01-17 16:27:44',
+                'created_at' => '2024-01-18 21:12:45',
+                'updated_at' => '2024-01-18 21:12:45',
             ),
             125 => 
             array (
@@ -1654,8 +1654,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3765,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:52',
-                'updated_at' => '2024-01-17 16:27:52',
+                'created_at' => '2024-01-18 21:13:03',
+                'updated_at' => '2024-01-18 21:13:03',
             ),
             126 => 
             array (
@@ -1667,8 +1667,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3780,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:27:57',
-                'updated_at' => '2024-01-17 16:27:57',
+                'created_at' => '2024-01-18 21:13:15',
+                'updated_at' => '2024-01-18 21:13:15',
             ),
             127 => 
             array (
@@ -1680,8 +1680,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3802,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:28:03',
-                'updated_at' => '2024-01-17 16:28:03',
+                'created_at' => '2024-01-18 21:13:32',
+                'updated_at' => '2024-01-18 21:13:32',
             ),
             128 => 
             array (
@@ -1693,8 +1693,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3817,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:28:08',
-                'updated_at' => '2024-01-17 16:28:08',
+                'created_at' => '2024-01-18 21:13:43',
+                'updated_at' => '2024-01-18 21:13:43',
             ),
             129 => 
             array (
@@ -1706,8 +1706,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3882,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:28:28',
-                'updated_at' => '2024-01-17 16:28:28',
+                'created_at' => '2024-01-18 21:14:34',
+                'updated_at' => '2024-01-18 21:14:34',
             ),
             130 => 
             array (
@@ -1719,8 +1719,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 3958,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:28:51',
-                'updated_at' => '2024-01-17 16:28:51',
+                'created_at' => '2024-01-18 21:15:33',
+                'updated_at' => '2024-01-18 21:15:33',
             ),
             131 => 
             array (
@@ -1732,8 +1732,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4018,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:29:10',
-                'updated_at' => '2024-01-17 16:29:10',
+                'created_at' => '2024-01-18 21:16:22',
+                'updated_at' => '2024-01-18 21:16:22',
             ),
             132 => 
             array (
@@ -1745,8 +1745,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4035,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:29:15',
-                'updated_at' => '2024-01-17 16:29:15',
+                'created_at' => '2024-01-18 21:16:36',
+                'updated_at' => '2024-01-18 21:16:36',
             ),
             133 => 
             array (
@@ -1758,8 +1758,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4055,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:29:21',
-                'updated_at' => '2024-01-17 16:29:21',
+                'created_at' => '2024-01-18 21:16:51',
+                'updated_at' => '2024-01-18 21:16:51',
             ),
             134 => 
             array (
@@ -1771,8 +1771,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4107,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:29:38',
-                'updated_at' => '2024-01-17 16:29:38',
+                'created_at' => '2024-01-18 21:17:32',
+                'updated_at' => '2024-01-18 21:17:32',
             ),
             135 => 
             array (
@@ -1784,8 +1784,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4115,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:29:40',
-                'updated_at' => '2024-01-17 16:29:40',
+                'created_at' => '2024-01-18 21:17:39',
+                'updated_at' => '2024-01-18 21:17:39',
             ),
             136 => 
             array (
@@ -1797,8 +1797,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4123,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:29:42',
-                'updated_at' => '2024-01-17 16:29:42',
+                'created_at' => '2024-01-18 21:17:45',
+                'updated_at' => '2024-01-18 21:17:45',
             ),
             137 => 
             array (
@@ -1810,8 +1810,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4222,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:30:13',
-                'updated_at' => '2024-01-17 16:30:13',
+                'created_at' => '2024-01-18 21:19:02',
+                'updated_at' => '2024-01-18 21:19:02',
             ),
             138 => 
             array (
@@ -1823,8 +1823,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4256,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:30:24',
-                'updated_at' => '2024-01-17 16:30:24',
+                'created_at' => '2024-01-18 21:19:28',
+                'updated_at' => '2024-01-18 21:19:28',
             ),
             139 => 
             array (
@@ -1836,8 +1836,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4262,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:30:26',
-                'updated_at' => '2024-01-17 16:30:26',
+                'created_at' => '2024-01-18 21:19:33',
+                'updated_at' => '2024-01-18 21:19:33',
             ),
             140 => 
             array (
@@ -1849,8 +1849,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4277,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:30:31',
-                'updated_at' => '2024-01-17 16:30:31',
+                'created_at' => '2024-01-18 21:19:45',
+                'updated_at' => '2024-01-18 21:19:45',
             ),
             141 => 
             array (
@@ -1862,8 +1862,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4390,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:31:06',
-                'updated_at' => '2024-01-17 16:31:06',
+                'created_at' => '2024-01-18 21:21:15',
+                'updated_at' => '2024-01-18 21:21:15',
             ),
             142 => 
             array (
@@ -1875,8 +1875,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4438,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:31:21',
-                'updated_at' => '2024-01-17 16:31:21',
+                'created_at' => '2024-01-18 21:21:53',
+                'updated_at' => '2024-01-18 21:21:53',
             ),
             143 => 
             array (
@@ -1888,8 +1888,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4469,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:31:31',
-                'updated_at' => '2024-01-17 16:31:31',
+                'created_at' => '2024-01-18 21:22:18',
+                'updated_at' => '2024-01-18 21:22:18',
             ),
             144 => 
             array (
@@ -1901,8 +1901,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4472,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:31:32',
-                'updated_at' => '2024-01-17 16:31:32',
+                'created_at' => '2024-01-18 21:22:20',
+                'updated_at' => '2024-01-18 21:22:20',
             ),
             145 => 
             array (
@@ -1914,8 +1914,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4511,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:31:44',
-                'updated_at' => '2024-01-17 16:31:44',
+                'created_at' => '2024-01-18 21:22:51',
+                'updated_at' => '2024-01-18 21:22:51',
             ),
             146 => 
             array (
@@ -1927,8 +1927,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4529,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:31:50',
-                'updated_at' => '2024-01-17 16:31:50',
+                'created_at' => '2024-01-18 21:23:05',
+                'updated_at' => '2024-01-18 21:23:05',
             ),
             147 => 
             array (
@@ -1940,8 +1940,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4573,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:04',
-                'updated_at' => '2024-01-17 16:32:04',
+                'created_at' => '2024-01-18 21:23:43',
+                'updated_at' => '2024-01-18 21:23:43',
             ),
             148 => 
             array (
@@ -1953,8 +1953,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4596,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:10',
-                'updated_at' => '2024-01-17 16:32:10',
+                'created_at' => '2024-01-18 21:24:03',
+                'updated_at' => '2024-01-18 21:24:03',
             ),
             149 => 
             array (
@@ -1966,8 +1966,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4624,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:19',
-                'updated_at' => '2024-01-17 16:32:19',
+                'created_at' => '2024-01-18 21:24:25',
+                'updated_at' => '2024-01-18 21:24:25',
             ),
             150 => 
             array (
@@ -1979,8 +1979,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4628,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:20',
-                'updated_at' => '2024-01-17 16:32:20',
+                'created_at' => '2024-01-18 21:24:28',
+                'updated_at' => '2024-01-18 21:24:28',
             ),
             151 => 
             array (
@@ -1992,8 +1992,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4646,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:26',
-                'updated_at' => '2024-01-17 16:32:26',
+                'created_at' => '2024-01-18 21:24:42',
+                'updated_at' => '2024-01-18 21:24:42',
             ),
             152 => 
             array (
@@ -2005,8 +2005,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4660,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:30',
-                'updated_at' => '2024-01-17 16:32:30',
+                'created_at' => '2024-01-18 21:24:54',
+                'updated_at' => '2024-01-18 21:24:54',
             ),
             153 => 
             array (
@@ -2018,8 +2018,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4668,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:32:33',
-                'updated_at' => '2024-01-17 16:32:33',
+                'created_at' => '2024-01-18 21:25:00',
+                'updated_at' => '2024-01-18 21:25:00',
             ),
             154 => 
             array (
@@ -2031,8 +2031,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4806,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:16',
-                'updated_at' => '2024-01-17 16:33:16',
+                'created_at' => '2024-01-18 21:26:49',
+                'updated_at' => '2024-01-18 21:26:49',
             ),
             155 => 
             array (
@@ -2044,8 +2044,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4828,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:23',
-                'updated_at' => '2024-01-17 16:33:23',
+                'created_at' => '2024-01-18 21:27:06',
+                'updated_at' => '2024-01-18 21:27:06',
             ),
             156 => 
             array (
@@ -2057,8 +2057,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4860,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:33',
-                'updated_at' => '2024-01-17 16:33:33',
+                'created_at' => '2024-01-18 21:27:33',
+                'updated_at' => '2024-01-18 21:27:33',
             ),
             157 => 
             array (
@@ -2070,8 +2070,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4863,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:34',
-                'updated_at' => '2024-01-17 16:33:34',
+                'created_at' => '2024-01-18 21:27:35',
+                'updated_at' => '2024-01-18 21:27:35',
             ),
             158 => 
             array (
@@ -2083,8 +2083,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4884,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:40',
-                'updated_at' => '2024-01-17 16:33:40',
+                'created_at' => '2024-01-18 21:27:52',
+                'updated_at' => '2024-01-18 21:27:52',
             ),
             159 => 
             array (
@@ -2096,8 +2096,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4891,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:42',
-                'updated_at' => '2024-01-17 16:33:42',
+                'created_at' => '2024-01-18 21:27:57',
+                'updated_at' => '2024-01-18 21:27:57',
             ),
             160 => 
             array (
@@ -2109,8 +2109,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 4902,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:33:46',
-                'updated_at' => '2024-01-17 16:33:46',
+                'created_at' => '2024-01-18 21:28:06',
+                'updated_at' => '2024-01-18 21:28:06',
             ),
             161 => 
             array (
@@ -2122,8 +2122,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5032,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:26',
-                'updated_at' => '2024-01-17 16:34:26',
+                'created_at' => '2024-01-18 21:29:48',
+                'updated_at' => '2024-01-18 21:29:48',
             ),
             162 => 
             array (
@@ -2135,8 +2135,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5054,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:33',
-                'updated_at' => '2024-01-17 16:34:33',
+                'created_at' => '2024-01-18 21:30:06',
+                'updated_at' => '2024-01-18 21:30:06',
             ),
             163 => 
             array (
@@ -2148,8 +2148,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5057,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:34',
-                'updated_at' => '2024-01-17 16:34:34',
+                'created_at' => '2024-01-18 21:30:08',
+                'updated_at' => '2024-01-18 21:30:08',
             ),
             164 => 
             array (
@@ -2161,8 +2161,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5065,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:37',
-                'updated_at' => '2024-01-17 16:34:37',
+                'created_at' => '2024-01-18 21:30:14',
+                'updated_at' => '2024-01-18 21:30:14',
             ),
             165 => 
             array (
@@ -2174,8 +2174,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5107,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:50',
-                'updated_at' => '2024-01-17 16:34:50',
+                'created_at' => '2024-01-18 21:30:49',
+                'updated_at' => '2024-01-18 21:30:49',
             ),
             166 => 
             array (
@@ -2187,8 +2187,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5109,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:50',
-                'updated_at' => '2024-01-17 16:34:50',
+                'created_at' => '2024-01-18 21:30:50',
+                'updated_at' => '2024-01-18 21:30:50',
             ),
             167 => 
             array (
@@ -2200,8 +2200,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5120,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:34:54',
-                'updated_at' => '2024-01-17 16:34:54',
+                'created_at' => '2024-01-18 21:31:00',
+                'updated_at' => '2024-01-18 21:31:00',
             ),
             168 => 
             array (
@@ -2213,8 +2213,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5148,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:02',
-                'updated_at' => '2024-01-17 16:35:02',
+                'created_at' => '2024-01-18 21:31:23',
+                'updated_at' => '2024-01-18 21:31:23',
             ),
             169 => 
             array (
@@ -2226,8 +2226,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5165,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:08',
-                'updated_at' => '2024-01-17 16:35:08',
+                'created_at' => '2024-01-18 21:31:36',
+                'updated_at' => '2024-01-18 21:31:36',
             ),
             170 => 
             array (
@@ -2239,8 +2239,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5167,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:08',
-                'updated_at' => '2024-01-17 16:35:08',
+                'created_at' => '2024-01-18 21:31:38',
+                'updated_at' => '2024-01-18 21:31:38',
             ),
             171 => 
             array (
@@ -2252,8 +2252,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5237,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:30',
-                'updated_at' => '2024-01-17 16:35:30',
+                'created_at' => '2024-01-18 21:32:34',
+                'updated_at' => '2024-01-18 21:32:34',
             ),
             172 => 
             array (
@@ -2265,8 +2265,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5240,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:31',
-                'updated_at' => '2024-01-17 16:35:31',
+                'created_at' => '2024-01-18 21:32:36',
+                'updated_at' => '2024-01-18 21:32:36',
             ),
             173 => 
             array (
@@ -2278,8 +2278,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5257,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:36',
-                'updated_at' => '2024-01-17 16:35:36',
+                'created_at' => '2024-01-18 21:32:50',
+                'updated_at' => '2024-01-18 21:32:50',
             ),
             174 => 
             array (
@@ -2291,8 +2291,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5320,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:55',
-                'updated_at' => '2024-01-17 16:35:55',
+                'created_at' => '2024-01-18 21:33:40',
+                'updated_at' => '2024-01-18 21:33:40',
             ),
             175 => 
             array (
@@ -2304,8 +2304,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5321,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:35:56',
-                'updated_at' => '2024-01-17 16:35:56',
+                'created_at' => '2024-01-18 21:33:41',
+                'updated_at' => '2024-01-18 21:33:41',
             ),
             176 => 
             array (
@@ -2317,8 +2317,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5431,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:36:32',
-                'updated_at' => '2024-01-17 16:36:32',
+                'created_at' => '2024-01-18 21:35:09',
+                'updated_at' => '2024-01-18 21:35:09',
             ),
             177 => 
             array (
@@ -2330,8 +2330,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5497,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:36:54',
-                'updated_at' => '2024-01-17 16:36:54',
+                'created_at' => '2024-01-18 21:36:04',
+                'updated_at' => '2024-01-18 21:36:04',
             ),
             178 => 
             array (
@@ -2343,8 +2343,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5550,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:10',
-                'updated_at' => '2024-01-17 16:37:10',
+                'created_at' => '2024-01-18 21:36:45',
+                'updated_at' => '2024-01-18 21:36:45',
             ),
             179 => 
             array (
@@ -2356,8 +2356,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5580,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:20',
-                'updated_at' => '2024-01-17 16:37:20',
+                'created_at' => '2024-01-18 21:37:09',
+                'updated_at' => '2024-01-18 21:37:09',
             ),
             180 => 
             array (
@@ -2369,8 +2369,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5587,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:22',
-                'updated_at' => '2024-01-17 16:37:22',
+                'created_at' => '2024-01-18 21:37:14',
+                'updated_at' => '2024-01-18 21:37:14',
             ),
             181 => 
             array (
@@ -2382,8 +2382,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5600,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:26',
-                'updated_at' => '2024-01-17 16:37:26',
+                'created_at' => '2024-01-18 21:37:24',
+                'updated_at' => '2024-01-18 21:37:24',
             ),
             182 => 
             array (
@@ -2395,8 +2395,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5614,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:30',
-                'updated_at' => '2024-01-17 16:37:30',
+                'created_at' => '2024-01-18 21:37:36',
+                'updated_at' => '2024-01-18 21:37:36',
             ),
             183 => 
             array (
@@ -2408,8 +2408,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5685,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:52',
-                'updated_at' => '2024-01-17 16:37:52',
+                'created_at' => '2024-01-18 21:38:36',
+                'updated_at' => '2024-01-18 21:38:36',
             ),
             184 => 
             array (
@@ -2421,8 +2421,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5686,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:53',
-                'updated_at' => '2024-01-17 16:37:53',
+                'created_at' => '2024-01-18 21:38:36',
+                'updated_at' => '2024-01-18 21:38:36',
             ),
             185 => 
             array (
@@ -2434,8 +2434,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5694,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:55',
-                'updated_at' => '2024-01-17 16:37:55',
+                'created_at' => '2024-01-18 21:38:43',
+                'updated_at' => '2024-01-18 21:38:43',
             ),
             186 => 
             array (
@@ -2447,8 +2447,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5696,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:37:56',
-                'updated_at' => '2024-01-17 16:37:56',
+                'created_at' => '2024-01-18 21:38:44',
+                'updated_at' => '2024-01-18 21:38:44',
             ),
             187 => 
             array (
@@ -2460,8 +2460,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5750,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:38:12',
-                'updated_at' => '2024-01-17 16:38:12',
+                'created_at' => '2024-01-18 21:39:28',
+                'updated_at' => '2024-01-18 21:39:28',
             ),
             188 => 
             array (
@@ -2473,8 +2473,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5751,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:38:13',
-                'updated_at' => '2024-01-17 16:38:13',
+                'created_at' => '2024-01-18 21:39:29',
+                'updated_at' => '2024-01-18 21:39:29',
             ),
             189 => 
             array (
@@ -2486,8 +2486,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5849,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:38:43',
-                'updated_at' => '2024-01-17 16:38:43',
+                'created_at' => '2024-01-18 21:40:49',
+                'updated_at' => '2024-01-18 21:40:49',
             ),
             190 => 
             array (
@@ -2499,8 +2499,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 5968,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:39:20',
-                'updated_at' => '2024-01-17 16:39:20',
+                'created_at' => '2024-01-18 21:42:28',
+                'updated_at' => '2024-01-18 21:42:28',
             ),
             191 => 
             array (
@@ -2512,8 +2512,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6065,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:39:50',
-                'updated_at' => '2024-01-17 16:39:50',
+                'created_at' => '2024-01-18 21:43:47',
+                'updated_at' => '2024-01-18 21:43:47',
             ),
             192 => 
             array (
@@ -2525,8 +2525,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6092,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:39:59',
-                'updated_at' => '2024-01-17 16:39:59',
+                'created_at' => '2024-01-18 21:44:10',
+                'updated_at' => '2024-01-18 21:44:10',
             ),
             193 => 
             array (
@@ -2538,8 +2538,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6116,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:06',
-                'updated_at' => '2024-01-17 16:40:06',
+                'created_at' => '2024-01-18 21:44:29',
+                'updated_at' => '2024-01-18 21:44:29',
             ),
             194 => 
             array (
@@ -2551,8 +2551,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6122,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:08',
-                'updated_at' => '2024-01-17 16:40:08',
+                'created_at' => '2024-01-18 21:44:33',
+                'updated_at' => '2024-01-18 21:44:33',
             ),
             195 => 
             array (
@@ -2564,8 +2564,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6129,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:10',
-                'updated_at' => '2024-01-17 16:40:10',
+                'created_at' => '2024-01-18 21:44:39',
+                'updated_at' => '2024-01-18 21:44:39',
             ),
             196 => 
             array (
@@ -2577,8 +2577,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6130,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:10',
-                'updated_at' => '2024-01-17 16:40:10',
+                'created_at' => '2024-01-18 21:44:40',
+                'updated_at' => '2024-01-18 21:44:40',
             ),
             197 => 
             array (
@@ -2590,8 +2590,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6186,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:28',
-                'updated_at' => '2024-01-17 16:40:28',
+                'created_at' => '2024-01-18 21:45:24',
+                'updated_at' => '2024-01-18 21:45:24',
             ),
             198 => 
             array (
@@ -2603,8 +2603,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6187,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:28',
-                'updated_at' => '2024-01-17 16:40:28',
+                'created_at' => '2024-01-18 21:45:25',
+                'updated_at' => '2024-01-18 21:45:25',
             ),
             199 => 
             array (
@@ -2616,8 +2616,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6215,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:37',
-                'updated_at' => '2024-01-17 16:40:37',
+                'created_at' => '2024-01-18 21:45:48',
+                'updated_at' => '2024-01-18 21:45:48',
             ),
             200 => 
             array (
@@ -2629,8 +2629,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6250,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:47',
-                'updated_at' => '2024-01-17 16:40:47',
+                'created_at' => '2024-01-18 21:46:16',
+                'updated_at' => '2024-01-18 21:46:16',
             ),
             201 => 
             array (
@@ -2642,8 +2642,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6256,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:49',
-                'updated_at' => '2024-01-17 16:40:49',
+                'created_at' => '2024-01-18 21:46:21',
+                'updated_at' => '2024-01-18 21:46:21',
             ),
             202 => 
             array (
@@ -2655,8 +2655,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6257,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:50',
-                'updated_at' => '2024-01-17 16:40:50',
+                'created_at' => '2024-01-18 21:46:22',
+                'updated_at' => '2024-01-18 21:46:22',
             ),
             203 => 
             array (
@@ -2668,8 +2668,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6287,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:40:59',
-                'updated_at' => '2024-01-17 16:40:59',
+                'created_at' => '2024-01-18 21:46:46',
+                'updated_at' => '2024-01-18 21:46:46',
             ),
             204 => 
             array (
@@ -2681,8 +2681,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6343,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:16',
-                'updated_at' => '2024-01-17 16:41:16',
+                'created_at' => '2024-01-18 21:47:31',
+                'updated_at' => '2024-01-18 21:47:31',
             ),
             205 => 
             array (
@@ -2694,8 +2694,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6365,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:23',
-                'updated_at' => '2024-01-17 16:41:23',
+                'created_at' => '2024-01-18 21:47:48',
+                'updated_at' => '2024-01-18 21:47:48',
             ),
             206 => 
             array (
@@ -2707,8 +2707,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6408,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:36',
-                'updated_at' => '2024-01-17 16:41:36',
+                'created_at' => '2024-01-18 21:48:23',
+                'updated_at' => '2024-01-18 21:48:23',
             ),
             207 => 
             array (
@@ -2720,8 +2720,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6445,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:47',
-                'updated_at' => '2024-01-17 16:41:47',
+                'created_at' => '2024-01-18 21:48:52',
+                'updated_at' => '2024-01-18 21:48:52',
             ),
             208 => 
             array (
@@ -2733,8 +2733,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6479,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:41:58',
-                'updated_at' => '2024-01-17 16:41:58',
+                'created_at' => '2024-01-18 21:49:19',
+                'updated_at' => '2024-01-18 21:49:19',
             ),
             209 => 
             array (
@@ -2746,8 +2746,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6486,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:00',
-                'updated_at' => '2024-01-17 16:42:00',
+                'created_at' => '2024-01-18 21:49:24',
+                'updated_at' => '2024-01-18 21:49:24',
             ),
             210 => 
             array (
@@ -2759,8 +2759,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6508,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:07',
-                'updated_at' => '2024-01-17 16:42:07',
+                'created_at' => '2024-01-18 21:49:41',
+                'updated_at' => '2024-01-18 21:49:41',
             ),
             211 => 
             array (
@@ -2772,8 +2772,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6601,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:35',
-                'updated_at' => '2024-01-17 16:42:35',
+                'created_at' => '2024-01-18 21:50:56',
+                'updated_at' => '2024-01-18 21:50:56',
             ),
             212 => 
             array (
@@ -2785,8 +2785,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6610,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:42:38',
-                'updated_at' => '2024-01-17 16:42:38',
+                'created_at' => '2024-01-18 21:51:04',
+                'updated_at' => '2024-01-18 21:51:04',
             ),
             213 => 
             array (
@@ -2798,8 +2798,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6723,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:13',
-                'updated_at' => '2024-01-17 16:43:13',
+                'created_at' => '2024-01-18 21:52:36',
+                'updated_at' => '2024-01-18 21:52:36',
             ),
             214 => 
             array (
@@ -2811,8 +2811,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6734,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:17',
-                'updated_at' => '2024-01-17 16:43:17',
+                'created_at' => '2024-01-18 21:52:45',
+                'updated_at' => '2024-01-18 21:52:45',
             ),
             215 => 
             array (
@@ -2824,8 +2824,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6753,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:23',
-                'updated_at' => '2024-01-17 16:43:23',
+                'created_at' => '2024-01-18 21:53:01',
+                'updated_at' => '2024-01-18 21:53:01',
             ),
             216 => 
             array (
@@ -2837,8 +2837,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6800,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:37',
-                'updated_at' => '2024-01-17 16:43:37',
+                'created_at' => '2024-01-18 21:53:39',
+                'updated_at' => '2024-01-18 21:53:39',
             ),
             217 => 
             array (
@@ -2850,8 +2850,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 6814,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:43:42',
-                'updated_at' => '2024-01-17 16:43:42',
+                'created_at' => '2024-01-18 21:53:50',
+                'updated_at' => '2024-01-18 21:53:50',
             ),
             218 => 
             array (
@@ -2863,8 +2863,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7143,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:45:25',
-                'updated_at' => '2024-01-17 16:45:25',
+                'created_at' => '2024-01-18 21:58:32',
+                'updated_at' => '2024-01-18 21:58:32',
             ),
             219 => 
             array (
@@ -2876,8 +2876,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7161,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:45:31',
-                'updated_at' => '2024-01-17 16:45:31',
+                'created_at' => '2024-01-18 21:58:48',
+                'updated_at' => '2024-01-18 21:58:48',
             ),
             220 => 
             array (
@@ -2889,8 +2889,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7220,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:45:48',
-                'updated_at' => '2024-01-17 16:45:48',
+                'created_at' => '2024-01-18 21:59:36',
+                'updated_at' => '2024-01-18 21:59:36',
             ),
             221 => 
             array (
@@ -2902,8 +2902,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7232,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:45:52',
-                'updated_at' => '2024-01-17 16:45:52',
+                'created_at' => '2024-01-18 21:59:46',
+                'updated_at' => '2024-01-18 21:59:46',
             ),
             222 => 
             array (
@@ -2915,8 +2915,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7258,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:00',
-                'updated_at' => '2024-01-17 16:46:00',
+                'created_at' => '2024-01-18 22:00:08',
+                'updated_at' => '2024-01-18 22:00:08',
             ),
             223 => 
             array (
@@ -2928,8 +2928,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7353,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:29',
-                'updated_at' => '2024-01-17 16:46:29',
+                'created_at' => '2024-01-18 22:01:30',
+                'updated_at' => '2024-01-18 22:01:30',
             ),
             224 => 
             array (
@@ -2941,8 +2941,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7415,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:48',
-                'updated_at' => '2024-01-17 16:46:48',
+                'created_at' => '2024-01-18 22:02:23',
+                'updated_at' => '2024-01-18 22:02:23',
             ),
             225 => 
             array (
@@ -2954,8 +2954,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7431,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:46:53',
-                'updated_at' => '2024-01-17 16:46:53',
+                'created_at' => '2024-01-18 22:02:36',
+                'updated_at' => '2024-01-18 22:02:36',
             ),
             226 => 
             array (
@@ -2967,8 +2967,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7494,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:47:12',
-                'updated_at' => '2024-01-17 16:47:12',
+                'created_at' => '2024-01-18 22:03:31',
+                'updated_at' => '2024-01-18 22:03:31',
             ),
             227 => 
             array (
@@ -2980,8 +2980,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7566,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:47:35',
-                'updated_at' => '2024-01-17 16:47:35',
+                'created_at' => '2024-01-18 22:04:32',
+                'updated_at' => '2024-01-18 22:04:32',
             ),
             228 => 
             array (
@@ -2993,8 +2993,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7630,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:47:54',
-                'updated_at' => '2024-01-17 16:47:54',
+                'created_at' => '2024-01-18 22:05:25',
+                'updated_at' => '2024-01-18 22:05:25',
             ),
             229 => 
             array (
@@ -3006,8 +3006,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7658,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:03',
-                'updated_at' => '2024-01-17 16:48:03',
+                'created_at' => '2024-01-18 22:05:47',
+                'updated_at' => '2024-01-18 22:05:47',
             ),
             230 => 
             array (
@@ -3019,8 +3019,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7673,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:08',
-                'updated_at' => '2024-01-17 16:48:08',
+                'created_at' => '2024-01-18 22:05:59',
+                'updated_at' => '2024-01-18 22:05:59',
             ),
             231 => 
             array (
@@ -3032,8 +3032,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7684,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:11',
-                'updated_at' => '2024-01-17 16:48:11',
+                'created_at' => '2024-01-18 22:06:09',
+                'updated_at' => '2024-01-18 22:06:09',
             ),
             232 => 
             array (
@@ -3045,8 +3045,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7730,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:25',
-                'updated_at' => '2024-01-17 16:48:25',
+                'created_at' => '2024-01-18 22:06:49',
+                'updated_at' => '2024-01-18 22:06:49',
             ),
             233 => 
             array (
@@ -3058,8 +3058,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7763,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:35',
-                'updated_at' => '2024-01-17 16:48:35',
+                'created_at' => '2024-01-18 22:07:19',
+                'updated_at' => '2024-01-18 22:07:19',
             ),
             234 => 
             array (
@@ -3071,8 +3071,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7787,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:42',
-                'updated_at' => '2024-01-17 16:48:42',
+                'created_at' => '2024-01-18 22:07:42',
+                'updated_at' => '2024-01-18 22:07:42',
             ),
             235 => 
             array (
@@ -3084,8 +3084,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7796,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:45',
-                'updated_at' => '2024-01-17 16:48:45',
+                'created_at' => '2024-01-18 22:07:50',
+                'updated_at' => '2024-01-18 22:07:50',
             ),
             236 => 
             array (
@@ -3097,8 +3097,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7797,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:45',
-                'updated_at' => '2024-01-17 16:48:45',
+                'created_at' => '2024-01-18 22:07:51',
+                'updated_at' => '2024-01-18 22:07:51',
             ),
             237 => 
             array (
@@ -3110,8 +3110,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7831,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:56',
-                'updated_at' => '2024-01-17 16:48:56',
+                'created_at' => '2024-01-18 22:08:21',
+                'updated_at' => '2024-01-18 22:08:21',
             ),
             238 => 
             array (
@@ -3123,8 +3123,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7836,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:48:57',
-                'updated_at' => '2024-01-17 16:48:57',
+                'created_at' => '2024-01-18 22:08:26',
+                'updated_at' => '2024-01-18 22:08:26',
             ),
             239 => 
             array (
@@ -3136,8 +3136,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7843,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:00',
-                'updated_at' => '2024-01-17 16:49:00',
+                'created_at' => '2024-01-18 22:08:33',
+                'updated_at' => '2024-01-18 22:08:33',
             ),
             240 => 
             array (
@@ -3149,8 +3149,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7868,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:07',
-                'updated_at' => '2024-01-17 16:49:07',
+                'created_at' => '2024-01-18 22:08:55',
+                'updated_at' => '2024-01-18 22:08:55',
             ),
             241 => 
             array (
@@ -3162,8 +3162,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 7987,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:49:43',
-                'updated_at' => '2024-01-17 16:49:43',
+                'created_at' => '2024-01-18 22:10:43',
+                'updated_at' => '2024-01-18 22:10:43',
             ),
             242 => 
             array (
@@ -3175,8 +3175,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8162,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:37',
-                'updated_at' => '2024-01-17 16:50:37',
+                'created_at' => '2024-01-18 22:13:16',
+                'updated_at' => '2024-01-18 22:13:16',
             ),
             243 => 
             array (
@@ -3188,8 +3188,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8192,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:46',
-                'updated_at' => '2024-01-17 16:50:46',
+                'created_at' => '2024-01-18 22:13:45',
+                'updated_at' => '2024-01-18 22:13:45',
             ),
             244 => 
             array (
@@ -3201,8 +3201,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8204,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:50:50',
-                'updated_at' => '2024-01-17 16:50:50',
+                'created_at' => '2024-01-18 22:13:55',
+                'updated_at' => '2024-01-18 22:13:55',
             ),
             245 => 
             array (
@@ -3214,8 +3214,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8237,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:00',
-                'updated_at' => '2024-01-17 16:51:00',
+                'created_at' => '2024-01-18 22:14:23',
+                'updated_at' => '2024-01-18 22:14:23',
             ),
             246 => 
             array (
@@ -3227,8 +3227,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8287,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:15',
-                'updated_at' => '2024-01-17 16:51:15',
+                'created_at' => '2024-01-18 22:15:07',
+                'updated_at' => '2024-01-18 22:15:07',
             ),
             247 => 
             array (
@@ -3240,8 +3240,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8301,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:19',
-                'updated_at' => '2024-01-17 16:51:19',
+                'created_at' => '2024-01-18 22:15:20',
+                'updated_at' => '2024-01-18 22:15:20',
             ),
             248 => 
             array (
@@ -3253,8 +3253,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8309,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:22',
-                'updated_at' => '2024-01-17 16:51:22',
+                'created_at' => '2024-01-18 22:15:26',
+                'updated_at' => '2024-01-18 22:15:26',
             ),
             249 => 
             array (
@@ -3266,8 +3266,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8352,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:35',
-                'updated_at' => '2024-01-17 16:51:35',
+                'created_at' => '2024-01-18 22:16:03',
+                'updated_at' => '2024-01-18 22:16:03',
             ),
             250 => 
             array (
@@ -3279,8 +3279,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8383,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:51:45',
-                'updated_at' => '2024-01-17 16:51:45',
+                'created_at' => '2024-01-18 22:16:30',
+                'updated_at' => '2024-01-18 22:16:30',
             ),
             251 => 
             array (
@@ -3292,8 +3292,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8446,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:05',
-                'updated_at' => '2024-01-17 16:52:05',
+                'created_at' => '2024-01-18 22:17:23',
+                'updated_at' => '2024-01-18 22:17:23',
             ),
             252 => 
             array (
@@ -3305,8 +3305,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8491,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:19',
-                'updated_at' => '2024-01-17 16:52:19',
+                'created_at' => '2024-01-18 22:18:04',
+                'updated_at' => '2024-01-18 22:18:04',
             ),
             253 => 
             array (
@@ -3318,8 +3318,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8496,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:21',
-                'updated_at' => '2024-01-17 16:52:21',
+                'created_at' => '2024-01-18 22:18:08',
+                'updated_at' => '2024-01-18 22:18:08',
             ),
             254 => 
             array (
@@ -3331,8 +3331,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8506,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:24',
-                'updated_at' => '2024-01-17 16:52:24',
+                'created_at' => '2024-01-18 22:18:17',
+                'updated_at' => '2024-01-18 22:18:17',
             ),
             255 => 
             array (
@@ -3344,8 +3344,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8528,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:30',
-                'updated_at' => '2024-01-17 16:52:30',
+                'created_at' => '2024-01-18 22:18:35',
+                'updated_at' => '2024-01-18 22:18:35',
             ),
             256 => 
             array (
@@ -3357,8 +3357,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8549,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:37',
-                'updated_at' => '2024-01-17 16:52:37',
+                'created_at' => '2024-01-18 22:18:52',
+                'updated_at' => '2024-01-18 22:18:52',
             ),
             257 => 
             array (
@@ -3370,8 +3370,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8556,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:39',
-                'updated_at' => '2024-01-17 16:52:39',
+                'created_at' => '2024-01-18 22:18:58',
+                'updated_at' => '2024-01-18 22:18:58',
             ),
             258 => 
             array (
@@ -3383,8 +3383,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8572,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:44',
-                'updated_at' => '2024-01-17 16:52:44',
+                'created_at' => '2024-01-18 22:19:10',
+                'updated_at' => '2024-01-18 22:19:10',
             ),
             259 => 
             array (
@@ -3396,8 +3396,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8596,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:53',
-                'updated_at' => '2024-01-17 16:52:53',
+                'created_at' => '2024-01-18 22:19:32',
+                'updated_at' => '2024-01-18 22:19:32',
             ),
             260 => 
             array (
@@ -3409,8 +3409,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8599,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:52:54',
-                'updated_at' => '2024-01-17 16:52:54',
+                'created_at' => '2024-01-18 22:19:35',
+                'updated_at' => '2024-01-18 22:19:35',
             ),
             261 => 
             array (
@@ -3422,8 +3422,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8691,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:23',
-                'updated_at' => '2024-01-17 16:53:23',
+                'created_at' => '2024-01-18 22:20:58',
+                'updated_at' => '2024-01-18 22:20:58',
             ),
             262 => 
             array (
@@ -3435,8 +3435,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8714,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:31',
-                'updated_at' => '2024-01-17 16:53:31',
+                'created_at' => '2024-01-18 22:21:19',
+                'updated_at' => '2024-01-18 22:21:19',
             ),
             263 => 
             array (
@@ -3448,8 +3448,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8760,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:45',
-                'updated_at' => '2024-01-17 16:53:45',
+                'created_at' => '2024-01-18 22:21:59',
+                'updated_at' => '2024-01-18 22:21:59',
             ),
             264 => 
             array (
@@ -3461,8 +3461,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8775,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:49',
-                'updated_at' => '2024-01-17 16:53:49',
+                'created_at' => '2024-01-18 22:22:12',
+                'updated_at' => '2024-01-18 22:22:12',
             ),
             265 => 
             array (
@@ -3474,8 +3474,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8802,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:53:58',
-                'updated_at' => '2024-01-17 16:53:58',
+                'created_at' => '2024-01-18 22:22:38',
+                'updated_at' => '2024-01-18 22:22:38',
             ),
             266 => 
             array (
@@ -3487,8 +3487,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8858,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:16',
-                'updated_at' => '2024-01-17 16:54:16',
+                'created_at' => '2024-01-18 22:23:28',
+                'updated_at' => '2024-01-18 22:23:28',
             ),
             267 => 
             array (
@@ -3500,8 +3500,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8862,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:17',
-                'updated_at' => '2024-01-17 16:54:17',
+                'created_at' => '2024-01-18 22:23:32',
+                'updated_at' => '2024-01-18 22:23:32',
             ),
             268 => 
             array (
@@ -3513,8 +3513,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8900,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:29',
-                'updated_at' => '2024-01-17 16:54:29',
+                'created_at' => '2024-01-18 22:24:06',
+                'updated_at' => '2024-01-18 22:24:06',
             ),
             269 => 
             array (
@@ -3526,8 +3526,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8935,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:54:41',
-                'updated_at' => '2024-01-17 16:54:41',
+                'created_at' => '2024-01-18 22:24:35',
+                'updated_at' => '2024-01-18 22:24:35',
             ),
             270 => 
             array (
@@ -3539,8 +3539,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 8993,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:00',
-                'updated_at' => '2024-01-17 16:55:00',
+                'created_at' => '2024-01-18 22:25:31',
+                'updated_at' => '2024-01-18 22:25:31',
             ),
             271 => 
             array (
@@ -3552,8 +3552,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9121,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:41',
-                'updated_at' => '2024-01-17 16:55:41',
+                'created_at' => '2024-01-18 22:27:27',
+                'updated_at' => '2024-01-18 22:27:27',
             ),
             272 => 
             array (
@@ -3565,8 +3565,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9131,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:44',
-                'updated_at' => '2024-01-17 16:55:44',
+                'created_at' => '2024-01-18 22:27:35',
+                'updated_at' => '2024-01-18 22:27:35',
             ),
             273 => 
             array (
@@ -3578,8 +3578,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9166,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:55:55',
-                'updated_at' => '2024-01-17 16:55:55',
+                'created_at' => '2024-01-18 22:28:06',
+                'updated_at' => '2024-01-18 22:28:06',
             ),
             274 => 
             array (
@@ -3591,8 +3591,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9207,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:07',
-                'updated_at' => '2024-01-17 16:56:07',
+                'created_at' => '2024-01-18 22:28:42',
+                'updated_at' => '2024-01-18 22:28:42',
             ),
             275 => 
             array (
@@ -3604,8 +3604,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9211,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:09',
-                'updated_at' => '2024-01-17 16:56:09',
+                'created_at' => '2024-01-18 22:28:47',
+                'updated_at' => '2024-01-18 22:28:47',
             ),
             276 => 
             array (
@@ -3617,8 +3617,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9237,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:17',
-                'updated_at' => '2024-01-17 16:56:17',
+                'created_at' => '2024-01-18 22:29:10',
+                'updated_at' => '2024-01-18 22:29:10',
             ),
             277 => 
             array (
@@ -3630,8 +3630,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9301,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:38',
-                'updated_at' => '2024-01-17 16:56:38',
+                'created_at' => '2024-01-18 22:30:04',
+                'updated_at' => '2024-01-18 22:30:04',
             ),
             278 => 
             array (
@@ -3643,8 +3643,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9335,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:48',
-                'updated_at' => '2024-01-17 16:56:48',
+                'created_at' => '2024-01-18 22:30:35',
+                'updated_at' => '2024-01-18 22:30:35',
             ),
             279 => 
             array (
@@ -3656,8 +3656,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9348,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:56:52',
-                'updated_at' => '2024-01-17 16:56:52',
+                'created_at' => '2024-01-18 22:30:45',
+                'updated_at' => '2024-01-18 22:30:45',
             ),
             280 => 
             array (
@@ -3669,8 +3669,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9386,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:04',
-                'updated_at' => '2024-01-17 16:57:04',
+                'created_at' => '2024-01-18 22:31:20',
+                'updated_at' => '2024-01-18 22:31:20',
             ),
             281 => 
             array (
@@ -3682,8 +3682,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9395,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:07',
-                'updated_at' => '2024-01-17 16:57:07',
+                'created_at' => '2024-01-18 22:31:28',
+                'updated_at' => '2024-01-18 22:31:28',
             ),
             282 => 
             array (
@@ -3695,8 +3695,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9415,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:13',
-                'updated_at' => '2024-01-17 16:57:13',
+                'created_at' => '2024-01-18 22:31:50',
+                'updated_at' => '2024-01-18 22:31:50',
             ),
             283 => 
             array (
@@ -3708,8 +3708,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9443,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:21',
-                'updated_at' => '2024-01-17 16:57:21',
+                'created_at' => '2024-01-18 22:32:14',
+                'updated_at' => '2024-01-18 22:32:14',
             ),
             284 => 
             array (
@@ -3721,8 +3721,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9491,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:37',
-                'updated_at' => '2024-01-17 16:57:37',
+                'created_at' => '2024-01-18 22:33:00',
+                'updated_at' => '2024-01-18 22:33:00',
             ),
             285 => 
             array (
@@ -3734,8 +3734,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9497,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:57:38',
-                'updated_at' => '2024-01-17 16:57:38',
+                'created_at' => '2024-01-18 22:33:05',
+                'updated_at' => '2024-01-18 22:33:05',
             ),
             286 => 
             array (
@@ -3747,8 +3747,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9589,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:08',
-                'updated_at' => '2024-01-17 16:58:08',
+                'created_at' => '2024-01-18 22:34:27',
+                'updated_at' => '2024-01-18 22:34:27',
             ),
             287 => 
             array (
@@ -3760,8 +3760,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9655,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:31',
-                'updated_at' => '2024-01-17 16:58:31',
+                'created_at' => '2024-01-18 22:35:21',
+                'updated_at' => '2024-01-18 22:35:21',
             ),
             288 => 
             array (
@@ -3773,8 +3773,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9666,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:34',
-                'updated_at' => '2024-01-17 16:58:34',
+                'created_at' => '2024-01-18 22:35:31',
+                'updated_at' => '2024-01-18 22:35:31',
             ),
             289 => 
             array (
@@ -3786,8 +3786,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9686,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:41',
-                'updated_at' => '2024-01-17 16:58:41',
+                'created_at' => '2024-01-18 22:35:47',
+                'updated_at' => '2024-01-18 22:35:47',
             ),
             290 => 
             array (
@@ -3799,8 +3799,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9693,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:43',
-                'updated_at' => '2024-01-17 16:58:43',
+                'created_at' => '2024-01-18 22:35:53',
+                'updated_at' => '2024-01-18 22:35:53',
             ),
             291 => 
             array (
@@ -3812,8 +3812,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9723,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:58:53',
-                'updated_at' => '2024-01-17 16:58:53',
+                'created_at' => '2024-01-18 22:36:19',
+                'updated_at' => '2024-01-18 22:36:19',
             ),
             292 => 
             array (
@@ -3825,8 +3825,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9790,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:15',
-                'updated_at' => '2024-01-17 16:59:15',
+                'created_at' => '2024-01-18 22:37:20',
+                'updated_at' => '2024-01-18 22:37:20',
             ),
             293 => 
             array (
@@ -3838,8 +3838,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9800,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:19',
-                'updated_at' => '2024-01-17 16:59:19',
+                'created_at' => '2024-01-18 22:37:28',
+                'updated_at' => '2024-01-18 22:37:28',
             ),
             294 => 
             array (
@@ -3851,8 +3851,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9816,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:24',
-                'updated_at' => '2024-01-17 16:59:24',
+                'created_at' => '2024-01-18 22:37:44',
+                'updated_at' => '2024-01-18 22:37:44',
             ),
             295 => 
             array (
@@ -3864,8 +3864,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9871,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:41',
-                'updated_at' => '2024-01-17 16:59:41',
+                'created_at' => '2024-01-18 22:38:36',
+                'updated_at' => '2024-01-18 22:38:36',
             ),
             296 => 
             array (
@@ -3877,8 +3877,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9895,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:48',
-                'updated_at' => '2024-01-17 16:59:48',
+                'created_at' => '2024-01-18 22:38:56',
+                'updated_at' => '2024-01-18 22:38:56',
             ),
             297 => 
             array (
@@ -3890,8 +3890,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 9904,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 16:59:51',
-                'updated_at' => '2024-01-17 16:59:51',
+                'created_at' => '2024-01-18 22:39:04',
+                'updated_at' => '2024-01-18 22:39:04',
             ),
             298 => 
             array (
@@ -3903,8 +3903,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10045,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:34',
-                'updated_at' => '2024-01-17 17:00:34',
+                'created_at' => '2024-01-18 22:41:09',
+                'updated_at' => '2024-01-18 22:41:09',
             ),
             299 => 
             array (
@@ -3916,8 +3916,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10057,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:38',
-                'updated_at' => '2024-01-17 17:00:38',
+                'created_at' => '2024-01-18 22:41:18',
+                'updated_at' => '2024-01-18 22:41:18',
             ),
             300 => 
             array (
@@ -3929,8 +3929,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10092,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:49',
-                'updated_at' => '2024-01-17 17:00:49',
+                'created_at' => '2024-01-18 22:41:50',
+                'updated_at' => '2024-01-18 22:41:50',
             ),
             301 => 
             array (
@@ -3942,8 +3942,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10099,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:00:51',
-                'updated_at' => '2024-01-17 17:00:51',
+                'created_at' => '2024-01-18 22:41:56',
+                'updated_at' => '2024-01-18 22:41:56',
             ),
             302 => 
             array (
@@ -3955,8 +3955,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10138,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:03',
-                'updated_at' => '2024-01-17 17:01:03',
+                'created_at' => '2024-01-18 22:42:35',
+                'updated_at' => '2024-01-18 22:42:35',
             ),
             303 => 
             array (
@@ -3968,8 +3968,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10169,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:13',
-                'updated_at' => '2024-01-17 17:01:13',
+                'created_at' => '2024-01-18 22:43:02',
+                'updated_at' => '2024-01-18 22:43:02',
             ),
             304 => 
             array (
@@ -3981,8 +3981,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10200,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:22',
-                'updated_at' => '2024-01-17 17:01:22',
+                'created_at' => '2024-01-18 22:43:29',
+                'updated_at' => '2024-01-18 22:43:29',
             ),
             305 => 
             array (
@@ -3994,8 +3994,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10263,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:42',
-                'updated_at' => '2024-01-17 17:01:42',
+                'created_at' => '2024-01-18 22:44:24',
+                'updated_at' => '2024-01-18 22:44:24',
             ),
             306 => 
             array (
@@ -4007,8 +4007,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10267,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:44',
-                'updated_at' => '2024-01-17 17:01:44',
+                'created_at' => '2024-01-18 22:44:28',
+                'updated_at' => '2024-01-18 22:44:28',
             ),
             307 => 
             array (
@@ -4020,8 +4020,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10276,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:46',
-                'updated_at' => '2024-01-17 17:01:46',
+                'created_at' => '2024-01-18 22:44:37',
+                'updated_at' => '2024-01-18 22:44:37',
             ),
             308 => 
             array (
@@ -4033,8 +4033,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10283,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:48',
-                'updated_at' => '2024-01-17 17:01:48',
+                'created_at' => '2024-01-18 22:44:44',
+                'updated_at' => '2024-01-18 22:44:44',
             ),
             309 => 
             array (
@@ -4046,8 +4046,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10295,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:01:52',
-                'updated_at' => '2024-01-17 17:01:52',
+                'created_at' => '2024-01-18 22:44:54',
+                'updated_at' => '2024-01-18 22:44:54',
             ),
             310 => 
             array (
@@ -4059,8 +4059,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10350,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:09',
-                'updated_at' => '2024-01-17 17:02:09',
+                'created_at' => '2024-01-18 22:45:41',
+                'updated_at' => '2024-01-18 22:45:41',
             ),
             311 => 
             array (
@@ -4072,8 +4072,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10368,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:14',
-                'updated_at' => '2024-01-17 17:02:14',
+                'created_at' => '2024-01-18 22:45:59',
+                'updated_at' => '2024-01-18 22:45:59',
             ),
             312 => 
             array (
@@ -4085,8 +4085,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10369,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:15',
-                'updated_at' => '2024-01-17 17:02:15',
+                'created_at' => '2024-01-18 22:46:00',
+                'updated_at' => '2024-01-18 22:46:00',
             ),
             313 => 
             array (
@@ -4098,8 +4098,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10371,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:15',
-                'updated_at' => '2024-01-17 17:02:15',
+                'created_at' => '2024-01-18 22:46:01',
+                'updated_at' => '2024-01-18 22:46:01',
             ),
             314 => 
             array (
@@ -4111,8 +4111,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10376,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:17',
-                'updated_at' => '2024-01-17 17:02:17',
+                'created_at' => '2024-01-18 22:46:05',
+                'updated_at' => '2024-01-18 22:46:05',
             ),
             315 => 
             array (
@@ -4124,8 +4124,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10381,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:18',
-                'updated_at' => '2024-01-17 17:02:18',
+                'created_at' => '2024-01-18 22:46:09',
+                'updated_at' => '2024-01-18 22:46:09',
             ),
             316 => 
             array (
@@ -4137,8 +4137,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10463,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:44',
-                'updated_at' => '2024-01-17 17:02:44',
+                'created_at' => '2024-01-18 22:47:24',
+                'updated_at' => '2024-01-18 22:47:24',
             ),
             317 => 
             array (
@@ -4150,8 +4150,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10464,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:44',
-                'updated_at' => '2024-01-17 17:02:44',
+                'created_at' => '2024-01-18 22:47:24',
+                'updated_at' => '2024-01-18 22:47:24',
             ),
             318 => 
             array (
@@ -4163,8 +4163,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10467,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:45',
-                'updated_at' => '2024-01-17 17:02:45',
+                'created_at' => '2024-01-18 22:47:27',
+                'updated_at' => '2024-01-18 22:47:27',
             ),
             319 => 
             array (
@@ -4176,8 +4176,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10514,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:02:59',
-                'updated_at' => '2024-01-17 17:02:59',
+                'created_at' => '2024-01-18 22:48:10',
+                'updated_at' => '2024-01-18 22:48:10',
             ),
             320 => 
             array (
@@ -4189,8 +4189,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10544,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:09',
-                'updated_at' => '2024-01-17 17:03:09',
+                'created_at' => '2024-01-18 22:48:39',
+                'updated_at' => '2024-01-18 22:48:39',
             ),
             321 => 
             array (
@@ -4202,8 +4202,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10557,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:13',
-                'updated_at' => '2024-01-17 17:03:13',
+                'created_at' => '2024-01-18 22:48:50',
+                'updated_at' => '2024-01-18 22:48:50',
             ),
             322 => 
             array (
@@ -4215,8 +4215,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10570,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:17',
-                'updated_at' => '2024-01-17 17:03:17',
+                'created_at' => '2024-01-18 22:49:00',
+                'updated_at' => '2024-01-18 22:49:00',
             ),
             323 => 
             array (
@@ -4228,8 +4228,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10581,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:20',
-                'updated_at' => '2024-01-17 17:03:20',
+                'created_at' => '2024-01-18 22:49:09',
+                'updated_at' => '2024-01-18 22:49:09',
             ),
             324 => 
             array (
@@ -4241,8 +4241,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10589,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:23',
-                'updated_at' => '2024-01-17 17:03:23',
+                'created_at' => '2024-01-18 22:49:16',
+                'updated_at' => '2024-01-18 22:49:16',
             ),
             325 => 
             array (
@@ -4254,8 +4254,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10592,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:24',
-                'updated_at' => '2024-01-17 17:03:24',
+                'created_at' => '2024-01-18 22:49:19',
+                'updated_at' => '2024-01-18 22:49:19',
             ),
             326 => 
             array (
@@ -4267,8 +4267,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10663,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:46',
-                'updated_at' => '2024-01-17 17:03:46',
+                'created_at' => '2024-01-18 22:50:25',
+                'updated_at' => '2024-01-18 22:50:25',
             ),
             327 => 
             array (
@@ -4280,8 +4280,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10677,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:51',
-                'updated_at' => '2024-01-17 17:03:51',
+                'created_at' => '2024-01-18 22:50:38',
+                'updated_at' => '2024-01-18 22:50:38',
             ),
             328 => 
             array (
@@ -4293,8 +4293,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10685,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:54',
-                'updated_at' => '2024-01-17 17:03:54',
+                'created_at' => '2024-01-18 22:50:45',
+                'updated_at' => '2024-01-18 22:50:45',
             ),
             329 => 
             array (
@@ -4306,8 +4306,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10686,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:03:55',
-                'updated_at' => '2024-01-17 17:03:55',
+                'created_at' => '2024-01-18 22:50:45',
+                'updated_at' => '2024-01-18 22:50:45',
             ),
             330 => 
             array (
@@ -4319,8 +4319,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10765,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:19',
-                'updated_at' => '2024-01-17 17:04:19',
+                'created_at' => '2024-01-18 22:51:59',
+                'updated_at' => '2024-01-18 22:51:59',
             ),
             331 => 
             array (
@@ -4332,8 +4332,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10769,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:20',
-                'updated_at' => '2024-01-17 17:04:20',
+                'created_at' => '2024-01-18 22:52:02',
+                'updated_at' => '2024-01-18 22:52:02',
             ),
             332 => 
             array (
@@ -4345,8 +4345,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10787,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:25',
-                'updated_at' => '2024-01-17 17:04:25',
+                'created_at' => '2024-01-18 22:52:18',
+                'updated_at' => '2024-01-18 22:52:18',
             ),
             333 => 
             array (
@@ -4358,8 +4358,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10838,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:41',
-                'updated_at' => '2024-01-17 17:04:41',
+                'created_at' => '2024-01-18 22:53:03',
+                'updated_at' => '2024-01-18 22:53:03',
             ),
             334 => 
             array (
@@ -4371,8 +4371,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10862,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:48',
-                'updated_at' => '2024-01-17 17:04:48',
+                'created_at' => '2024-01-18 22:53:24',
+                'updated_at' => '2024-01-18 22:53:24',
             ),
             335 => 
             array (
@@ -4384,8 +4384,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10899,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:04:59',
-                'updated_at' => '2024-01-17 17:04:59',
+                'created_at' => '2024-01-18 22:53:59',
+                'updated_at' => '2024-01-18 22:53:59',
             ),
             336 => 
             array (
@@ -4397,8 +4397,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10929,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:05:08',
-                'updated_at' => '2024-01-17 17:05:08',
+                'created_at' => '2024-01-18 22:54:23',
+                'updated_at' => '2024-01-18 22:54:23',
             ),
             337 => 
             array (
@@ -4410,8 +4410,8 @@ class QualifierDefermentsTableSeeder extends Seeder
                 'is_seened' => 0,
                 'qualifier_id' => 10948,
                 'user_id' => 1,
-                'created_at' => '2024-01-17 17:05:14',
-                'updated_at' => '2024-01-17 17:05:14',
+                'created_at' => '2024-01-18 22:54:45',
+                'updated_at' => '2024-01-18 22:54:45',
             ),
         ));
         

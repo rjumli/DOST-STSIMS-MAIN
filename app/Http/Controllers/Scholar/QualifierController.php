@@ -64,7 +64,7 @@ class QualifierController extends Controller
                 return $this->update->edit($request);
             break;
             case 'api':
-                return $this->api->fetch($request);
+                return $this->api->jlss($request);
             break;
         }
     }
