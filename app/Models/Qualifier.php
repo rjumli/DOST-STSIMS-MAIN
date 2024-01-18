@@ -21,7 +21,8 @@ class Qualifier extends Model
         'is_endorsed',
         'information',
         'school',
-        'course'
+        'course',
+        'school_region'
     ];
 
     public function type()

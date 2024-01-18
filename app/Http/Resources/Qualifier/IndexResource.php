@@ -15,6 +15,8 @@ class IndexResource extends JsonResource
         return [
             'code' => $id,
             'id' => $this->id,
+            'school' => $this->school,
+            'course' => $this->course,
             'spas_id' => $this->spas_id,
             'program' => $this->program,
             'type' => $this->type,
@@ -26,6 +28,7 @@ class IndexResource extends JsonResource
             'deferment' => $this->deferment,
             'notavail' => $this->notavail,
             'endorsement' => $this->endorsement,
+            'is_endorsed' => $this->is_endorsed,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
         ];

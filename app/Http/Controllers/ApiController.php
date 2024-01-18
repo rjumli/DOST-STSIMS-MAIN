@@ -152,45 +152,55 @@ class ApiController extends Controller
         $filter = (!empty(json_decode($request->subfilters))) ? json_decode($request->subfilters) : NULL;
         $keyword = $info->keyword;
         $counts = $info->counts;
+        $type = $info->type;
 
         $bearer = $request->bearerToken();
         $token = PersonalAccessToken::findToken($bearer);
         $region = $token->tokenable->profile->agency->region_code;
 
         $data = Qualifier::with('address')->with('profile')
-        ->whereHas('address',function ($query) use ($region,$filter) {
-            $query->where('region_code',$region); 
-            if(!empty($filter)){
-                (property_exists($filter, 'region')) ? $query->where('region_code',$filter->region) : '';
-                (property_exists($filter, 'province')) ? $query->where('province_code',$filter->province) : '';
-                (property_exists($filter, 'municipality')) ? $query->where('municipality_code',$filter->municipality) : '';
-                (property_exists($filter, 'barangay')) ? $query->where('barangay_code',$filter->barangay) : '';
-            }
+        ->when($type, function ($query,$type) {
+            $query->where('is_undergrad',$type);
         })
-        ->whereHas('profile',function ($query) use ($keyword) {
-            $query->when($keyword, function ($query, $keyword) {
-                $query->where(\DB::raw('concat(firstname," ",lastname)'), 'LIKE', '%'.$keyword.'%')
-                ->where(\DB::raw('concat(lastname," ",firstname)'), 'LIKE', '%'.$keyword.'%')
-                ->orWhere('spas_id','LIKE','%'.$keyword.'%');
-            });
-        })
-        ->whereHas('status',function ($query) use ($info) {
-            if(!empty($info)){
-                ($info->status == null) ? '' : $query->where('status_id',$info->status);
-            }
-        })
-        ->where(function ($query) use ($info,$filter) {
-            if(!empty($filter)){
-                (property_exists($filter, 'program')) ? $query->where('program_id',$filter->program) : '';
-                (property_exists($filter, 'subprogram')) ? $query->where('subprogram_id',$filter->subprogram) : '';
-            }
-            if(!empty($info)){
-                ($info->year == null) ? '' : $query->where('qualified_year',$info->year);
-            }
-         })
-        //  ->where(function ($query){
-        //     $query->where('is_endorsed',0);
+
+        // ->whereHas('address',function ($query) use ($region,$filter,$type) {
+        //     ($type) ? $query->where('region_code',$region) : ''; 
+        //     if(!empty($filter)){
+        //         (property_exists($filter, 'region')) ? $query->where('region_code',$filter->region) : '';
+        //         (property_exists($filter, 'province')) ? $query->where('province_code',$filter->province) : '';
+        //         (property_exists($filter, 'municipality')) ? $query->where('municipality_code',$filter->municipality) : '';
+        //         (property_exists($filter, 'barangay')) ? $query->where('barangay_code',$filter->barangay) : '';
+        //     }
         // })
+        // ->whereHas('profile',function ($query) use ($keyword) {
+        //     $query->when($keyword, function ($query, $keyword) {
+        //         $query->where(\DB::raw('concat(firstname," ",lastname)'), 'LIKE', '%'.$keyword.'%')
+        //         ->where(\DB::raw('concat(lastname," ",firstname)'), 'LIKE', '%'.$keyword.'%')
+        //         ->orWhere('spas_id','LIKE','%'.$keyword.'%');
+        //     });
+        // })
+        // ->whereHas('status',function ($query) use ($info) {
+        //     if(!empty($info)){
+        //         ($info->status == null) ? '' : $query->where('status_id',$info->status);
+        //     }
+        // })
+        // ->where(function ($query) use ($info,$filter) {
+        //     if(!empty($filter)){
+        //         (property_exists($filter, 'program')) ? $query->where('program_id',$filter->program) : '';
+        //         (property_exists($filter, 'subprogram')) ? $query->where('subprogram_id',$filter->subprogram) : '';
+        //     }
+        //     if(!empty($info)){
+        //         ($info->year == null) ? '' : $query->where('qualified_year',$info->year);
+        //     }
+        //  })
+         ->where(function ($query) use ($region,$type){
+            if(!$type){
+                $query->where('school_region',$region);
+            }
+        })
+        ->when($type, function ($query,$type) {
+            $query->where('is_undergrad',$type);
+        })
         ->paginate($counts);
         return IndexResource::collection($data);
     }
@@ -256,8 +266,8 @@ class ApiController extends Controller
         foreach($statuses as $status){
             $statistics[] = [
                 'status' => $status->name,
-                'count' => Qualifier::where('status_id',$status->id)
-                        ->where('is_endorsed',0)->where('qualified_year',$year)
+                'count' => Qualifier::where('is_endorsed',0)->where('status_id',$status->id)
+                        ->where('qualified_year',$year)
                         ->whereHas('address',function ($query) use ($region) {
                             $query->where('region_code',$region);
                         })
@@ -265,26 +275,21 @@ class ApiController extends Controller
             ];
         }
         $types = [
-            Qualifier::where('is_undergrad',1)->where('is_endorsed',0)
+            Qualifier::where('is_undergrad',1)
             ->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })->where('qualified_year',$year)->count(),
-            Qualifier::where('is_undergrad',0)->where('is_endorsed',0)
-            ->whereHas('address',function ($query) use ($region) {
-                $query->where('region_code',$region);
-             })->where('qualified_year',$year)->count(),
+            Qualifier::where('is_undergrad',0)
+            ->where('school_region',$region)
+            ->where('qualified_year',$year)->count(),
         ];
+
         $array = [
             'year' => $year,
-            'total' => Qualifier::where('qualified_year',$year)->where('is_endorsed',0)
+            'total' => Qualifier::where('qualified_year',$year)
             ->whereHas('address',function ($query) use ($region) {
                 $query->where('region_code',$region);
              })->count(),
-            'statistics' => $statistics,
-            'types' => $types,
-            'endorsements' =>  Qualifier::where('is_endorsed',1)->whereHas('address',function ($query) use ($region) {
-                $query->where('region_code',$region);
-             })->where('qualified_year',$year)->count(),
             'ongoing' =>  Qualifier::whereHas('type',function ($query) {
                 $query->where('name','Enrolled');
             })
@@ -293,6 +298,11 @@ class ApiController extends Controller
                 $query->where('region_code',$region);
              })
             ->where('qualified_year',$year)->count(),
+            'statistics' => $statistics,
+            'types' => $types,
+            'endorsements' =>  Qualifier::where('is_endorsed',1)->whereHas('address',function ($query) use ($region) {
+                $query->where('region_code',$region);
+            })->where('qualified_year',$year)->count()
         ];
         return $array;
     }

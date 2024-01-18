@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Qualifier;
 use Illuminate\Http\Request;
 use App\Providers\RouteServiceProvider;
 
