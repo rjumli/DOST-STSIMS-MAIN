@@ -24,7 +24,6 @@ class UpdateService
         if($count == 0){
             $info = [
                 'spas_id' => $scholar['spas_id'],
-                'account_no' => $request->account_no,
                 'program_id' => $scholar['program']['id'],
                 'subprogram_id' => $scholar['subprogram']['id'],
                 'category_id' => 21,
