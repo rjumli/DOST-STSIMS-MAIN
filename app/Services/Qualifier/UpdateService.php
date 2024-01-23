@@ -94,7 +94,7 @@ class UpdateService
                         $address_info = ScholarAddress::insertOrIgnore($address);
 
                         if($address_info){
-                            $qualifier = Qualifier::where('id',$scholar['id'])->update(['status_type' => 17, 'status_id' => 18,'is_completed' => 1]);
+                            $qualifier = Qualifier::where('id',$scholar['id'])->update(['status_id' => 17,'is_completed' => 1]);
                             $type = 'bxs-check-circle';
                             $message = 'Qualifier tag as scholar successfully. Thanks';
                             if($qualifier){
@@ -173,7 +173,7 @@ class UpdateService
         $token = PersonalAccessToken::findToken($bearer);
 
         $data = Qualifier::where('id',$request->id)->update($request->except('id','reason','type'));
-        if($request->status_type == 16){
+        if($request->status_id == 16){
             $postData = array(
                 'reason' => $request->reason,
                 'qualifier_id' => $request->id,
@@ -183,7 +183,7 @@ class UpdateService
             );
             QualifierNotavail::create($postData);
         }
-        if($request->status_type == 15){
+        if($request->status_id == 15){
             $postData = array(
                 'reason' => $request->reason,
                 'qualifier_id' => $request->id,
