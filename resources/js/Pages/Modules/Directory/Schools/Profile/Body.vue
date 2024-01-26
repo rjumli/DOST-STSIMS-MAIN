@@ -2,7 +2,7 @@
    <b-col lg="8">
         <b-row>
             <b-col lg="12">
-                <b-card no-body>
+                <b-card no-body v-if="school.data.class.name == 'SUC'">
                     <div class="alert alert-success border-0 rounded-0 m-0 d-flex align-items-center" role="alert">
                         <div class="flex-grow-1 text-truncate">
                             <b>Main Campus</b>
@@ -67,7 +67,8 @@
                 <b-card no-body>
                     <div class="alert alert-primary border-0 rounded-0 m-0 d-flex align-items-center" role="alert">
                         <div class="flex-grow-1 text-truncate">
-                            <b>Sub Campuses</b>
+                            <b v-if="school.data.class.name == 'SUC'">Satellite Campuses</b>
+                            <b v-else>Campuses</b>
                         </div>
                         <div class="flex-shrink-0">
                             <button @click="openCreate(false)" type="button" class="btn btn-primary btn-sm">
@@ -75,7 +76,7 @@
                             </button>
                         </div>
                     </div>
-                    <b-card-body style="height: calc(100vh - 510px)">
+                    <b-card-body :style="(school.data.class.name == 'SUC') ? 'height: calc(100vh - 510px )' : 'height: calc(100vh - 341px )'">
                         <div class="table-responsive mb-3">
                             <table class="table align-middle table-nowrap mb-0">
                                 <thead class="table-light fs-12">
@@ -90,11 +91,11 @@
                                 </thead>
                             </table>
                             <table class="table align-middle table-nowrap mb-0">
-                                <tbody class="list form-check-all">
+                                <tbody class="list form-check-all" style="overflow: auto; height: 300px;">
                                     <tr v-for="list in school.data.campuses" v-bind:key="list.id" :class="[(list.is_active == 0) ? 'table-warnings' : '']">
                                         <td width="25%">
-                                            <h5 v-b-tooltip.hover :title="list.oldname" class="fs-13 mb-0 text-dark">{{list.campus}}, {{list.municipality.name}}</h5>
-                                            <p class="fs-12 text-muted mb-0">{{list.province.name}}, {{list.region.region}}</p>
+                                            <h5 v-b-tooltip.hover :title="list.oldname" class="fs-13 mb-0 text-dark">{{list.campus}}</h5>
+                                            <p class="fs-12 text-muted mb-0">{{list.municipality.name}}, {{list.province.name}}, {{list.region.region}}</p>
                                         </td>
                                         <td width="15%" class="text-center">{{(list.term) ? list.term.name : ''}}</td>
                                         <td width="15%" class="text-center">{{(list.grading) ? list.grading.name : ''}}</td>

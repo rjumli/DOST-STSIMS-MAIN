@@ -162,6 +162,12 @@
                         <input type="text" class="form-control" v-model="campus.address" style="text-transform: uppercase;">
                     </div>
                 </div>
+                <div class="col-md-12 mt-2">
+                    <div class="form-check">
+                        <input class="form-check-input" v-model="campus.is_alone" type="checkbox" id="gridCheck"/>
+                        <label class="form-check-label" for="gridCheck">Is alone in name school?</label>
+                    </div>
+                </div>
             </div>
         </b-form>
         <template v-slot:footer>
@@ -182,6 +188,7 @@ export default {
             id: '',
             campus: {
                 is_main: '',
+                is_alone: false,
                 old: '',
                 campus: '',
                 grading: '',
@@ -225,6 +232,7 @@ export default {
         create(){
             this.form = this.$inertia.form({
                 is_main: this.campus.is_main,
+                is_alone: this.campus.is_alone,
                 campus: (this.campus.campus) ? this.campus.campus : '',
                 oldname: (this.campus.old) ? this.campus.old : '',
                 address: (this.campus.address) ? this.campus.address : '',
@@ -269,3 +277,8 @@ export default {
     }
 }
 </script>
+<style>
+.form-control input {
+    height: 35px;
+}
+</style>

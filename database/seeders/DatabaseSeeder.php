@@ -37,31 +37,31 @@ class DatabaseSeeder extends Seeder
         //     'updated_at' => now(),
         // ]);
 
-        // $this->call(LocationRegionsTableSeeder::class);
-        // $this->call(LocationProvincesTableSeeder::class);
-        // $this->call(LocationMunicipalitiesTableSeeder::class);
-        // $this->call(LocationBarangaysTableSeeder::class);
-        // $this->call(ListAgenciesTableSeeder::class);
-        // $this->call(ListPrivilegesTableSeeder::class);
-        // $this->call(ListProgramsTableSeeder::class);
-        // $this->call(ListDropdownsTableSeeder::class);
-        // $this->call(SchoolsTableSeeder::class);
-        // $this->call(SchoolCampusesTableSeeder::class);
-        // $this->call(ListCoursesTableSeeder::class);
-        // $this->call(ListStatusesTableSeeder::class);
-        // $this->call(UsersTableSeeder::class);
-        // $this->call(UserProfilesTableSeeder::class);
+        $this->call(LocationRegionsTableSeeder::class);
+        $this->call(LocationProvincesTableSeeder::class);
+        $this->call(LocationMunicipalitiesTableSeeder::class);
+        $this->call(LocationBarangaysTableSeeder::class);
+        $this->call(ListAgenciesTableSeeder::class);
+        $this->call(ListPrivilegesTableSeeder::class);
+        $this->call(ListProgramsTableSeeder::class);
+        $this->call(ListDropdownsTableSeeder::class);
+        $this->call(SchoolsTableSeeder::class);
+        $this->call(SchoolCampusesTableSeeder::class);
+        $this->call(ListCoursesTableSeeder::class);
+        $this->call(ListStatusesTableSeeder::class);
+        $this->call(UsersTableSeeder::class);
+        $this->call(UserProfilesTableSeeder::class);
         // $this->call(SchoolCoursesTableSeeder::class);
         // $this->call(ScholarsTableSeeder::class);
         // $this->call(ScholarProfilesTableSeeder::class);
         // $this->call(ScholarEducationTableSeeder::class);
         // $this->call(ScholarAddressesTableSeeder::class);
         
-        $this->call(QualifiersTableSeeder::class);
-        $this->call(QualifierAddressesTableSeeder::class);
-        $this->call(QualifierProfilesTableSeeder::class);
-        $this->call(QualifierDefermentsTableSeeder::class);
-        $this->call(QualifierNotavailsTableSeeder::class);
+        // $this->call(QualifiersTableSeeder::class);
+        // $this->call(QualifierAddressesTableSeeder::class);
+        // $this->call(QualifierProfilesTableSeeder::class);
+        // $this->call(QualifierDefermentsTableSeeder::class);
+        // $this->call(QualifierNotavailsTableSeeder::class);
         // $this->call(QualifierEndorsementsTableSeeder::class);
     }
 }

@@ -50,5 +50,7 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
+Route::get('/insert', [App\Http\Controllers\Directory\SchoolController::class, 'insert']);
+
 require __DIR__.'/authentication.php';
 require __DIR__.'/lists.php';

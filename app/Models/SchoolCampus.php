@@ -10,11 +10,14 @@ class SchoolCampus extends Model
     use HasFactory;
 
     protected $fillable = [
+        'code',
         'campus',
         'shortcut',
         'address',
         'oldname',
         'is_main',
+        'is_alone',
+        'is_active',
         'term_id',
         'grading_id',
         'school_id',

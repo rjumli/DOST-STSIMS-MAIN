@@ -14,6 +14,9 @@
                 <b-button type="button" variant="primary" @click="openCreate">
                     <i class="ri-add-circle-fill align-bottom me-1"></i> Create
                 </b-button>
+                <b-button type="button" variant="primary" @click="openCreateMore">
+                    <i class="ri-add-circle-fill align-bottom me-1"></i> Create More
+                </b-button>
             </div>
         </b-col>
     </b-row>
@@ -60,15 +63,17 @@
         <Pagination class="ms-2 me-2" v-if="meta" @fetch="fetch" :lists="lists.length" :links="links" :pagination="meta" />
     </div>
     <Create :classes="classes" ref="create"/>
+    <CreateMore :classes="classes" ref="createmore"/>
 </template>
 <script>
 import Create from './Modals/Create.vue';
+import CreateMore from './Modals/CreateMore.vue';
 import Multiselect from "@vueform/multiselect";
 import "@vueform/multiselect/themes/default.css";
 import Pagination from "@/Shared/Components/Pagination.vue";
 export default {
     props: ['dropdowns'],
-    components: { Pagination, Create, Multiselect },
+    components: { Pagination, Create, CreateMore, Multiselect },
     data() {
         return {
             currentUrl: window.location.origin,
@@ -108,6 +113,10 @@ export default {
         openCreate(){
             this.type = 'create';
             this.$refs.create.show();
+        },
+        openCreateMore(){
+            this.type = 'create';
+            this.$refs.createmore.show();
         },
         openUpdate(data,index){
             this.type = 'edit';

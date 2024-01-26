@@ -31,7 +31,7 @@ class ListDropdownsTableSeeder extends Seeder
             1 => 
             array (
                 'id' => 2,
-                'name' => 'Private',
+                'name' => 'SUC',
                 'classification' => 'Class',
                 'type' => 'n/a',
                 'color' => 'n/a',
@@ -40,7 +40,7 @@ class ListDropdownsTableSeeder extends Seeder
             2 => 
             array (
                 'id' => 3,
-                'name' => 'Public',
+                'name' => 'LUC',
                 'classification' => 'Class',
                 'type' => 'n/a',
                 'color' => 'n/a',
@@ -366,6 +366,15 @@ class ListDropdownsTableSeeder extends Seeder
                 'id' => 39,
                 'name' => 'JLSS',
                 'classification' => 'Type',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => 'n/a',
+            ),
+            39 => 
+            array (
+                'id' => 40,
+                'name' => 'Private',
+                'classification' => 'Class',
                 'type' => 'n/a',
                 'color' => 'n/a',
                 'others' => 'n/a',

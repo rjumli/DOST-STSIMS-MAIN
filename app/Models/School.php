@@ -13,6 +13,7 @@ class School extends Model
         'name',
         'class_id',
         'shortcut',
+        'combiner',
         'avatar',
         'is_upsystem',
         'is_active'

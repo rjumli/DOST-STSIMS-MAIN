@@ -19,7 +19,9 @@ class SchoolService
         ->with('campuses.grading','campuses.term','campuses.region','campuses.assigned','campuses.province','campuses.municipality','campuses.courses.course')
         ->when($request->keyword, function ($query, $keyword) {
             $query->where('name', 'LIKE', '%'.$keyword.'%');
-        })->paginate($request->counts);
+        })
+        ->orderBy('id','DESC')
+        ->paginate($request->counts);
         
         return IndexResource::collection($data);
     }
