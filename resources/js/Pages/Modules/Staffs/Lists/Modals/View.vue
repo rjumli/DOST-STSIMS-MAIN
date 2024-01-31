@@ -65,6 +65,7 @@ export default {
                 params : {
                     id: this.user.id,
                     counts: ((window.innerHeight-350)/56),
+                    url: this.currentUrl,
                     option: 'token'
                 }
             })

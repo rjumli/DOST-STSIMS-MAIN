@@ -40,10 +40,22 @@ class SaveService
         return new IndexResource($data);
     }
 
-    public static function token($request){
+    public function token($request){
         $user = User::findOrFail($request->id);
         $user->tokens()->delete();
         $token = $user->createToken('kradworkz')->plainTextToken;
-        return $token;
+        $id = $user->profile->agency->id;
+        $url = $request->url;
+        $data = $id.' '.$url.' '.$token;
+        return $this->simpleEncrypt($data);
+    }
+
+    public function simpleEncrypt($data) {
+        $key = "KradWorkZ";
+        $result = '';
+        for ($i = 0; $i < strlen($data); $i++) {
+            $result .= $data[$i] ^ $key[$i % strlen($key)];
+        }
+        return base64_encode($result);
     }
 }
