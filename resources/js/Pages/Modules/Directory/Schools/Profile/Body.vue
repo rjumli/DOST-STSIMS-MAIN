@@ -76,7 +76,7 @@
                             </button>
                         </div>
                     </div>
-                    <b-card-body :style="(school.data.class.name == 'SUC') ? 'height: calc(100vh - 510px )' : 'height: calc(100vh - 341px )'">
+                    <b-card-body :style="(school.data.class.name == 'SUC') ? 'height: calc(100vh - 510px )' : 'height: calc(100vh - 341px )'" style="overflow: auto;">
                         <div class="table-responsive mb-3">
                             <table class="table align-middle table-nowrap mb-0">
                                 <thead class="table-light fs-12">

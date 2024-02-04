@@ -56,7 +56,7 @@ class LocationRegionsTableSeeder extends Seeder
                 'id' => 5,
                 'code' => '170000000',
                 'name' => 'MIMAROPA Region',
-                'region' => 'MIMAROPA Region',
+                'region' => 'Region IV-B',
                 'island' => 'luzon',
             ),
             5 => 
@@ -152,7 +152,7 @@ class LocationRegionsTableSeeder extends Seeder
                 'id' => 17,
                 'code' => '160000000',
                 'name' => 'Caraga',
-                'region' => 'Region XIII',
+                'region' => 'CARAGA',
                 'island' => 'mindanao',
             ),
         ));

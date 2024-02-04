@@ -47,11 +47,13 @@ class DatabaseSeeder extends Seeder
         $this->call(ListDropdownsTableSeeder::class);
         $this->call(SchoolsTableSeeder::class);
         $this->call(SchoolCampusesTableSeeder::class);
+        $this->call(SchoolNamesTableSeeder::class);
         $this->call(ListCoursesTableSeeder::class);
         $this->call(ListStatusesTableSeeder::class);
         $this->call(UsersTableSeeder::class);
         $this->call(UserProfilesTableSeeder::class);
-        // $this->call(SchoolCoursesTableSeeder::class);
+        $this->call(SchoolCoursesTableSeeder::class);
+        
         // $this->call(ScholarsTableSeeder::class);
         // $this->call(ScholarProfilesTableSeeder::class);
         // $this->call(ScholarEducationTableSeeder::class);

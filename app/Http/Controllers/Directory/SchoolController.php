@@ -8,6 +8,7 @@ use App\Services\SchoolService;
 use App\Traits\HandlesTransaction;
 use App\Http\Requests\SchoolRequest;
 use App\Models\SchoolCampus;
+use App\Models\SchoolName;
 use App\Models\LocationProvince;
 use App\Models\LocationMunicipality;
 
@@ -435,6 +436,16 @@ class SchoolController extends Controller
         ];
         return $address;
     
+    }
+
+    public function names(){
+        $schools = SchoolCampus::all();
+        foreach($schools as $school){
+            $name = new SchoolName;
+            $name->school_id = $school->id;
+            $name->name = $school->oldname;
+            $name->save();
+        }
     }
 }
 

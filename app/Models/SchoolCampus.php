@@ -10,11 +10,11 @@ class SchoolCampus extends Model
     use HasFactory;
 
     protected $fillable = [
-        'code',
+        // 'code',
         'campus',
         'shortcut',
         'address',
-        'oldname',
+        // 'oldname',
         'is_main',
         'is_alone',
         'is_active',
@@ -55,6 +55,11 @@ class SchoolCampus extends Model
     public function courses()
     {
         return $this->hasMany('App\Models\SchoolCourse', 'school_id');
+    } 
+
+    public function names()
+    {
+        return $this->hasMany('App\Models\SchoolName', 'school_id');
     } 
 
     public function semesters()

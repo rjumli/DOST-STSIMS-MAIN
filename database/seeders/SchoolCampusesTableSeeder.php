@@ -22,8 +22,6 @@ class SchoolCampusesTableSeeder extends Seeder
             0 => 
             array (
                 'id' => 1,
-                'code' => NULL,
-                'oldname' => 'ABRA STATE INSTITUTE OF SCIENCE AND TECHNOLOGY-LAGANGILANG',
                 'campus' => 'MAIN',
                 'address' => '2802',
                 'is_main' => 1,
@@ -42,8 +40,6 @@ class SchoolCampusesTableSeeder extends Seeder
             1 => 
             array (
                 'id' => 2,
-                'code' => NULL,
-                'oldname' => 'ABRA STATE INSTITUTE OF SCIENCE AND TECHNOLOGY-BANGUED',
                 'campus' => 'BANGUED',
                 'address' => 'SANTIAGO ST.',
                 'is_main' => 0,
@@ -62,8 +58,6 @@ class SchoolCampusesTableSeeder extends Seeder
             2 => 
             array (
                 'id' => 3,
-                'code' => NULL,
-                'oldname' => 'ABUYOG COMMUNITY COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'GUINTAGBUCAN',
                 'is_main' => 0,
@@ -82,8 +76,6 @@ class SchoolCampusesTableSeeder extends Seeder
             3 => 
             array (
                 'id' => 4,
-                'code' => NULL,
-                'oldname' => 'ACES POLYTECHNIC COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'TADECO RD.',
                 'is_main' => 0,
@@ -102,8 +94,6 @@ class SchoolCampusesTableSeeder extends Seeder
             4 => 
             array (
                 'id' => 5,
-                'code' => NULL,
-                'oldname' => 'ACES TAGUM COLLEGE,INC.',
                 'campus' => 'MAIN',
                 'address' => 'PUROK PAG-IBIG, BRGY. MANKILAM',
                 'is_main' => 0,
@@ -122,8 +112,6 @@ class SchoolCampusesTableSeeder extends Seeder
             5 => 
             array (
                 'id' => 6,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF BUKIDNON',
                 'campus' => 'BUKIDNON',
                 'address' => 'TS BUILDING, 3535 SAYRE HIGHWAY, HAGKOL',
                 'is_main' => 0,
@@ -142,8 +130,6 @@ class SchoolCampusesTableSeeder extends Seeder
             6 => 
             array (
                 'id' => 7,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF BUTUAN CITY',
                 'campus' => 'BUTUAN CITY',
                 'address' => '999 J. C. AQUINO AVENUE',
                 'is_main' => 0,
@@ -162,8 +148,6 @@ class SchoolCampusesTableSeeder extends Seeder
             7 => 
             array (
                 'id' => 8,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF ORMOC',
                 'campus' => 'ORMOC',
                 'address' => 'LILIA AVENUE, PUROK CHRYSANTHEMUM BRGY. COGONA',
                 'is_main' => 0,
@@ -182,8 +166,6 @@ class SchoolCampusesTableSeeder extends Seeder
             8 => 
             array (
                 'id' => 9,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF PUERTO PRINCESA',
                 'campus' => 'PUERTO PRINCESA',
                 'address' => 'NATIONAL HIGHWAY, BRGY. SAN PEDRO',
                 'is_main' => 0,
@@ -202,8 +184,6 @@ class SchoolCampusesTableSeeder extends Seeder
             9 => 
             array (
                 'id' => 10,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF TACLOBAN',
                 'campus' => 'TACLOBAN',
                 'address' => 'M.H. DEL PILAR ST.',
                 'is_main' => 0,
@@ -222,8 +202,6 @@ class SchoolCampusesTableSeeder extends Seeder
             10 => 
             array (
                 'id' => 11,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF TAYTAY',
                 'campus' => 'TAYTAY',
                 'address' => 'TAYTAY',
                 'is_main' => 0,
@@ -242,8 +220,6 @@ class SchoolCampusesTableSeeder extends Seeder
             11 => 
             array (
                 'id' => 12,
-                'code' => NULL,
-                'oldname' => 'ACLC COLLEGE OF MANDAUE',
                 'campus' => 'MANDAUE',
                 'address' => 'NORTHPOINT BUSINESS CENTER, M.C BRIONES ST., MAGUIKAY',
                 'is_main' => 0,
@@ -262,8 +238,6 @@ class SchoolCampusesTableSeeder extends Seeder
             12 => 
             array (
                 'id' => 13,
-                'code' => NULL,
-                'oldname' => 'ACSI COLLEGE ILOILO',
                 'campus' => 'ILOILO',
                 'address' => 'J.M. BASA STREET',
                 'is_main' => 0,
@@ -282,8 +256,6 @@ class SchoolCampusesTableSeeder extends Seeder
             13 => 
             array (
                 'id' => 14,
-                'code' => NULL,
-                'oldname' => 'ACTS COMPUTER COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'EGK. BUILDING CORNER A. BONIFACIO STREET, PEDRO GUEVARA AVE.',
                 'is_main' => 0,
@@ -302,8 +274,6 @@ class SchoolCampusesTableSeeder extends Seeder
             14 => 
             array (
                 'id' => 15,
-                'code' => NULL,
-                'oldname' => 'ADAMSON UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => '900 SAN MARCELINO ERMITA',
                 'is_main' => 0,
@@ -322,8 +292,6 @@ class SchoolCampusesTableSeeder extends Seeder
             15 => 
             array (
                 'id' => 16,
-                'code' => NULL,
-                'oldname' => 'ADIONG MEMORIAL POLYTECHNIC STATE COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'N/A',
                 'is_main' => 1,
@@ -342,8 +310,6 @@ class SchoolCampusesTableSeeder extends Seeder
             16 => 
             array (
                 'id' => 17,
-                'code' => NULL,
-                'oldname' => 'ADVENTIST MEDICAL CENTER COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'MILESTONE DRIVE, PINEVILLE ST., SAN MIGUEL',
                 'is_main' => 0,
@@ -362,8 +328,6 @@ class SchoolCampusesTableSeeder extends Seeder
             17 => 
             array (
                 'id' => 18,
-                'code' => NULL,
-                'oldname' => 'ADVENTIST UNIVERSITY OF THE PHILIPPINES',
                 'campus' => 'MAIN',
                 'address' => 'PUTINGKAHOY',
                 'is_main' => 0,
@@ -382,8 +346,6 @@ class SchoolCampusesTableSeeder extends Seeder
             18 => 
             array (
                 'id' => 19,
-                'code' => NULL,
-                'oldname' => 'AEMILIANUM COLLEGE, INC.',
                 'campus' => 'MAIN',
                 'address' => 'RIZAL ST., WEST DISTRICT, PIOT',
                 'is_main' => 0,
@@ -402,8 +364,6 @@ class SchoolCampusesTableSeeder extends Seeder
             19 => 
             array (
                 'id' => 20,
-                'code' => NULL,
-                'oldname' => 'AGO MEDICAL AND EDUCATIONAL CENTER - BICOL CHRISTIAN COLLEGE OF MEDICINE',
                 'campus' => 'MAIN',
                 'address' => 'RIZAL ST.',
                 'is_main' => 0,
@@ -422,8 +382,6 @@ class SchoolCampusesTableSeeder extends Seeder
             20 => 
             array (
                 'id' => 21,
-                'code' => NULL,
-                'oldname' => 'AGUSAN DEL SUR STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY',
                 'campus' => 'MAIN',
                 'address' => 'P2, SAN TEODOR',
                 'is_main' => 1,
@@ -442,8 +400,6 @@ class SchoolCampusesTableSeeder extends Seeder
             21 => 
             array (
                 'id' => 22,
-                'code' => NULL,
-                'oldname' => 'AKLAN CATHOLIC COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'ARCHBISHOP GABRIEL M. REYES STREET',
                 'is_main' => 0,
@@ -462,8 +418,6 @@ class SchoolCampusesTableSeeder extends Seeder
             22 => 
             array (
                 'id' => 23,
-                'code' => NULL,
-                'oldname' => 'AKLAN POLYTECHNIC COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'QUEZON AVENUE',
                 'is_main' => 0,
@@ -482,8 +436,6 @@ class SchoolCampusesTableSeeder extends Seeder
             23 => 
             array (
                 'id' => 24,
-                'code' => NULL,
-                'oldname' => 'AKLAN STATE UNIVERSITY-BANGA',
                 'campus' => 'BANGA',
                 'address' => 'BACAN',
                 'is_main' => 1,
@@ -502,8 +454,6 @@ class SchoolCampusesTableSeeder extends Seeder
             24 => 
             array (
                 'id' => 25,
-                'code' => NULL,
-                'oldname' => 'AKLAN STATE UNIVERSITY-IBAJAY',
                 'campus' => 'IBAJAY',
                 'address' => 'COLONG-COLONG',
                 'is_main' => 0,
@@ -522,8 +472,6 @@ class SchoolCampusesTableSeeder extends Seeder
             25 => 
             array (
                 'id' => 26,
-                'code' => NULL,
-                'oldname' => 'AKLAN STATE UNIVERSITY-KALIBO',
                 'campus' => 'KALIBO',
                 'address' => 'ROXAS AVE. EXT.',
                 'is_main' => 0,
@@ -542,8 +490,6 @@ class SchoolCampusesTableSeeder extends Seeder
             26 => 
             array (
                 'id' => 27,
-                'code' => NULL,
-                'oldname' => 'AKLAN STATE UNIVERSITY-NEW WASHINGTON',
                 'campus' => 'NEW WASHINGTON',
                 'address' => 'POBLACION',
                 'is_main' => 0,
@@ -562,8 +508,6 @@ class SchoolCampusesTableSeeder extends Seeder
             27 => 
             array (
                 'id' => 28,
-                'code' => NULL,
-                'oldname' => 'ALDERGATE COLLEGE, INC.',
                 'campus' => 'MAIN',
                 'address' => 'BRGY. QUIRINO',
                 'is_main' => 0,
@@ -582,8 +526,6 @@ class SchoolCampusesTableSeeder extends Seeder
             28 => 
             array (
                 'id' => 29,
-                'code' => '4100013',
-                'oldname' => 'AMA COMPUTER COLLEGE EAST RIZAL BRANCH',
                 'campus' => 'EAST RIZAL BRANCH',
                 'address' => 'BRGY. MAYAMOT',
                 'is_main' => 0,
@@ -602,8 +544,6 @@ class SchoolCampusesTableSeeder extends Seeder
             29 => 
             array (
                 'id' => 30,
-                'code' => '600100',
-                'oldname' => 'AMA COMPUTER COLLEGE ILOILO',
                 'campus' => 'ILOILO',
                 'address' => '',
                 'is_main' => 0,
@@ -622,8 +562,6 @@ class SchoolCampusesTableSeeder extends Seeder
             30 => 
             array (
                 'id' => 31,
-                'code' => '100004',
-                'oldname' => 'AMA COMPUTER COLLEGE LAOAG CITY INC.',
                 'campus' => 'LAOAG CITY INC.',
                 'address' => 'BRGY. 17 PACIFIC BLDG., DON E_RUIS',
                 'is_main' => 0,
@@ -642,8 +580,6 @@ class SchoolCampusesTableSeeder extends Seeder
             31 => 
             array (
                 'id' => 32,
-                'code' => '300108',
-                'oldname' => 'AMA COMPUTER COLLEGE MALOLOS',
                 'campus' => 'MALOLOS',
                 'address' => 'SUMAPANG MATANDA MCARTHUR HIWAY',
                 'is_main' => 0,
@@ -662,8 +598,6 @@ class SchoolCampusesTableSeeder extends Seeder
             32 => 
             array (
                 'id' => 33,
-                'code' => '100002',
-                'oldname' => 'AMA COMPUTER COLLEGE OF PANGASINAN INC.',
                 'campus' => 'PANGASINAN',
                 'address' => 'BRGY. SAN MIGUEL',
                 'is_main' => 0,
@@ -682,8 +616,6 @@ class SchoolCampusesTableSeeder extends Seeder
             33 => 
             array (
                 'id' => 34,
-                'code' => '100005',
-                'oldname' => 'AMA COMPUTER COLLEGE SAN FERNANDO CITY, LA UNION INC.',
                 'campus' => 'SAN FERNANDO CITY',
                 'address' => 'BARANGAY II',
                 'is_main' => 0,
@@ -702,8 +634,6 @@ class SchoolCampusesTableSeeder extends Seeder
             34 => 
             array (
                 'id' => 35,
-                'code' => '600006',
-                'oldname' => 'AMA COMPUTER COLLEGE-BACOLOD CITY',
                 'campus' => 'BACOLOD CITY',
                 'address' => 'NORTH DRIVE',
                 'is_main' => 0,
@@ -722,8 +652,6 @@ class SchoolCampusesTableSeeder extends Seeder
             35 => 
             array (
                 'id' => 36,
-                'code' => '4100004',
-                'oldname' => 'AMA COMPUTER COLLEGE-BATANGAS CITY',
                 'campus' => 'BATANGAS CITY',
                 'address' => 'BRGY. BOLBOK, BATANGAS CITYA',
                 'is_main' => 0,
@@ -742,8 +670,6 @@ class SchoolCampusesTableSeeder extends Seeder
             36 => 
             array (
                 'id' => 37,
-                'code' => '4100005',
-                'oldname' => 'AMA COMPUTER COLLEGE-BIÑAN CITY',
                 'campus' => 'BIÑAN CITY',
                 'address' => '',
                 'is_main' => 0,
@@ -762,8 +688,6 @@ class SchoolCampusesTableSeeder extends Seeder
             37 => 
             array (
                 'id' => 38,
-                'code' => '1000002',
-                'oldname' => 'AMA COMPUTER COLLEGE-CAGAYAN DE ORO CITY',
                 'campus' => 'CAGAYAN DE ORO CITY',
                 'address' => 'JR BORJA-DAUMAR ST., COGON',
                 'is_main' => 0,
@@ -782,8 +706,6 @@ class SchoolCampusesTableSeeder extends Seeder
             38 => 
             array (
                 'id' => 39,
-                'code' => '4100006',
-                'oldname' => 'AMA COMPUTER COLLEGE-CALAMBA CITY',
                 'campus' => 'CALAMBA CITY',
                 'address' => 'NATIONAL HIGHWAY, PARIAN',
                 'is_main' => 0,
@@ -802,8 +724,6 @@ class SchoolCampusesTableSeeder extends Seeder
             39 => 
             array (
                 'id' => 40,
-                'code' => '4100177',
-                'oldname' => 'AMA COMPUTER COLLEGE-CAVITE',
                 'campus' => 'CAVITE',
                 'address' => 'BICLATAN',
                 'is_main' => 0,
@@ -822,8 +742,6 @@ class SchoolCampusesTableSeeder extends Seeder
             40 => 
             array (
                 'id' => 41,
-                'code' => '1100003',
-                'oldname' => 'AMA COMPUTER COLLEGE-DAVAO',
                 'campus' => 'DAVAO',
                 'address' => '',
                 'is_main' => 0,
@@ -842,8 +760,6 @@ class SchoolCampusesTableSeeder extends Seeder
             41 => 
             array (
                 'id' => 42,
-                'code' => '700058',
-                'oldname' => 'AMA COMPUTER COLLEGE-DUMAGUETE',
                 'campus' => 'DUMAGUETE',
                 'address' => '',
                 'is_main' => 0,
@@ -862,8 +778,6 @@ class SchoolCampusesTableSeeder extends Seeder
             42 => 
             array (
                 'id' => 43,
-                'code' => '1600116',
-                'oldname' => 'AMA COMPUTER COLLEGE-FAIRVIEW',
                 'campus' => 'FAIRVIEW',
                 'address' => '',
                 'is_main' => 0,
@@ -882,8 +796,6 @@ class SchoolCampusesTableSeeder extends Seeder
             43 => 
             array (
                 'id' => 44,
-                'code' => '1600002',
-                'oldname' => 'AMA COMPUTER COLLEGE-LAS PIÑAS CITY',
                 'campus' => 'LAS PIÑAS CITY',
                 'address' => '',
                 'is_main' => 0,
@@ -902,8 +814,6 @@ class SchoolCampusesTableSeeder extends Seeder
             44 => 
             array (
                 'id' => 45,
-                'code' => '500003',
-                'oldname' => 'AMA COMPUTER COLLEGE-LEGAZPI CITY',
                 'campus' => 'LEGAZPI CITY',
                 'address' => 'RIZAL ST., ALBAY DISTRICT',
                 'is_main' => 0,
@@ -922,8 +832,6 @@ class SchoolCampusesTableSeeder extends Seeder
             45 => 
             array (
                 'id' => 46,
-                'code' => '4100007',
-                'oldname' => 'AMA COMPUTER COLLEGE-LIPA CITY',
                 'campus' => 'LIPA CITY',
                 'address' => 'AYALA HI-WAY, BALINTAWAK, LIPA CITY',
                 'is_main' => 0,
@@ -942,8 +850,6 @@ class SchoolCampusesTableSeeder extends Seeder
             46 => 
             array (
                 'id' => 47,
-                'code' => '1600003',
-                'oldname' => 'AMA COMPUTER COLLEGE-MAKATI CITY',
                 'campus' => 'MAKATI CITY',
                 'address' => 'AMA ONE BLDG., 5486 SOUTH SUPERHIGHWAY COR. GEN. TINIO ST. BANGKAL',
                 'is_main' => 0,
@@ -962,8 +868,6 @@ class SchoolCampusesTableSeeder extends Seeder
             47 => 
             array (
                 'id' => 48,
-                'code' => '1600004',
-                'oldname' => 'AMA COMPUTER COLLEGE-MANDALUYONG CITY',
                 'campus' => 'MANDALUYONG CITY',
                 'address' => 'CALIFORNIA GARDEN SQUARE, DOMINGO M. GUEVARA ST.',
                 'is_main' => 0,
@@ -982,8 +886,6 @@ class SchoolCampusesTableSeeder extends Seeder
             48 => 
             array (
                 'id' => 49,
-                'code' => '1600125',
-                'oldname' => 'AMA COMPUTER COLLEGE-PARAÑAQUE',
                 'campus' => 'PARAÑAQUE',
                 'address' => '8226 SOOKEE BLDG DR. A SANTOS AVE SUCAT',
                 'is_main' => 0,
@@ -1002,8 +904,6 @@ class SchoolCampusesTableSeeder extends Seeder
             49 => 
             array (
                 'id' => 50,
-                'code' => '800001',
-                'oldname' => 'AMA COMPUTER COLLEGE-TACLOBAN CITY',
                 'campus' => 'TACLOBAN CITY',
                 'address' => 'NO. 104 AVENIDA VETERANOS, DOWNTOWN',
                 'is_main' => 0,
@@ -1022,8 +922,6 @@ class SchoolCampusesTableSeeder extends Seeder
             50 => 
             array (
                 'id' => 51,
-                'code' => '300001',
-                'oldname' => 'AMA COMPUTER COLLEGE-TARLAC',
                 'campus' => 'TARLAC',
                 'address' => 'ZAMORA ST.',
                 'is_main' => 0,
@@ -1042,8 +940,6 @@ class SchoolCampusesTableSeeder extends Seeder
             51 => 
             array (
                 'id' => 52,
-                'code' => '1100091',
-            'oldname' => 'AMA COMPUTER LEARNING CENTER (ACLC)',
                 'campus' => 'DAVAO',
                 'address' => 'SAN FELIX BLDG., MCARTHUR HIGHWAY, MATINA',
                 'is_main' => 0,
@@ -1062,8 +958,6 @@ class SchoolCampusesTableSeeder extends Seeder
             52 => 
             array (
                 'id' => 53,
-                'code' => '500004',
-            'oldname' => 'AMA COMPUTER LEARNING CENTER (ACLC) OF NAGA CITY INC',
                 'campus' => 'NAGA CITY',
                 'address' => '4/F NAGA LAND, E. ANGELES ST.',
                 'is_main' => 0,
@@ -1082,8 +976,6 @@ class SchoolCampusesTableSeeder extends Seeder
             53 => 
             array (
                 'id' => 54,
-                'code' => '1200003',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER COLLEGE OF MARBEL',
                 'campus' => 'MARBEL',
                 'address' => 'GENSAN DRIVE CONER, FRANCISCO ZULUETA ST,',
                 'is_main' => 0,
@@ -1102,8 +994,6 @@ class SchoolCampusesTableSeeder extends Seeder
             54 => 
             array (
                 'id' => 55,
-                'code' => '4100009',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER OF ANTIPOLO, INC.',
                 'campus' => 'ANTIPOLO',
                 'address' => 'BARANGAY SAN ROQUE POB. ANTIPOLO CITY',
                 'is_main' => 0,
@@ -1122,8 +1012,6 @@ class SchoolCampusesTableSeeder extends Seeder
             55 => 
             array (
                 'id' => 56,
-                'code' => '600007',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-AKLAN',
                 'campus' => 'AKLAN',
                 'address' => 'PASTRANA ST',
                 'is_main' => 0,
@@ -1142,8 +1030,6 @@ class SchoolCampusesTableSeeder extends Seeder
             56 => 
             array (
                 'id' => 57,
-                'code' => '1500003',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-BAGUIO CITY',
                 'campus' => 'BAGUIO CITY',
                 'address' => 'CAR',
                 'is_main' => 0,
@@ -1162,8 +1048,6 @@ class SchoolCampusesTableSeeder extends Seeder
             57 => 
             array (
                 'id' => 58,
-                'code' => '300002',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-BALANGA',
                 'campus' => 'BALANGA',
                 'address' => '49 DON MANUEL BANZON AVENUE,',
                 'is_main' => 0,
@@ -1182,8 +1066,6 @@ class SchoolCampusesTableSeeder extends Seeder
             58 => 
             array (
                 'id' => 59,
-                'code' => '1301023',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-BUTUAN',
                 'campus' => 'BUTUAN',
                 'address' => 'CARAGA',
                 'is_main' => 0,
@@ -1202,8 +1084,6 @@ class SchoolCampusesTableSeeder extends Seeder
             59 => 
             array (
                 'id' => 60,
-                'code' => '4100010',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-CALAMBA CITY',
                 'campus' => 'CALAMBA CITY',
                 'address' => 'LAGUNA',
                 'is_main' => 0,
@@ -1222,8 +1102,6 @@ class SchoolCampusesTableSeeder extends Seeder
             60 => 
             array (
                 'id' => 61,
-                'code' => '500067',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-DAET',
                 'campus' => 'DAET',
                 'address' => '5',
                 'is_main' => 0,
@@ -1242,8 +1120,6 @@ class SchoolCampusesTableSeeder extends Seeder
             61 => 
             array (
                 'id' => 62,
-                'code' => '600008',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-ILOILO',
                 'campus' => 'ILOILO',
                 'address' => '22 DELGADO ST',
                 'is_main' => 0,
@@ -1262,8 +1138,6 @@ class SchoolCampusesTableSeeder extends Seeder
             62 => 
             array (
                 'id' => 63,
-                'code' => '4100014',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-LIPA CITY',
                 'campus' => 'LIPA CITY',
                 'address' => 'CASA BUENA BLDG., P. BURGOS ST.A',
                 'is_main' => 0,
@@ -1282,8 +1156,6 @@ class SchoolCampusesTableSeeder extends Seeder
             63 => 
             array (
                 'id' => 64,
-                'code' => '4100015',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-LUCENA CITY',
                 'campus' => 'LUCENA CITY',
                 'address' => '4A',
                 'is_main' => 0,
@@ -1302,8 +1174,6 @@ class SchoolCampusesTableSeeder extends Seeder
             64 => 
             array (
                 'id' => 65,
-                'code' => '4100016',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-ROSARIO',
                 'campus' => 'ROSARIO',
                 'address' => '4A',
                 'is_main' => 0,
@@ -1322,8 +1192,6 @@ class SchoolCampusesTableSeeder extends Seeder
             65 => 
             array (
                 'id' => 66,
-                'code' => '600009',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-ROXAS CITY',
                 'campus' => 'ROXAS CITY',
                 'address' => '6',
                 'is_main' => 0,
@@ -1342,8 +1210,6 @@ class SchoolCampusesTableSeeder extends Seeder
             66 => 
             array (
                 'id' => 67,
-                'code' => '4100017',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-SAN PABLO CITY',
                 'campus' => 'SAN PABLO CITY',
                 'address' => 'JAMORA BUILDING',
                 'is_main' => 0,
@@ -1362,8 +1228,6 @@ class SchoolCampusesTableSeeder extends Seeder
             67 => 
             array (
                 'id' => 68,
-                'code' => '1100004',
-                'oldname' => 'AMA COMPUTER LEARNING CENTER-TAGUM',
                 'campus' => 'TAGUM',
                 'address' => 'CAP BLDG., PUROK NARRA, VISAYAN VILLAGE',
                 'is_main' => 0,
@@ -1382,8 +1246,6 @@ class SchoolCampusesTableSeeder extends Seeder
             68 => 
             array (
                 'id' => 69,
-                'code' => NULL,
-                'oldname' => 'AMA UNIVERSITY-QUEZON CITY',
                 'campus' => 'QUEZON CITY',
                 'address' => 'MAXIMA ST. VILLA ARCA SUBD. PROJ. 8',
                 'is_main' => 0,
@@ -1402,8 +1264,6 @@ class SchoolCampusesTableSeeder extends Seeder
             69 => 
             array (
                 'id' => 70,
-                'code' => NULL,
-                'oldname' => 'AMA COMPUTER UNIVERSITY-CAVITE',
                 'campus' => 'CAVITE',
                 'address' => 'LANGKAAN 1 BRIDGE 2, GOVERNOR\'S DRIVE',
                 'is_main' => 0,
@@ -1422,8 +1282,6 @@ class SchoolCampusesTableSeeder extends Seeder
             70 => 
             array (
                 'id' => 71,
-                'code' => NULL,
-                'oldname' => 'AMANDO COPE COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'A.A. BERCES ST., BARANGHAWON',
                 'is_main' => 0,
@@ -1442,8 +1300,6 @@ class SchoolCampusesTableSeeder extends Seeder
             71 => 
             array (
                 'id' => 72,
-                'code' => NULL,
-                'oldname' => 'ANDRES BONIFACIO COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'MIPUTAK',
                 'is_main' => 0,
@@ -1462,8 +1318,6 @@ class SchoolCampusesTableSeeder extends Seeder
             72 => 
             array (
                 'id' => 73,
-                'code' => NULL,
-                'oldname' => 'ANGELES UNIVERSITY FOUNDATION',
                 'campus' => 'MAIN',
                 'address' => 'MAC ARTHUR HIGHWAY',
                 'is_main' => 0,
@@ -1482,8 +1336,6 @@ class SchoolCampusesTableSeeder extends Seeder
             73 => 
             array (
                 'id' => 74,
-                'code' => NULL,
-                'oldname' => 'APAYAO STATE COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'MALAMA',
                 'is_main' => 1,
@@ -1502,8 +1354,6 @@ class SchoolCampusesTableSeeder extends Seeder
             74 => 
             array (
                 'id' => 75,
-                'code' => NULL,
-                'oldname' => 'APAYAO STATE COLLEGE-LUNA',
                 'campus' => 'LUNA',
                 'address' => 'SAN ISIDRO SUR',
                 'is_main' => 0,
@@ -1522,8 +1372,6 @@ class SchoolCampusesTableSeeder extends Seeder
             75 => 
             array (
                 'id' => 76,
-                'code' => NULL,
-                'oldname' => 'ARELLANO UNIVERSITY-JUAN SUMULONG',
                 'campus' => 'JUAN SUMULONG',
                 'address' => '2600 LEGARDA ST., SAMPALOC',
                 'is_main' => 0,
@@ -1542,8 +1390,6 @@ class SchoolCampusesTableSeeder extends Seeder
             76 => 
             array (
                 'id' => 77,
-                'code' => NULL,
-                'oldname' => 'ARELLANO UNIVERSITY-JOSE ABAD SANTOS',
                 'campus' => 'JOSE ABAD SANTOS',
                 'address' => '3058 TAFT AVENUE, PASAY CITY',
                 'is_main' => 0,
@@ -1562,8 +1408,6 @@ class SchoolCampusesTableSeeder extends Seeder
             77 => 
             array (
                 'id' => 78,
-                'code' => NULL,
-                'oldname' => 'ARRIESGADO COLLEGE FOUNDATION, INC.',
                 'campus' => 'MAIN',
                 'address' => '201 BONIFACIO ST., MAGUGPO, POBLACION',
                 'is_main' => 0,
@@ -1582,8 +1426,6 @@ class SchoolCampusesTableSeeder extends Seeder
             78 => 
             array (
                 'id' => 79,
-                'code' => NULL,
-                'oldname' => 'ASIA PACIFIC COLLEGE',
                 'campus' => 'MAIN',
                 'address' => '3 HUMABON PLACE, MAGALLANES',
                 'is_main' => 0,
@@ -1602,8 +1444,6 @@ class SchoolCampusesTableSeeder extends Seeder
             79 => 
             array (
                 'id' => 80,
-                'code' => NULL,
-                'oldname' => 'ASIA PACIFIC COLLEGE OF ADVANCE STUDIES',
                 'campus' => 'MAIN',
                 'address' => 'A.H BANZON ST.',
                 'is_main' => 0,
@@ -1622,8 +1462,6 @@ class SchoolCampusesTableSeeder extends Seeder
             80 => 
             array (
                 'id' => 81,
-                'code' => NULL,
-                'oldname' => 'ASIA TECHNOLOGICAL SCHOOL OF SCIENCE AND ARTS',
                 'campus' => 'MAIN',
                 'address' => '1506 BRGY. DILA',
                 'is_main' => 0,
@@ -1642,8 +1480,6 @@ class SchoolCampusesTableSeeder extends Seeder
             81 => 
             array (
                 'id' => 82,
-                'code' => NULL,
-                'oldname' => 'ASIAN COLLEGE',
                 'campus' => 'QUEZON CITY',
                 'address' => '1013 AURO BLVD., PROJ. 3',
                 'is_main' => 0,
@@ -1662,8 +1498,6 @@ class SchoolCampusesTableSeeder extends Seeder
             82 => 
             array (
                 'id' => 83,
-                'code' => NULL,
-                'oldname' => 'ASIAN COLLEGE - DUMAGUETE',
                 'campus' => 'DUMAGUETE CITY',
                 'address' => 'DR. V. LOCSIN STREET',
                 'is_main' => 0,
@@ -1682,8 +1516,6 @@ class SchoolCampusesTableSeeder extends Seeder
             83 => 
             array (
                 'id' => 84,
-                'code' => NULL,
-                'oldname' => 'ASIAN COLLEGE OF TECHNOLOGY - INTERNATIONAL EDUCATIONAL FOUNDATION',
                 'campus' => 'MAIN',
                 'address' => 'CORNER LEON KILAT AND P. DEL ROSARIO STREET',
                 'is_main' => 0,
@@ -1702,8 +1534,6 @@ class SchoolCampusesTableSeeder extends Seeder
             84 => 
             array (
                 'id' => 85,
-                'code' => NULL,
-                'oldname' => 'ASIAN COLLEGE FOUNDATION',
                 'campus' => 'MAIN',
                 'address' => 'ESTIPONA VILLAGE , KM 3 J.C AQUINO AVENUE',
                 'is_main' => 0,
@@ -1722,8 +1552,6 @@ class SchoolCampusesTableSeeder extends Seeder
             85 => 
             array (
                 'id' => 86,
-                'code' => NULL,
-                'oldname' => 'ASSUMPTION COLLEGE OF DAVAO',
                 'campus' => 'DAVAO',
                 'address' => 'J.P. CABAGUIO AVE.',
                 'is_main' => 0,
@@ -1742,8 +1570,6 @@ class SchoolCampusesTableSeeder extends Seeder
             86 => 
             array (
                 'id' => 87,
-                'code' => NULL,
-                'oldname' => 'ASSUMPTION COLLEGE OF NABUNTURAN',
                 'campus' => 'NABUNTURAN',
                 'address' => 'P-1, ARELLANO STREET, POBLACION',
                 'is_main' => 0,
@@ -1762,8 +1588,6 @@ class SchoolCampusesTableSeeder extends Seeder
             87 => 
             array (
                 'id' => 88,
-                'code' => NULL,
-                'oldname' => 'ASYNCHRONOUS SYSTEMS AND COMPUTER INFORMATION INSTITUTE',
                 'campus' => 'MAIN',
                 'address' => 'NA',
                 'is_main' => 0,
@@ -1782,8 +1606,6 @@ class SchoolCampusesTableSeeder extends Seeder
             88 => 
             array (
                 'id' => 89,
-                'code' => NULL,
-                'oldname' => 'ATENEO DE DAVAO UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'E. JACINTO STREET',
                 'is_main' => 0,
@@ -1802,8 +1624,6 @@ class SchoolCampusesTableSeeder extends Seeder
             89 => 
             array (
                 'id' => 90,
-                'code' => NULL,
-                'oldname' => 'ATENEO DE MANILA UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'KATIPUNAN AVE., LOYOLA HEIGHTS',
                 'is_main' => 0,
@@ -1822,8 +1642,6 @@ class SchoolCampusesTableSeeder extends Seeder
             90 => 
             array (
                 'id' => 91,
-                'code' => NULL,
-                'oldname' => 'ATENEO DE NAGA UNIVERSITY, INC.',
                 'campus' => 'MAIN',
                 'address' => 'BAGUMBAYAN SUR',
                 'is_main' => 0,
@@ -1842,8 +1660,6 @@ class SchoolCampusesTableSeeder extends Seeder
             91 => 
             array (
                 'id' => 92,
-                'code' => NULL,
-                'oldname' => 'ATENEO DE ZAMBOANGA UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'LA PURISIMA ST.',
                 'is_main' => 0,
@@ -1862,8 +1678,6 @@ class SchoolCampusesTableSeeder extends Seeder
             92 => 
             array (
                 'id' => 93,
-                'code' => NULL,
-                'oldname' => 'AURORA STATE COLLEGE OF TECHNOLOGY-MAIN',
                 'campus' => 'MAIN',
                 'address' => 'ZABALI',
                 'is_main' => 1,
@@ -1882,8 +1696,6 @@ class SchoolCampusesTableSeeder extends Seeder
             93 => 
             array (
                 'id' => 94,
-                'code' => NULL,
-                'oldname' => 'AURORA STATE COLLEGE OF TECHNOLOGY-CASIGURAN',
                 'campus' => 'CASIGURAN',
                 'address' => 'ESTEVES CAMPUS',
                 'is_main' => 0,
@@ -1902,8 +1714,6 @@ class SchoolCampusesTableSeeder extends Seeder
             94 => 
             array (
                 'id' => 95,
-                'code' => NULL,
-                'oldname' => 'AURORA STATE COLLEGE OF TECHNOLOGY-MARIA AURORA',
                 'campus' => 'MARIA AURORA',
                 'address' => 'BAZAL',
                 'is_main' => 0,
@@ -1922,8 +1732,6 @@ class SchoolCampusesTableSeeder extends Seeder
             95 => 
             array (
                 'id' => 96,
-                'code' => NULL,
-                'oldname' => 'B.E.S.T COLLEGE OF POLOMOLOK, INC.',
                 'campus' => 'MAIN',
                 'address' => 'VALENCIA SITE',
                 'is_main' => 0,
@@ -1942,8 +1750,6 @@ class SchoolCampusesTableSeeder extends Seeder
             96 => 
             array (
                 'id' => 97,
-                'code' => NULL,
-                'oldname' => 'BAAO COMMUNITY COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'SAN JUAN',
                 'is_main' => 0,
@@ -1962,8 +1768,6 @@ class SchoolCampusesTableSeeder extends Seeder
             97 => 
             array (
                 'id' => 98,
-                'code' => NULL,
-                'oldname' => 'BACOLOD CITY COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'MAGSAYSAY AVENUE',
                 'is_main' => 0,
@@ -1982,8 +1786,6 @@ class SchoolCampusesTableSeeder extends Seeder
             98 => 
             array (
                 'id' => 99,
-                'code' => NULL,
-                'oldname' => 'BAGUIO CENTRAL UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => '#18 BONIFACIO ST., ABCR BARANGAY',
                 'is_main' => 0,
@@ -2002,8 +1804,6 @@ class SchoolCampusesTableSeeder extends Seeder
             99 => 
             array (
                 'id' => 100,
-                'code' => NULL,
-                'oldname' => 'BAGUIO COLLEGE OF TECHNOLOGY-BETI',
                 'campus' => 'MAIN',
                 'address' => 'BAGS',
                 'is_main' => 0,
@@ -2022,8 +1822,6 @@ class SchoolCampusesTableSeeder extends Seeder
             100 => 
             array (
                 'id' => 101,
-                'code' => NULL,
-                'oldname' => 'BALIAN COMMUNITY COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'BRGY. ISLA',
                 'is_main' => 0,
@@ -2042,8 +1840,6 @@ class SchoolCampusesTableSeeder extends Seeder
             101 => 
             array (
                 'id' => 102,
-                'code' => NULL,
-                'oldname' => 'BALIUAG UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => '1069 GIL CARLOS STREET',
                 'is_main' => 0,
@@ -2062,8 +1858,6 @@ class SchoolCampusesTableSeeder extends Seeder
             102 => 
             array (
                 'id' => 103,
-                'code' => NULL,
-                'oldname' => 'BALIWAG POLYTECHNIC COLLEGE',
                 'campus' => 'MAIN',
                 'address' => '2/F BMG BUILDING, BARRERA ST., POBLACION',
                 'is_main' => 0,
@@ -2082,8 +1876,6 @@ class SchoolCampusesTableSeeder extends Seeder
             103 => 
             array (
                 'id' => 104,
-                'code' => NULL,
-                'oldname' => 'BASILAN STATE COLLEGE',
                 'campus' => 'ISABELA CITY',
                 'address' => 'BASSC',
                 'is_main' => 1,
@@ -2102,8 +1894,6 @@ class SchoolCampusesTableSeeder extends Seeder
             104 => 
             array (
                 'id' => 105,
-                'code' => NULL,
-                'oldname' => 'BASILAN STATE COLLEGE',
                 'campus' => 'LAMITAN CITY',
                 'address' => 'SUMAGDANG',
                 'is_main' => 0,
@@ -2122,8 +1912,6 @@ class SchoolCampusesTableSeeder extends Seeder
             105 => 
             array (
                 'id' => 106,
-                'code' => NULL,
-                'oldname' => 'BATAAN HEROES MEMORIAL COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'HIGHWAY',
                 'is_main' => 0,
@@ -2142,8 +1930,6 @@ class SchoolCampusesTableSeeder extends Seeder
             106 => 
             array (
                 'id' => 107,
-                'code' => NULL,
-                'oldname' => 'BATAAN PENINSULA STATE UNIVERSITY - BALANGA MAIN CAMPUS',
                 'campus' => 'MAIN',
                 'address' => 'CAPITOL COMPOUND, TENEJERO',
                 'is_main' => 1,
@@ -2162,8 +1948,6 @@ class SchoolCampusesTableSeeder extends Seeder
             107 => 
             array (
                 'id' => 108,
-                'code' => NULL,
-                'oldname' => 'BATAAN PENINSULA STATE UNIVERSITY-BALANGA',
                 'campus' => 'BALANGA',
                 'address' => 'CAPITOL COMPOUND, TENEJERO',
                 'is_main' => 0,
@@ -2182,8 +1966,6 @@ class SchoolCampusesTableSeeder extends Seeder
             108 => 
             array (
                 'id' => 109,
-                'code' => NULL,
-                'oldname' => 'BATAAN PENINSULA STATE UNIVERSITY-ABUCAY',
                 'campus' => 'ABUCAY',
                 'address' => 'BARANGAY BANGKAL',
                 'is_main' => 0,
@@ -2202,8 +1984,6 @@ class SchoolCampusesTableSeeder extends Seeder
             109 => 
             array (
                 'id' => 110,
-                'code' => NULL,
-                'oldname' => 'BATAAN PENINSULA STATE UNIVERSITY - ORANI CAMPUS',
                 'campus' => 'ORANI',
                 'address' => 'BAYAN',
                 'is_main' => 0,
@@ -2222,8 +2002,6 @@ class SchoolCampusesTableSeeder extends Seeder
             110 => 
             array (
                 'id' => 111,
-                'code' => NULL,
-                'oldname' => 'BATAAN PENINSULA STATE UNIVERSITY-DINALUPIHAN',
                 'campus' => 'DINALUPIHAN',
                 'address' => 'SAN RAMON',
                 'is_main' => 0,
@@ -2242,8 +2020,6 @@ class SchoolCampusesTableSeeder extends Seeder
             111 => 
             array (
                 'id' => 112,
-                'code' => NULL,
-                'oldname' => 'BATANES STATE COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'BAT',
                 'is_main' => 1,
@@ -2262,8 +2038,6 @@ class SchoolCampusesTableSeeder extends Seeder
             112 => 
             array (
                 'id' => 113,
-                'code' => '41022174',
-                'oldname' => 'BATANGAS STATE UNIVERSITY - LOBO',
                 'campus' => 'LOBO',
                 'address' => 'MASAGUITSIT',
                 'is_main' => 0,
@@ -2282,8 +2056,6 @@ class SchoolCampusesTableSeeder extends Seeder
             113 => 
             array (
                 'id' => 114,
-                'code' => '4101021',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-ALANGILAN',
                 'campus' => 'ALANGILAN',
                 'address' => 'BRGY. ALANGILAN',
                 'is_main' => 0,
@@ -2302,8 +2074,6 @@ class SchoolCampusesTableSeeder extends Seeder
             114 => 
             array (
                 'id' => 115,
-                'code' => '4101022',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-BALAYAN',
                 'campus' => 'BALAYAN',
                 'address' => '',
                 'is_main' => 0,
@@ -2322,8 +2092,6 @@ class SchoolCampusesTableSeeder extends Seeder
             115 => 
             array (
                 'id' => 116,
-                'code' => '4101023',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-BATANGAS CITY',
                 'campus' => 'BATANGAS CITY',
                 'address' => 'EDITED RIZAL AVENUE, BATANGAS CITY',
                 'is_main' => 1,
@@ -2342,8 +2110,6 @@ class SchoolCampusesTableSeeder extends Seeder
             116 => 
             array (
                 'id' => 117,
-                'code' => '4101024',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-LEMERY',
                 'campus' => 'LEMERY',
                 'address' => 'RAJAH MATANDA ST., BAGONG SIKAT',
                 'is_main' => 0,
@@ -2362,8 +2128,6 @@ class SchoolCampusesTableSeeder extends Seeder
             117 => 
             array (
                 'id' => 118,
-                'code' => '4101025',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-LIPA CITY',
                 'campus' => 'LIPA CITY',
                 'address' => 'MARAWOY',
                 'is_main' => 0,
@@ -2382,8 +2146,6 @@ class SchoolCampusesTableSeeder extends Seeder
             118 => 
             array (
                 'id' => 119,
-                'code' => '4101026',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-MABINI',
                 'campus' => 'MABINI',
                 'address' => 'P. NIOGAN',
                 'is_main' => 0,
@@ -2402,8 +2164,6 @@ class SchoolCampusesTableSeeder extends Seeder
             119 => 
             array (
                 'id' => 120,
-                'code' => '4101028',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-MALVAR',
                 'campus' => 'MALVAR',
                 'address' => 'G. LEVISTE ST., BRGY. POBLACION',
                 'is_main' => 0,
@@ -2422,8 +2182,6 @@ class SchoolCampusesTableSeeder extends Seeder
             120 => 
             array (
                 'id' => 121,
-                'code' => '4101029',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-NASUGBU',
                 'campus' => 'NASUGBU',
                 'address' => 'BRGY. BUCANA',
                 'is_main' => 0,
@@ -2442,8 +2200,6 @@ class SchoolCampusesTableSeeder extends Seeder
             121 => 
             array (
                 'id' => 122,
-                'code' => '4101030',
-                'oldname' => 'BATANGAS STATE UNIVERSITY-ROSARIO',
                 'campus' => 'ROSARIO',
                 'address' => 'BRGY. NAMUNGA',
                 'is_main' => 0,
@@ -2462,8 +2218,6 @@ class SchoolCampusesTableSeeder extends Seeder
             122 => 
             array (
                 'id' => 123,
-                'code' => NULL,
-                'oldname' => 'BATUAN COLLEGES',
                 'campus' => 'MAIN',
                 'address' => 'POBLACION SUR',
                 'is_main' => 0,
@@ -2482,8 +2236,6 @@ class SchoolCampusesTableSeeder extends Seeder
             123 => 
             array (
                 'id' => 124,
-                'code' => NULL,
-                'oldname' => 'BENGUET STATE UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'NONE',
                 'is_main' => 1,
@@ -2502,8 +2254,6 @@ class SchoolCampusesTableSeeder extends Seeder
             124 => 
             array (
                 'id' => 125,
-                'code' => NULL,
-                'oldname' => 'BENGUET STATE UNIVERSITY-BOKOD',
                 'campus' => 'BOKOD',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -2522,8 +2272,6 @@ class SchoolCampusesTableSeeder extends Seeder
             125 => 
             array (
                 'id' => 126,
-                'code' => NULL,
-                'oldname' => 'BENGUET STATE UNIVERSITY-BUGUIAS',
                 'campus' => 'BUGUIAS',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -2542,8 +2290,6 @@ class SchoolCampusesTableSeeder extends Seeder
             126 => 
             array (
                 'id' => 127,
-                'code' => NULL,
-                'oldname' => 'BESTLINK COLLEGE OF THE PHILIPPINES',
                 'campus' => 'MAIN',
                 'address' => 'KALIGAYAHAN, QUIRINO HIGHWAY NOVALICHES',
                 'is_main' => 0,
@@ -2562,8 +2308,6 @@ class SchoolCampusesTableSeeder extends Seeder
             127 => 
             array (
                 'id' => 128,
-                'code' => NULL,
-                'oldname' => 'BICOL COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'RIZAL ST.',
                 'is_main' => 0,
@@ -2582,8 +2326,6 @@ class SchoolCampusesTableSeeder extends Seeder
             128 => 
             array (
                 'id' => 129,
-                'code' => NULL,
-                'oldname' => 'BICOL STATE COLLEGE OF APPLIED SCIENCES AND TECHNOLOGY-PENAFRANCIA',
                 'campus' => 'MAIN',
                 'address' => 'PEÑAFRANCIA AVE.',
                 'is_main' => 1,
@@ -2602,8 +2344,6 @@ class SchoolCampusesTableSeeder extends Seeder
             129 => 
             array (
                 'id' => 130,
-                'code' => '501009',
-                'oldname' => 'BICOL UNIVERSITY-DARAGA',
                 'campus' => 'DARAGA',
                 'address' => 'DARAGA CAMPUS',
                 'is_main' => 0,
@@ -2622,8 +2362,6 @@ class SchoolCampusesTableSeeder extends Seeder
             130 => 
             array (
                 'id' => 131,
-                'code' => '501077',
-                'oldname' => 'BICOL UNIVERSITY-EAST',
                 'campus' => 'EAST',
                 'address' => 'EAST CAMPUS',
                 'is_main' => 0,
@@ -2642,8 +2380,6 @@ class SchoolCampusesTableSeeder extends Seeder
             131 => 
             array (
                 'id' => 132,
-                'code' => '501010',
-                'oldname' => 'BICOL UNIVERSITY-GUBAT',
                 'campus' => 'GUBAT',
                 'address' => '',
                 'is_main' => 0,
@@ -2662,8 +2398,6 @@ class SchoolCampusesTableSeeder extends Seeder
             132 => 
             array (
                 'id' => 133,
-                'code' => '501011',
-                'oldname' => 'BICOL UNIVERSITY-GUINOBATAN',
                 'campus' => 'GUINOBATAN',
                 'address' => '',
                 'is_main' => 0,
@@ -2682,8 +2416,6 @@ class SchoolCampusesTableSeeder extends Seeder
             133 => 
             array (
                 'id' => 134,
-                'code' => '501012',
-                'oldname' => 'BICOL UNIVERSITY-LEGAZPI CITY',
                 'campus' => 'LEGAZPI CITY',
                 'address' => 'EDITED',
                 'is_main' => 1,
@@ -2702,8 +2434,6 @@ class SchoolCampusesTableSeeder extends Seeder
             134 => 
             array (
                 'id' => 135,
-                'code' => '501013',
-                'oldname' => 'BICOL UNIVERSITY-POLANGUI',
                 'campus' => 'POLANGUI',
                 'address' => '',
                 'is_main' => 0,
@@ -2722,8 +2452,6 @@ class SchoolCampusesTableSeeder extends Seeder
             135 => 
             array (
                 'id' => 136,
-                'code' => '501014',
-                'oldname' => 'BICOL UNIVERSITY-TABACO',
                 'campus' => 'TABACO',
                 'address' => '',
                 'is_main' => 0,
@@ -2742,8 +2470,6 @@ class SchoolCampusesTableSeeder extends Seeder
             136 => 
             array (
                 'id' => 137,
-                'code' => NULL,
-                'oldname' => 'BILIRAN PROVINCE STATE UNIVERSITY-NAVAL',
                 'campus' => 'MAIN',
                 'address' => 'P.I.P INOCENTES STREET',
                 'is_main' => 1,
@@ -2762,8 +2488,6 @@ class SchoolCampusesTableSeeder extends Seeder
             137 => 
             array (
                 'id' => 138,
-                'code' => NULL,
-                'oldname' => 'BILIRAN PROVINCE STATE UNIVERSITY-BILIRAN',
                 'campus' => 'BILIRAN',
                 'address' => 'SAN ISIDRO ST.',
                 'is_main' => 0,
@@ -2782,8 +2506,6 @@ class SchoolCampusesTableSeeder extends Seeder
             138 => 
             array (
                 'id' => 139,
-                'code' => NULL,
-                'oldname' => 'BINANGONAN CATHOLIC COLLEGE',
                 'campus' => 'MAIN',
                 'address' => '59 M.L. QUEZON, LIBIS',
                 'is_main' => 0,
@@ -2802,8 +2524,6 @@ class SchoolCampusesTableSeeder extends Seeder
             139 => 
             array (
                 'id' => 140,
-                'code' => NULL,
-                'oldname' => 'BLESSED MOTHER COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'IPONAN',
                 'is_main' => 0,
@@ -2822,8 +2542,6 @@ class SchoolCampusesTableSeeder extends Seeder
             140 => 
             array (
                 'id' => 141,
-                'code' => NULL,
-                'oldname' => 'BLESSED TRINITY COLLEGE AR OF TALIBON INC.',
                 'campus' => 'MAIN',
                 'address' => 'ZAMORA ST.',
                 'is_main' => 0,
@@ -2842,8 +2560,6 @@ class SchoolCampusesTableSeeder extends Seeder
             141 => 
             array (
                 'id' => 142,
-                'code' => '701005',
-                'oldname' => 'BOHOL ISLAND STATE UNIVERSITY-BALILIHAN',
                 'campus' => 'BALILIHAN',
                 'address' => 'MAGSIJA',
                 'is_main' => 0,
@@ -2862,8 +2578,6 @@ class SchoolCampusesTableSeeder extends Seeder
             142 => 
             array (
                 'id' => 143,
-                'code' => '701006',
-                'oldname' => 'BOHOL ISLAND STATE UNIVERSITY-BILAR',
                 'campus' => 'BILAR',
                 'address' => 'ZAMORA',
                 'is_main' => 1,
@@ -2882,8 +2596,6 @@ class SchoolCampusesTableSeeder extends Seeder
             143 => 
             array (
                 'id' => 144,
-                'code' => '701007',
-                'oldname' => 'BOHOL ISLAND STATE UNIVERSITY-CALAPE',
                 'campus' => 'CALAPE',
                 'address' => 'SAN ISIDRO',
                 'is_main' => 0,
@@ -2902,8 +2614,6 @@ class SchoolCampusesTableSeeder extends Seeder
             144 => 
             array (
                 'id' => 145,
-                'code' => '701008',
-                'oldname' => 'BOHOL ISLAND STATE UNIVERSITY-CANDIJAY',
                 'campus' => 'CANDIJAY',
                 'address' => 'COGTONG',
                 'is_main' => 0,
@@ -2922,8 +2632,6 @@ class SchoolCampusesTableSeeder extends Seeder
             145 => 
             array (
                 'id' => 146,
-                'code' => '701009',
-                'oldname' => 'BOHOL ISLAND STATE UNIVERSITY-CLARIN',
                 'campus' => 'CLARIN',
                 'address' => 'POBLACION NORTE',
                 'is_main' => 0,
@@ -2942,8 +2650,6 @@ class SchoolCampusesTableSeeder extends Seeder
             146 => 
             array (
                 'id' => 147,
-                'code' => '701010',
-                'oldname' => 'BOHOL ISLAND STATE UNIVERSITY-TAGBILARAN CITY',
                 'campus' => 'TAGBILARAN CITY',
                 'address' => 'CPG AVENUE',
                 'is_main' => 0,
@@ -2962,8 +2668,6 @@ class SchoolCampusesTableSeeder extends Seeder
             147 => 
             array (
                 'id' => 148,
-                'code' => '700064',
-                'oldname' => 'BOHOL ITERNATIONAL COLLEGE-CARMEN',
                 'campus' => 'CARMEN',
                 'address' => 'KATIPUNAN',
                 'is_main' => 0,
@@ -2982,8 +2686,6 @@ class SchoolCampusesTableSeeder extends Seeder
             148 => 
             array (
                 'id' => 149,
-                'code' => '700059',
-                'oldname' => 'BOHOL ITERNATIONAL COLLEGE-TAGBILARAN CITY',
                 'campus' => 'TAGBILARAN CITY',
                 'address' => '200 GALLARES STREET',
                 'is_main' => 0,
@@ -3002,8 +2704,6 @@ class SchoolCampusesTableSeeder extends Seeder
             149 => 
             array (
                 'id' => 150,
-                'code' => '700065',
-                'oldname' => 'BOHOL ITERNATIONAL COLLEGE-TALIBON',
                 'campus' => 'TALIBON',
                 'address' => 'SAN JOSE',
                 'is_main' => 0,
@@ -3022,8 +2722,6 @@ class SchoolCampusesTableSeeder extends Seeder
             150 => 
             array (
                 'id' => 151,
-                'code' => NULL,
-                'oldname' => 'BOHOL NORTHERN STAR COLLEGES',
                 'campus' => 'MAIN',
                 'address' => 'POBLACION',
                 'is_main' => 0,
@@ -3042,8 +2740,6 @@ class SchoolCampusesTableSeeder extends Seeder
             151 => 
             array (
                 'id' => 152,
-                'code' => NULL,
-                'oldname' => 'BOHOL WISDOM SCHOOL',
                 'campus' => 'MAIN',
                 'address' => 'PENAFLOR ST.',
                 'is_main' => 0,
@@ -3062,8 +2758,6 @@ class SchoolCampusesTableSeeder extends Seeder
             152 => 
             array (
                 'id' => 153,
-                'code' => NULL,
-                'oldname' => 'BRENT HOSPITAL AND COLLEGE INCORPORATED',
                 'campus' => 'MAIN',
                 'address' => 'SAN JOSE',
                 'is_main' => 0,
@@ -3082,8 +2776,6 @@ class SchoolCampusesTableSeeder extends Seeder
             153 => 
             array (
                 'id' => 154,
-                'code' => NULL,
-                'oldname' => 'BROKENSHIRE COLLEGE INC.',
                 'campus' => 'DAVAO CITY',
                 'address' => 'MADAPO',
                 'is_main' => 0,
@@ -3102,8 +2794,6 @@ class SchoolCampusesTableSeeder extends Seeder
             154 => 
             array (
                 'id' => 155,
-                'code' => NULL,
-                'oldname' => 'BROKENSHIRE COLLEGE SOCSKSARGEN INC.',
                 'campus' => 'SOCSKSARGEN',
                 'address' => 'CED AVENUE',
                 'is_main' => 0,
@@ -3122,8 +2812,6 @@ class SchoolCampusesTableSeeder extends Seeder
             155 => 
             array (
                 'id' => 156,
-                'code' => NULL,
-                'oldname' => 'BUKIDNON STATE UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'FORTICH ST.',
                 'is_main' => 1,
@@ -3142,8 +2830,6 @@ class SchoolCampusesTableSeeder extends Seeder
             156 => 
             array (
                 'id' => 157,
-                'code' => '301037',
-                'oldname' => 'BULACAN AGRICULTURAL STATE COLLEGE- STA. MARIA CAMPUS',
                 'campus' => 'STA. MARIA',
                 'address' => 'FFHNAS COMPOUND, BRGY. GUYONG',
                 'is_main' => 0,
@@ -3162,8 +2848,6 @@ class SchoolCampusesTableSeeder extends Seeder
             157 => 
             array (
                 'id' => 158,
-                'code' => '301087',
-                'oldname' => 'BULACAN AGRICULTURAL STATE COLLEGE-DOÑA REMEDIOS TRINIDAD',
                 'campus' => 'DOÑA REMEDIOS TRINIDAD',
                 'address' => 'SITIO PARUNGAO, BRGY. SAPANG BULAC',
                 'is_main' => 0,
@@ -3182,8 +2866,6 @@ class SchoolCampusesTableSeeder extends Seeder
             158 => 
             array (
                 'id' => 159,
-                'code' => '301014',
-                'oldname' => 'BULACAN AGRICULTURAL STATE COLLEGE-SAN ILDEFONSO',
                 'campus' => 'SAN ILDEFONSO',
                 'address' => 'GRACEPARK, PINAOD',
                 'is_main' => 1,
@@ -3202,8 +2884,6 @@ class SchoolCampusesTableSeeder extends Seeder
             159 => 
             array (
                 'id' => 160,
-                'code' => '301015',
-                'oldname' => 'BULACAN STATE UNIVERSITY BUSTOS',
                 'campus' => 'BUSTOS',
                 'address' => 'L.MERCADO ST. COR. C.L. HILARIO ST',
                 'is_main' => 0,
@@ -3222,8 +2902,6 @@ class SchoolCampusesTableSeeder extends Seeder
             160 => 
             array (
                 'id' => 161,
-                'code' => '301016',
-                'oldname' => 'BULACAN STATE UNIVERSITY HAGONOY',
                 'campus' => 'HAGONOY',
                 'address' => 'IBA-CARILLO',
                 'is_main' => 0,
@@ -3242,8 +2920,6 @@ class SchoolCampusesTableSeeder extends Seeder
             161 => 
             array (
                 'id' => 162,
-                'code' => '301017',
-                'oldname' => 'BULACAN STATE UNIVERSITY MALOLOS CITY',
                 'campus' => 'MALOLOS CITY',
                 'address' => 'GUINHAWA, MAC-ARTHUR HIWAY',
                 'is_main' => 1,
@@ -3262,8 +2938,6 @@ class SchoolCampusesTableSeeder extends Seeder
             162 => 
             array (
                 'id' => 163,
-                'code' => '301018',
-                'oldname' => 'BULACAN STATE UNIVERSITY MENESES',
                 'campus' => 'MENESES',
                 'address' => 'DAMA DE NOCHE ST, MATUNGAO',
                 'is_main' => 0,
@@ -3282,8 +2956,6 @@ class SchoolCampusesTableSeeder extends Seeder
             163 => 
             array (
                 'id' => 164,
-                'code' => '301019',
-                'oldname' => 'BULACAN STATE UNIVERSITY SARMIENTO',
                 'campus' => 'SARMIENTO',
                 'address' => 'KAYPIAN RD',
                 'is_main' => 0,
@@ -3302,8 +2974,6 @@ class SchoolCampusesTableSeeder extends Seeder
             164 => 
             array (
                 'id' => 165,
-                'code' => '3022049',
-                'oldname' => 'BULACAN STATE UNIVERSITY-SAN RAFAEL',
                 'campus' => 'SAN RAFAEL',
                 'address' => '',
                 'is_main' => 0,
@@ -3322,8 +2992,6 @@ class SchoolCampusesTableSeeder extends Seeder
             165 => 
             array (
                 'id' => 166,
-                'code' => NULL,
-                'oldname' => 'BUTUAN DOCTORS COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'K.M 2 J.C. AQUINO AVENUE',
                 'is_main' => 0,
@@ -3342,8 +3010,6 @@ class SchoolCampusesTableSeeder extends Seeder
             166 => 
             array (
                 'id' => 167,
-                'code' => NULL,
-                'oldname' => 'CABALUM WESTERN COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'IZNART STREET, BARANGAY DANAO',
                 'is_main' => 0,
@@ -3362,8 +3028,6 @@ class SchoolCampusesTableSeeder extends Seeder
             167 => 
             array (
                 'id' => 168,
-                'code' => '201002',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-ANDREWS',
                 'campus' => 'ANDREWS',
                 'address' => 'CARITAN SUR',
                 'is_main' => 1,
@@ -3382,8 +3046,6 @@ class SchoolCampusesTableSeeder extends Seeder
             168 => 
             array (
                 'id' => 169,
-                'code' => '201003',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-APARRI',
                 'campus' => 'APARRI',
                 'address' => '',
                 'is_main' => 0,
@@ -3402,8 +3064,6 @@ class SchoolCampusesTableSeeder extends Seeder
             169 => 
             array (
                 'id' => 170,
-                'code' => '201004',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-CARIG',
                 'campus' => 'CARIG',
                 'address' => 'CARIG SUR',
                 'is_main' => 0,
@@ -3422,8 +3082,6 @@ class SchoolCampusesTableSeeder extends Seeder
             170 => 
             array (
                 'id' => 171,
-                'code' => '201006',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-GONZAGA',
                 'campus' => 'GONZAGA',
                 'address' => '',
                 'is_main' => 0,
@@ -3442,8 +3100,6 @@ class SchoolCampusesTableSeeder extends Seeder
             171 => 
             array (
                 'id' => 172,
-                'code' => '201007',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-LAL-LO',
                 'campus' => 'LAL-LO',
                 'address' => '',
                 'is_main' => 0,
@@ -3462,8 +3118,6 @@ class SchoolCampusesTableSeeder extends Seeder
             172 => 
             array (
                 'id' => 173,
-                'code' => '201044',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-LASAM',
                 'campus' => 'LASAM',
                 'address' => '',
                 'is_main' => 0,
@@ -3482,8 +3136,6 @@ class SchoolCampusesTableSeeder extends Seeder
             173 => 
             array (
                 'id' => 174,
-                'code' => '201008',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-PIAT',
                 'campus' => 'PIAT',
                 'address' => 'BAUNG',
                 'is_main' => 0,
@@ -3502,8 +3154,6 @@ class SchoolCampusesTableSeeder extends Seeder
             174 => 
             array (
                 'id' => 175,
-                'code' => '201009',
-                'oldname' => 'CAGAYAN STATE UNIVERSITY-SANCHEZ MIRA',
                 'campus' => 'SANCHEZ MIRA',
                 'address' => 'MANILA NORTH, ROAD CENTRO 2',
                 'is_main' => 0,
@@ -3522,8 +3172,6 @@ class SchoolCampusesTableSeeder extends Seeder
             175 => 
             array (
                 'id' => 176,
-                'code' => NULL,
-                'oldname' => 'CALAMBA DOCTORS\' COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'KM. 49 NAT\'L HI-WAY PARIAN',
                 'is_main' => 0,
@@ -3542,8 +3190,6 @@ class SchoolCampusesTableSeeder extends Seeder
             176 => 
             array (
                 'id' => 177,
-                'code' => NULL,
-                'oldname' => 'CALAYAN EDUCATIONAL FOUNDATION INC.',
                 'campus' => 'MAIN',
                 'address' => 'OLD MANILA S RD.',
                 'is_main' => 0,
@@ -3562,8 +3208,6 @@ class SchoolCampusesTableSeeder extends Seeder
             177 => 
             array (
                 'id' => 178,
-                'code' => NULL,
-                'oldname' => 'CAMARINES NORTE COLLEGE OF ARTS AND BUSINESS INC',
                 'campus' => 'MAIN',
                 'address' => 'BAGONG SILANG 2',
                 'is_main' => 0,
@@ -3582,8 +3226,6 @@ class SchoolCampusesTableSeeder extends Seeder
             178 => 
             array (
                 'id' => 179,
-                'code' => NULL,
-            'oldname' => 'CAMIGUIN POLYTECHNIC STATE COLLEGE-MAIN (BALBAGON)',
                 'campus' => 'MAIN',
                 'address' => 'BALBAGON',
                 'is_main' => 1,
@@ -3602,8 +3244,6 @@ class SchoolCampusesTableSeeder extends Seeder
             179 => 
             array (
                 'id' => 180,
-                'code' => NULL,
-                'oldname' => 'CAMIGUIN POLYTECHNIC STATE COLLEGE-CATARMAN',
                 'campus' => 'CATARMAN',
                 'address' => 'ALGA',
                 'is_main' => 0,
@@ -3622,8 +3262,6 @@ class SchoolCampusesTableSeeder extends Seeder
             180 => 
             array (
                 'id' => 181,
-                'code' => NULL,
-                'oldname' => 'CANOSSA COLLEGE SAN PABLO',
                 'campus' => 'SAN PABLO',
                 'address' => 'LAKESIDE PARK SUBD., AZCARTE CIR',
                 'is_main' => 0,
@@ -3642,8 +3280,6 @@ class SchoolCampusesTableSeeder extends Seeder
             181 => 
             array (
                 'id' => 182,
-                'code' => NULL,
-                'oldname' => 'CAPITOL UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'CORRALES EXTENSION',
                 'is_main' => 0,
@@ -3662,8 +3298,6 @@ class SchoolCampusesTableSeeder extends Seeder
             182 => 
             array (
                 'id' => 183,
-                'code' => '601094',
-                'oldname' => 'CAPIZ STATE UNIVERSITY PILAR SATELLITE COLLEGE',
                 'campus' => 'PILAR SATELLITE COLLEGE',
                 'address' => 'NATIVIDAD',
                 'is_main' => 0,
@@ -3682,8 +3316,6 @@ class SchoolCampusesTableSeeder extends Seeder
             183 => 
             array (
                 'id' => 184,
-                'code' => '601095',
-                'oldname' => 'CAPIZ STATE UNIVERSITY SIGMA SATELLITE COLLEGE',
                 'campus' => 'SIGMA SATELLITE COLLEGE',
                 'address' => 'POBLACION SUR',
                 'is_main' => 0,
@@ -3702,8 +3334,6 @@ class SchoolCampusesTableSeeder extends Seeder
             184 => 
             array (
                 'id' => 185,
-                'code' => '601014',
-                'oldname' => 'CAPIZ STATE UNIVERSITY-BAILAN',
                 'campus' => 'BAILAN',
                 'address' => 'BAILAN',
                 'is_main' => 0,
@@ -3722,8 +3352,6 @@ class SchoolCampusesTableSeeder extends Seeder
             185 => 
             array (
                 'id' => 186,
-                'code' => '601015',
-                'oldname' => 'CAPIZ STATE UNIVERSITY-BURIAS',
                 'campus' => 'BURIAS',
                 'address' => 'BURIAS',
                 'is_main' => 0,
@@ -3742,8 +3370,6 @@ class SchoolCampusesTableSeeder extends Seeder
             186 => 
             array (
                 'id' => 187,
-                'code' => '601016',
-                'oldname' => 'CAPIZ STATE UNIVERSITY-DAYAO',
                 'campus' => 'DAYAO',
                 'address' => '',
                 'is_main' => 0,
@@ -3762,8 +3388,6 @@ class SchoolCampusesTableSeeder extends Seeder
             187 => 
             array (
                 'id' => 188,
-                'code' => '601088',
-                'oldname' => 'CAPIZ STATE UNIVERSITY-MAMBUSAO',
                 'campus' => 'MAMBUSAO',
                 'address' => 'POBLACION PROPER',
                 'is_main' => 0,
@@ -3782,8 +3406,6 @@ class SchoolCampusesTableSeeder extends Seeder
             188 => 
             array (
                 'id' => 189,
-                'code' => '601017',
-                'oldname' => 'CAPIZ STATE UNIVERSITY-PONTEVEDRA',
                 'campus' => 'PONTEVEDRA',
                 'address' => 'BAILAN',
                 'is_main' => 0,
@@ -3802,8 +3424,6 @@ class SchoolCampusesTableSeeder extends Seeder
             189 => 
             array (
                 'id' => 190,
-                'code' => '601018',
-                'oldname' => 'CAPIZ STATE UNIVERSITY-ROXAS CITY',
                 'campus' => 'ROXAS CITY',
                 'address' => 'FUENTES DRIVE, TIZA',
                 'is_main' => 1,
@@ -3822,8 +3442,6 @@ class SchoolCampusesTableSeeder extends Seeder
             190 => 
             array (
                 'id' => 191,
-                'code' => NULL,
-                'oldname' => 'CARAGA STATE UNIVERSITY-BUTUAN CITY',
                 'campus' => 'MAIN',
                 'address' => 'AMPAYON',
                 'is_main' => 1,
@@ -3842,8 +3460,6 @@ class SchoolCampusesTableSeeder extends Seeder
             191 => 
             array (
                 'id' => 192,
-                'code' => NULL,
-                'oldname' => 'CARAGA STATE UNIVERSITY-CABADBARAN',
                 'campus' => 'CABADBARAN',
                 'address' => 'T. CURATO',
                 'is_main' => 0,
@@ -3862,8 +3478,6 @@ class SchoolCampusesTableSeeder extends Seeder
             192 => 
             array (
                 'id' => 193,
-                'code' => NULL,
-                'oldname' => 'CARCAR CITY COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'LUAN-LUAN ST',
                 'is_main' => 0,
@@ -3882,8 +3496,6 @@ class SchoolCampusesTableSeeder extends Seeder
             193 => 
             array (
                 'id' => 194,
-                'code' => NULL,
-                'oldname' => 'CARLOS HILADO MEMORIAL STATE UNIVERSITY-TALISAY CAMPUS',
                 'campus' => 'MAIN',
                 'address' => 'MABINI. ST.',
                 'is_main' => 1,
@@ -3902,8 +3514,6 @@ class SchoolCampusesTableSeeder extends Seeder
             194 => 
             array (
                 'id' => 195,
-                'code' => NULL,
-                'oldname' => 'CARLOS HILADO MEMORIAL STATE UNIVERSITY-BINALBAGAN',
                 'campus' => 'BINALBAGAN',
                 'address' => 'ENCLARO',
                 'is_main' => 0,
@@ -3922,8 +3532,6 @@ class SchoolCampusesTableSeeder extends Seeder
             195 => 
             array (
                 'id' => 196,
-                'code' => NULL,
-                'oldname' => 'CARLOS HILADO MEMORIAL STATE UNIVERSITY-ALIJIS',
                 'campus' => 'ALIJIS',
                 'address' => 'PAULINE SUBDIVISION, BRGY. ALIJIS',
                 'is_main' => 0,
@@ -3942,8 +3550,6 @@ class SchoolCampusesTableSeeder extends Seeder
             196 => 
             array (
                 'id' => 197,
-                'code' => NULL,
-                'oldname' => 'CARLOS HILADO MEMORIAL STATE UNIVERSITY-FORTUNE TOWNE',
                 'campus' => 'FORTUNE TOWNE',
                 'address' => 'FORTUNE TOWNE, BARANGAY ESTEFANIA',
                 'is_main' => 0,
@@ -3962,8 +3568,6 @@ class SchoolCampusesTableSeeder extends Seeder
             197 => 
             array (
                 'id' => 198,
-                'code' => NULL,
-                'oldname' => 'CARMELITE COLLEGE OF SIQUIJOR INC.',
                 'campus' => 'SIQUIJOR',
                 'address' => 'TINAGO',
                 'is_main' => 0,
@@ -3982,8 +3586,6 @@ class SchoolCampusesTableSeeder extends Seeder
             198 => 
             array (
                 'id' => 199,
-                'code' => NULL,
-                'oldname' => 'CATANDUANES COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'SALVACION',
                 'is_main' => 0,
@@ -4002,8 +3604,6 @@ class SchoolCampusesTableSeeder extends Seeder
             199 => 
             array (
                 'id' => 200,
-                'code' => NULL,
-                'oldname' => 'CATANDUANES INSTITUTE OF TECHNOLOGY FOUNDATION',
                 'campus' => 'MAIN',
                 'address' => 'SAN JUAN',
                 'is_main' => 0,
@@ -4022,8 +3622,6 @@ class SchoolCampusesTableSeeder extends Seeder
             200 => 
             array (
                 'id' => 201,
-                'code' => NULL,
-                'oldname' => 'CATANDUANES STATE UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'CALATAGAN',
                 'is_main' => 1,
@@ -4042,8 +3640,6 @@ class SchoolCampusesTableSeeder extends Seeder
             201 => 
             array (
                 'id' => 202,
-                'code' => NULL,
-                'oldname' => 'CATANDUANES STATE UNIVERSITY-PANGANIBAN',
                 'campus' => 'PANGANIBAN',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -4062,8 +3658,6 @@ class SchoolCampusesTableSeeder extends Seeder
             202 => 
             array (
                 'id' => 203,
-                'code' => NULL,
-            'oldname' => 'CATS AERO COLLEGE (CEBU AERONAUTICAL TECHNICAL SCHOOL)',
                 'campus' => 'MAIN',
                 'address' => 'SALINAS DRIVE, LAHUG',
                 'is_main' => 0,
@@ -4082,8 +3676,6 @@ class SchoolCampusesTableSeeder extends Seeder
             203 => 
             array (
                 'id' => 204,
-                'code' => '4101031',
-                'oldname' => 'CAVITE STATE UNIVERSITY-BACOOR',
                 'campus' => 'BACOOR',
                 'address' => 'SAMPAGUITA ST. PHASE II HILLS IV, MOLIN VI',
                 'is_main' => 0,
@@ -4102,8 +3694,6 @@ class SchoolCampusesTableSeeder extends Seeder
             204 => 
             array (
                 'id' => 205,
-                'code' => '4101032',
-                'oldname' => 'CAVITE STATE UNIVERSITY-CARMONA',
                 'campus' => 'CARMONA',
                 'address' => 'MARKET ROAD, BRGY. MADUYA',
                 'is_main' => 0,
@@ -4122,8 +3712,6 @@ class SchoolCampusesTableSeeder extends Seeder
             205 => 
             array (
                 'id' => 206,
-                'code' => '41022175',
-                'oldname' => 'CAVITE STATE UNIVERSITY-CAVITE CITY',
                 'campus' => 'CAVITE CITY',
                 'address' => 'DALAHICAN',
                 'is_main' => 0,
@@ -4142,8 +3730,6 @@ class SchoolCampusesTableSeeder extends Seeder
             206 => 
             array (
                 'id' => 207,
-                'code' => '4101033',
-                'oldname' => 'CAVITE STATE UNIVERSITY-GENERAL TRIAS',
                 'campus' => 'GENERAL TRIAS',
                 'address' => 'BRGY. VIBORA',
                 'is_main' => 0,
@@ -4162,8 +3748,6 @@ class SchoolCampusesTableSeeder extends Seeder
             207 => 
             array (
                 'id' => 208,
-                'code' => '4101034',
-                'oldname' => 'CAVITE STATE UNIVERSITY-IMUS',
                 'campus' => 'IMUS',
                 'address' => 'CAVITE CIVIC CENTER, PALICO IV',
                 'is_main' => 0,
@@ -4182,8 +3766,6 @@ class SchoolCampusesTableSeeder extends Seeder
             208 => 
             array (
                 'id' => 209,
-                'code' => '4101036',
-                'oldname' => 'CAVITE STATE UNIVERSITY-INDANG',
                 'campus' => 'INDANG',
                 'address' => 'EDITED',
                 'is_main' => 1,
@@ -4202,8 +3784,6 @@ class SchoolCampusesTableSeeder extends Seeder
             209 => 
             array (
                 'id' => 210,
-                'code' => '4101037',
-                'oldname' => 'CAVITE STATE UNIVERSITY-NAIC',
                 'campus' => 'NAIC',
                 'address' => '',
                 'is_main' => 0,
@@ -4222,8 +3802,6 @@ class SchoolCampusesTableSeeder extends Seeder
             210 => 
             array (
                 'id' => 211,
-                'code' => '4101038',
-                'oldname' => 'CAVITE STATE UNIVERSITY-ROSARIO',
                 'campus' => 'ROSARIO',
                 'address' => 'BRGY. TEJEROS CONVENTION',
                 'is_main' => 0,
@@ -4242,8 +3820,6 @@ class SchoolCampusesTableSeeder extends Seeder
             211 => 
             array (
                 'id' => 212,
-                'code' => '4101039',
-                'oldname' => 'CAVITE STATE UNIVERSITY-SILANG',
                 'campus' => 'SILANG',
                 'address' => 'BIGA I,',
                 'is_main' => 0,
@@ -4262,8 +3838,6 @@ class SchoolCampusesTableSeeder extends Seeder
             212 => 
             array (
                 'id' => 213,
-                'code' => '4101040',
-                'oldname' => 'CAVITE STATE UNIVERSITY-TANZA',
                 'campus' => 'TANZA',
                 'address' => '',
                 'is_main' => 0,
@@ -4282,8 +3856,6 @@ class SchoolCampusesTableSeeder extends Seeder
             213 => 
             array (
                 'id' => 214,
-                'code' => '4101041',
-                'oldname' => 'CAVITE STATE UNIVERSITY-TRECE MARTIREZ',
                 'campus' => 'TRECE MARTIREZ',
                 'address' => '',
                 'is_main' => 0,
@@ -4302,8 +3874,6 @@ class SchoolCampusesTableSeeder extends Seeder
             214 => 
             array (
                 'id' => 215,
-                'code' => NULL,
-                'oldname' => 'CEBU DOCTORS UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => '1 DR. P.V. LARRAZABAL JR. AVENUE, NORTH RECLAMATION AREA',
                 'is_main' => 0,
@@ -4322,8 +3892,6 @@ class SchoolCampusesTableSeeder extends Seeder
             215 => 
             array (
                 'id' => 216,
-                'code' => NULL,
-                'oldname' => 'CEBU EASTERN COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'LEON KILAT ST.',
                 'is_main' => 0,
@@ -4342,8 +3910,6 @@ class SchoolCampusesTableSeeder extends Seeder
             216 => 
             array (
                 'id' => 217,
-                'code' => NULL,
-                'oldname' => 'CEBU INSTITUTE OF TECHNOLOGY-UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'N. BACALSO AVE',
                 'is_main' => 0,
@@ -4362,8 +3928,6 @@ class SchoolCampusesTableSeeder extends Seeder
             217 => 
             array (
                 'id' => 218,
-                'code' => NULL,
-                'oldname' => 'CEBU NORMAL UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'OSMENA BLVD.',
                 'is_main' => 1,
@@ -4382,8 +3946,6 @@ class SchoolCampusesTableSeeder extends Seeder
             218 => 
             array (
                 'id' => 219,
-                'code' => '701016',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-ARGAO',
                 'campus' => 'ARGAO',
                 'address' => 'NULL',
                 'is_main' => 0,
@@ -4402,8 +3964,6 @@ class SchoolCampusesTableSeeder extends Seeder
             219 => 
             array (
                 'id' => 220,
-                'code' => '701017',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-BANTAYAN',
                 'campus' => 'BANTAYAN',
                 'address' => 'MANAN-AO RD, BANTIGUE',
                 'is_main' => 0,
@@ -4422,8 +3982,6 @@ class SchoolCampusesTableSeeder extends Seeder
             220 => 
             array (
                 'id' => 221,
-                'code' => '701018',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-BARILI',
                 'campus' => 'BARILI',
                 'address' => 'CAGAY',
                 'is_main' => 0,
@@ -4442,8 +4000,6 @@ class SchoolCampusesTableSeeder extends Seeder
             221 => 
             array (
                 'id' => 222,
-                'code' => '701019',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-CARMEN',
                 'campus' => 'CARMEN',
                 'address' => 'DURANO AVENUE, POBLACION',
                 'is_main' => 0,
@@ -4462,8 +4018,6 @@ class SchoolCampusesTableSeeder extends Seeder
             222 => 
             array (
                 'id' => 223,
-                'code' => '701020',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-CEBU CITY',
                 'campus' => 'CEBU CITY',
                 'address' => 'EDITED',
                 'is_main' => 1,
@@ -4482,8 +4036,6 @@ class SchoolCampusesTableSeeder extends Seeder
             223 => 
             array (
                 'id' => 224,
-                'code' => '701021',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-DAANBANTAYAN',
                 'campus' => 'DAANBANTAYAN',
                 'address' => 'NATIONAL ROAD, AGUJO',
                 'is_main' => 0,
@@ -4502,8 +4054,6 @@ class SchoolCampusesTableSeeder extends Seeder
             224 => 
             array (
                 'id' => 225,
-                'code' => '701022',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-DANAO CITY',
                 'campus' => 'DANAO CITY',
                 'address' => 'SABANG',
                 'is_main' => 0,
@@ -4522,8 +4072,6 @@ class SchoolCampusesTableSeeder extends Seeder
             225 => 
             array (
                 'id' => 226,
-                'code' => '701066',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-DUMANJUG',
                 'campus' => 'DUMANJUG',
                 'address' => 'BITOON',
                 'is_main' => 0,
@@ -4542,8 +4090,6 @@ class SchoolCampusesTableSeeder extends Seeder
             226 => 
             array (
                 'id' => 227,
-                'code' => '701067',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-GINATILAN',
                 'campus' => 'GINATILAN',
                 'address' => 'SAN ROQUE',
                 'is_main' => 0,
@@ -4562,8 +4108,6 @@ class SchoolCampusesTableSeeder extends Seeder
             227 => 
             array (
                 'id' => 228,
-                'code' => '701068',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-MALABUYOC',
                 'campus' => 'MALABUYOC',
                 'address' => 'POBLACION I',
                 'is_main' => 0,
@@ -4582,8 +4126,6 @@ class SchoolCampusesTableSeeder extends Seeder
             228 => 
             array (
                 'id' => 229,
-                'code' => '701023',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-MOALBOAL',
                 'campus' => 'MOALBOAL',
                 'address' => 'NULL',
                 'is_main' => 0,
@@ -4602,8 +4144,6 @@ class SchoolCampusesTableSeeder extends Seeder
             229 => 
             array (
                 'id' => 230,
-                'code' => '701069',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-NAGA',
                 'campus' => 'NAGA',
                 'address' => 'CENTRAL POBLACION',
                 'is_main' => 0,
@@ -4622,8 +4162,6 @@ class SchoolCampusesTableSeeder extends Seeder
             230 => 
             array (
                 'id' => 231,
-                'code' => '701070',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-OSLOB',
                 'campus' => 'OSLOB',
                 'address' => 'JP. RIZAL ST., POBLACION',
                 'is_main' => 0,
@@ -4642,8 +4180,6 @@ class SchoolCampusesTableSeeder extends Seeder
             231 => 
             array (
                 'id' => 232,
-                'code' => '701071',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-PINAMUNGAJAN',
                 'campus' => 'PINAMUNGAJAN',
                 'address' => 'PANDACAN',
                 'is_main' => 0,
@@ -4662,8 +4198,6 @@ class SchoolCampusesTableSeeder extends Seeder
             232 => 
             array (
                 'id' => 233,
-                'code' => '701072',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-SAMBOAN',
                 'campus' => 'SAMBOAN',
                 'address' => 'NULL',
                 'is_main' => 0,
@@ -4682,8 +4216,6 @@ class SchoolCampusesTableSeeder extends Seeder
             233 => 
             array (
                 'id' => 234,
-                'code' => '701073',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-SAN FERNANDO',
                 'campus' => 'SAN FERNANDO',
                 'address' => 'UPPER LEVEL, MUNICIPAL SPORTS COMPLEX',
                 'is_main' => 0,
@@ -4702,8 +4234,6 @@ class SchoolCampusesTableSeeder extends Seeder
             234 => 
             array (
                 'id' => 235,
-                'code' => '701024',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-SAN FRANCISCO',
                 'campus' => 'SAN FRANCISCO',
                 'address' => 'NORTHERN POBLACION',
                 'is_main' => 0,
@@ -4722,8 +4252,6 @@ class SchoolCampusesTableSeeder extends Seeder
             235 => 
             array (
                 'id' => 236,
-                'code' => '701074',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-SAN REMEGIO',
                 'campus' => 'SAN REMEGIO',
                 'address' => 'ANTONIO Y DE PIO HWY',
                 'is_main' => 0,
@@ -4742,8 +4270,6 @@ class SchoolCampusesTableSeeder extends Seeder
             236 => 
             array (
                 'id' => 237,
-                'code' => '701075',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-TABOGON',
                 'campus' => 'TABOGON',
                 'address' => 'POBLACION',
                 'is_main' => 0,
@@ -4762,8 +4288,6 @@ class SchoolCampusesTableSeeder extends Seeder
             237 => 
             array (
                 'id' => 238,
-                'code' => '701025',
-                'oldname' => 'CEBU TECHNOLOGICAL UNIVERSITY-TUBURAN',
                 'campus' => 'TUBURAN',
                 'address' => 'BARANGAY 8, POBLACION',
                 'is_main' => 0,
@@ -4782,8 +4306,6 @@ class SchoolCampusesTableSeeder extends Seeder
             238 => 
             array (
                 'id' => 239,
-                'code' => NULL,
-                'oldname' => 'CENTER FOR INDUSTRIAL TECHNOLOGY AND ENTERPRISE TECHNICAL INSTITUTE, INC.',
                 'campus' => 'MAIN',
                 'address' => 'SAN JOSE',
                 'is_main' => 0,
@@ -4802,8 +4324,6 @@ class SchoolCampusesTableSeeder extends Seeder
             239 => 
             array (
                 'id' => 240,
-                'code' => '501024',
-                'oldname' => 'CENTRAL BICOL STATE UNIVERSITY OF AGRICULTURE-CALABANGA',
                 'campus' => 'CALABANGA',
                 'address' => 'STA. CRUZ, POBLACION',
                 'is_main' => 0,
@@ -4822,8 +4342,6 @@ class SchoolCampusesTableSeeder extends Seeder
             240 => 
             array (
                 'id' => 241,
-                'code' => '501025',
-                'oldname' => 'CENTRAL BICOL STATE UNIVERSITY OF AGRICULTURE-PASACAO',
                 'campus' => 'PASACAO',
                 'address' => 'STA. ROSA DEL NORTE',
                 'is_main' => 0,
@@ -4842,8 +4360,6 @@ class SchoolCampusesTableSeeder extends Seeder
             241 => 
             array (
                 'id' => 242,
-                'code' => '501026',
-                'oldname' => 'CENTRAL BICOL STATE UNIVERSITY OF AGRICULTURE-PILI',
                 'campus' => 'PILI',
                 'address' => 'SAN JOSE',
                 'is_main' => 1,
@@ -4862,8 +4378,6 @@ class SchoolCampusesTableSeeder extends Seeder
             242 => 
             array (
                 'id' => 243,
-                'code' => '501027',
-                'oldname' => 'CENTRAL BICOL STATE UNIVERSITY OF AGRICULTURE-SIPOCOT',
                 'campus' => 'SIPOCOT',
                 'address' => 'ZONE 5, IMPIG',
                 'is_main' => 0,
@@ -4882,8 +4396,6 @@ class SchoolCampusesTableSeeder extends Seeder
             243 => 
             array (
                 'id' => 244,
-                'code' => NULL,
-                'oldname' => 'CENTRAL COLLEGES OF THE PHILIPPINES',
                 'campus' => 'MAIN',
                 'address' => '52 AURORA BLVD.',
                 'is_main' => 0,
@@ -4902,8 +4414,6 @@ class SchoolCampusesTableSeeder extends Seeder
             244 => 
             array (
                 'id' => 245,
-                'code' => NULL,
-                'oldname' => 'CENTRAL LUZON DOCTORS\' HOSPITAL EDUCATIONAL INSTITUTION',
                 'campus' => 'MAIN',
                 'address' => 'ROMULO HIGHWAY, SAN PABLO',
                 'is_main' => 0,
@@ -4922,8 +4432,6 @@ class SchoolCampusesTableSeeder extends Seeder
             245 => 
             array (
                 'id' => 246,
-                'code' => NULL,
-                'oldname' => 'CENTRAL LUZON STATE UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'CLSU COMPOUND',
                 'is_main' => 1,
@@ -4942,8 +4450,6 @@ class SchoolCampusesTableSeeder extends Seeder
             246 => 
             array (
                 'id' => 247,
-                'code' => NULL,
-                'oldname' => 'CENTRAL MINDANAO UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'UNIVERSITY TOWN, MUSUAN',
                 'is_main' => 1,
@@ -4962,8 +4468,6 @@ class SchoolCampusesTableSeeder extends Seeder
             247 => 
             array (
                 'id' => 248,
-                'code' => NULL,
-                'oldname' => 'CENTRAL PHILIPPINE ADVENTIST COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'ALEGRIA',
                 'is_main' => 0,
@@ -4982,8 +4486,6 @@ class SchoolCampusesTableSeeder extends Seeder
             248 => 
             array (
                 'id' => 249,
-                'code' => NULL,
-                'oldname' => 'CENTRAL PHILIPPINE UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -5002,8 +4504,6 @@ class SchoolCampusesTableSeeder extends Seeder
             249 => 
             array (
                 'id' => 250,
-                'code' => NULL,
-                'oldname' => 'CENTRAL PHILIPPINES STATE UNIVERSITY',
                 'campus' => 'MAIN',
                 'address' => 'CAMINGAWAN',
                 'is_main' => 1,
@@ -5022,8 +4522,6 @@ class SchoolCampusesTableSeeder extends Seeder
             250 => 
             array (
                 'id' => 251,
-                'code' => NULL,
-                'oldname' => 'CENTRAL PHILIPPINES STATE UNIVERSITY-SAN CARLOS CITY',
                 'campus' => 'SAN CARLOS CITY',
                 'address' => 'SITIO MABUNI, BARANGAY GUADALUPE',
                 'is_main' => 0,
@@ -5042,8 +4540,6 @@ class SchoolCampusesTableSeeder extends Seeder
             251 => 
             array (
                 'id' => 252,
-                'code' => NULL,
-                'oldname' => 'CENTRAL PHILIPPINES STATE UNIVERSITY - VICTORIAS CAMPUS',
                 'campus' => 'VICTORIAS CITY',
                 'address' => 'HDA. ESTRELLA, BARANGAY 14',
                 'is_main' => 0,
@@ -5062,8 +4558,6 @@ class SchoolCampusesTableSeeder extends Seeder
             252 => 
             array (
                 'id' => 253,
-                'code' => NULL,
-                'oldname' => 'CENTRAL PHILIPPINES STATE UNIVERSITY-HINIGARAN CAMPUS',
                 'campus' => 'HINIGARAN',
                 'address' => 'SITIO HEADQUARTERS, BRGY. GARGATO',
                 'is_main' => 0,
@@ -5082,8 +4576,6 @@ class SchoolCampusesTableSeeder extends Seeder
             253 => 
             array (
                 'id' => 254,
-                'code' => NULL,
-                'oldname' => 'CENTRO ESCOLAR UNIVERSITY-MALOLOS',
                 'campus' => 'MALOLOS',
                 'address' => 'KM. 44, MACARTHUR HIGHWAY',
                 'is_main' => 0,
@@ -5102,8 +4594,6 @@ class SchoolCampusesTableSeeder extends Seeder
             254 => 
             array (
                 'id' => 255,
-                'code' => NULL,
-                'oldname' => 'CENTRO ESCOLAR UNIVERSITY-MANILA',
                 'campus' => 'MANILA',
                 'address' => '9 MENDIOLA ST. SAN MIGUEL',
                 'is_main' => 0,
@@ -5122,8 +4612,6 @@ class SchoolCampusesTableSeeder extends Seeder
             255 => 
             array (
                 'id' => 256,
-                'code' => NULL,
-                'oldname' => 'CENTRO ESCOLAR UNIVERSITY-MAKATI',
                 'campus' => 'MAKATI',
                 'address' => '259 SEN. GIL PUYAT AVE.',
                 'is_main' => 0,
@@ -5142,8 +4630,6 @@ class SchoolCampusesTableSeeder extends Seeder
             256 => 
             array (
                 'id' => 257,
-                'code' => NULL,
-                'oldname' => 'CHINESE GENERAL HOSPITAL COLLEGES',
                 'campus' => 'MAIN',
                 'address' => '286 BLUMENTRITT ST., SANTA CRUZ',
                 'is_main' => 0,
@@ -5162,8 +4648,6 @@ class SchoolCampusesTableSeeder extends Seeder
             257 => 
             array (
                 'id' => 258,
-                'code' => NULL,
-                'oldname' => 'CHRIST THE KING COLLEGE DE MARANDING, INC.',
                 'campus' => 'MAIN',
                 'address' => 'MARANDING',
                 'is_main' => 1,
@@ -5182,8 +4666,6 @@ class SchoolCampusesTableSeeder extends Seeder
             258 => 
             array (
                 'id' => 259,
-                'code' => NULL,
-                'oldname' => 'CHRIST THE KING COLLEGE-GINGOOG CITY',
                 'campus' => 'GINGOOG CITY',
                 'address' => 'NATIONAL HIGHWAY',
                 'is_main' => 0,
@@ -5202,8 +4684,6 @@ class SchoolCampusesTableSeeder extends Seeder
             259 => 
             array (
                 'id' => 260,
-                'code' => NULL,
-                'oldname' => 'CHRISTIAN COLLEGE OF TANAUAN',
                 'campus' => 'MAIN',
                 'address' => 'JV PAGASPAS ST',
                 'is_main' => 0,
@@ -5222,8 +4702,6 @@ class SchoolCampusesTableSeeder extends Seeder
             260 => 
             array (
                 'id' => 261,
-                'code' => NULL,
-                'oldname' => 'CHRISTIAN COLLEGE SOUTHEAST ASIA',
                 'campus' => 'MAIN',
                 'address' => 'DON JULIAN RODRIGUEZ AVENUE',
                 'is_main' => 0,
@@ -5242,8 +4720,6 @@ class SchoolCampusesTableSeeder extends Seeder
             261 => 
             array (
                 'id' => 262,
-                'code' => NULL,
-                'oldname' => 'CHRISTIAN POLYTECHNIC INSTITUTE OF CATANDUANES, INC.',
                 'campus' => 'MAIN',
                 'address' => 'FRANCIA',
                 'is_main' => 0,
@@ -5262,8 +4738,6 @@ class SchoolCampusesTableSeeder extends Seeder
             262 => 
             array (
                 'id' => 263,
-                'code' => NULL,
-                'oldname' => 'CIIT PHILIPPINES-COLLEGE OF ARTS AND TECHNOLOGY',
                 'campus' => 'COLLEGE OF ARTS AND TECHNOLOGY',
                 'address' => '3RD AND 4TH FLOOR, 62 SGT. ESGUERRA COR. MO. IGNACIA AVENUE',
                 'is_main' => 0,
@@ -5282,8 +4756,6 @@ class SchoolCampusesTableSeeder extends Seeder
             263 => 
             array (
                 'id' => 264,
-                'code' => NULL,
-                'oldname' => 'CITY COLLEGE OF ANGELES',
                 'campus' => 'MAIN',
                 'address' => 'ARAYAT BLVD., PAMPANG',
                 'is_main' => 0,
@@ -5302,8 +4774,6 @@ class SchoolCampusesTableSeeder extends Seeder
             264 => 
             array (
                 'id' => 265,
-                'code' => NULL,
-                'oldname' => 'CITY COLLEGE OF CALAMBA',
                 'campus' => 'MAIN',
                 'address' => 'BRGY. VII, POBLACION',
                 'is_main' => 0,
@@ -5322,8 +4792,6 @@ class SchoolCampusesTableSeeder extends Seeder
             265 => 
             array (
                 'id' => 266,
-                'code' => NULL,
-                'oldname' => 'CITY COLLEGE OF CALAPAN',
                 'campus' => 'MAIN',
                 'address' => 'GUINOBATAN',
                 'is_main' => 0,
@@ -5342,8 +4810,6 @@ class SchoolCampusesTableSeeder extends Seeder
             266 => 
             array (
                 'id' => 267,
-                'code' => NULL,
-                'oldname' => 'CITY COLLEGE OF TAGAYTAY',
                 'campus' => 'MAIN',
                 'address' => 'KAYBAGAL SOUTH',
                 'is_main' => 0,
@@ -5362,8 +4828,6 @@ class SchoolCampusesTableSeeder extends Seeder
             267 => 
             array (
                 'id' => 268,
-                'code' => NULL,
-                'oldname' => 'CITY UNIVERSITY OF PASAY',
                 'campus' => 'MAIN',
                 'address' => 'PASADENA ST., F.B. HARRISON',
                 'is_main' => 0,
@@ -5382,8 +4846,6 @@ class SchoolCampusesTableSeeder extends Seeder
             268 => 
             array (
                 'id' => 269,
-                'code' => NULL,
-                'oldname' => 'COLAND SYSTEM TECHNOLOGY COLLEGE INC.',
                 'campus' => 'MAIN',
                 'address' => 'SINSUAT AVENUE',
                 'is_main' => 0,
@@ -5402,8 +4864,6 @@ class SchoolCampusesTableSeeder extends Seeder
             269 => 
             array (
                 'id' => 270,
-                'code' => NULL,
-                'oldname' => 'COLEGIO DE DAGUPAN',
                 'campus' => 'MAIN',
                 'address' => 'ARELLANO STREET, PANTAL DISTRICT',
                 'is_main' => 0,
@@ -5422,8 +4882,6 @@ class SchoolCampusesTableSeeder extends Seeder
             270 => 
             array (
                 'id' => 271,
-                'code' => NULL,
-                'oldname' => 'DIPOLOG CITY INSTITUTE OF TECHNOLOGY',
                 'campus' => 'DIPOLOG CITY INSTITUTE OF TECHNOLOGY',
                 'address' => 'DAPITAN ROAD',
                 'is_main' => 0,
@@ -5442,8 +4900,6 @@ class SchoolCampusesTableSeeder extends Seeder
             271 => 
             array (
                 'id' => 272,
-                'code' => NULL,
-                'oldname' => 'DIPOLOG MEDICAL CENTER COLLEGE FOUNDATION, INC',
                 'campus' => 'MAIN',
                 'address' => 'DIPOLOG MEDICAL CENTER. FR. PATANGAN ROAD, STA. FILOMENA ST.',
                 'is_main' => 0,
@@ -5462,8 +4918,6 @@ class SchoolCampusesTableSeeder extends Seeder
             272 => 
             array (
                 'id' => 273,
-                'code' => NULL,
-                'oldname' => 'DR. AURELIO MENDOZA MEMORIAL COLLEGES',
                 'campus' => 'MAIN',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -5482,8 +4936,6 @@ class SchoolCampusesTableSeeder extends Seeder
             273 => 
             array (
                 'id' => 274,
-                'code' => NULL,
-                'oldname' => 'JH CERILLES STATE COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'MATI',
                 'is_main' => 1,
@@ -5502,8 +4954,6 @@ class SchoolCampusesTableSeeder extends Seeder
             274 => 
             array (
                 'id' => 275,
-                'code' => NULL,
-                'oldname' => 'JH CERILLES STATE COLLEGE- DUMINGAG CAMPUS',
                 'campus' => 'DUMINGAG',
                 'address' => 'CARIDAD',
                 'is_main' => 0,
@@ -5522,8 +4972,6 @@ class SchoolCampusesTableSeeder extends Seeder
             275 => 
             array (
                 'id' => 276,
-                'code' => NULL,
-                'oldname' => 'JOSE RIZAL MEMORIAL STATE UNIVERSITY-DIPOLOG CITY',
                 'campus' => 'DIPOLOG',
                 'address' => 'GENERAL LUNA ST.',
                 'is_main' => 0,
@@ -5542,8 +4990,6 @@ class SchoolCampusesTableSeeder extends Seeder
             276 => 
             array (
                 'id' => 277,
-                'code' => NULL,
-                'oldname' => 'JOSE RIZAL MEMORIAL STATE UNIVERSITY-DAPITAN CITY',
                 'campus' => 'MAIN',
                 'address' => 'GUADING ADASA ST., STA. CRUZ',
                 'is_main' => 1,
@@ -5562,8 +5008,6 @@ class SchoolCampusesTableSeeder extends Seeder
             277 => 
             array (
                 'id' => 278,
-                'code' => NULL,
-                'oldname' => 'JOSE RIZAL MEMORIAL STATE UNIVERSITY-KATIPUNAN',
                 'campus' => 'KATIPUNAN',
                 'address' => 'REGIONAL HIGHWAY DIPOLOG-SINDANGAN',
                 'is_main' => 0,
@@ -5582,8 +5026,6 @@ class SchoolCampusesTableSeeder extends Seeder
             278 => 
             array (
                 'id' => 279,
-                'code' => NULL,
-                'oldname' => 'JOSE RIZAL MEMORIAL STATE UNIVERSITY-TAMPILISAN',
                 'campus' => 'TAMPILISAN',
                 'address' => 'ZNAC ROAD',
                 'is_main' => 0,
@@ -5602,8 +5044,6 @@ class SchoolCampusesTableSeeder extends Seeder
             279 => 
             array (
                 'id' => 280,
-                'code' => NULL,
-                'oldname' => 'JOSE RIZAL MEMORIAL STATE UNIVERSITY - SIOCON CAMPUS',
                 'campus' => 'SIOCON',
                 'address' => 'MANAOL',
                 'is_main' => 0,
@@ -5622,8 +5062,6 @@ class SchoolCampusesTableSeeder extends Seeder
             280 => 
             array (
                 'id' => 281,
-                'code' => NULL,
-                'oldname' => 'MARIAN COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'CLIMACO',
                 'is_main' => 0,
@@ -5642,8 +5080,6 @@ class SchoolCampusesTableSeeder extends Seeder
             281 => 
             array (
                 'id' => 282,
-                'code' => NULL,
-                'oldname' => 'MEDINA COLLEGE-IPIL',
                 'campus' => 'IPIL',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -5662,8 +5098,6 @@ class SchoolCampusesTableSeeder extends Seeder
             282 => 
             array (
                 'id' => 283,
-                'code' => NULL,
-                'oldname' => 'MEDINA COLLEGE-PAGADIAN',
                 'campus' => 'PAGADIAN',
                 'address' => 'BULATOK DISTRICT',
                 'is_main' => 0,
@@ -5682,8 +5116,6 @@ class SchoolCampusesTableSeeder extends Seeder
             283 => 
             array (
                 'id' => 284,
-                'code' => NULL,
-                'oldname' => 'MEDINA COLLEGE-OZAMIZ',
                 'campus' => 'OZAMIZ',
                 'address' => 'MANINGCOL',
                 'is_main' => 0,
@@ -5702,8 +5134,6 @@ class SchoolCampusesTableSeeder extends Seeder
             284 => 
             array (
                 'id' => 285,
-                'code' => NULL,
-            'oldname' => 'MINDANAO STATE UNIVERSITY - MAIN CAMPUS SINDANGAN EXTENSION (MSU-MCSE)',
                 'campus' => 'MAIN CAMPUS SINDANGAN EXTENSION',
                 'address' => 'BALOK',
                 'is_main' => 0,
@@ -5722,8 +5152,6 @@ class SchoolCampusesTableSeeder extends Seeder
             285 => 
             array (
                 'id' => 286,
-                'code' => NULL,
-                'oldname' => 'MINDANAO STATE UNIVERSITY-BUUG',
                 'campus' => 'BUUG',
                 'address' => 'DATU PANAS ST.',
                 'is_main' => 0,
@@ -5742,8 +5170,6 @@ class SchoolCampusesTableSeeder extends Seeder
             286 => 
             array (
                 'id' => 287,
-                'code' => NULL,
-                'oldname' => 'PAGADIAN CAPITOL COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -5762,8 +5188,6 @@ class SchoolCampusesTableSeeder extends Seeder
             287 => 
             array (
                 'id' => 288,
-                'code' => NULL,
-                'oldname' => 'PHILIPPINE ADVENT COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'RAMON MAGSAYSAY',
                 'is_main' => 0,
@@ -5782,8 +5206,6 @@ class SchoolCampusesTableSeeder extends Seeder
             288 => 
             array (
                 'id' => 289,
-                'code' => NULL,
-                'oldname' => 'SAINT COLUMBAN COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'CORNER ALANO & SAGON ST., SAN FRANCISCO DISTRICT',
                 'is_main' => 0,
@@ -5802,8 +5224,6 @@ class SchoolCampusesTableSeeder extends Seeder
             289 => 
             array (
                 'id' => 290,
-                'code' => NULL,
-                'oldname' => 'SAINT JOSEPH COLLEGE OF SINDANGAN INCORPORATED',
                 'campus' => 'MAIN',
                 'address' => 'JOSE BURGOS ST. NATIONAL HIGHWAY',
                 'is_main' => 0,
@@ -5822,8 +5242,6 @@ class SchoolCampusesTableSeeder extends Seeder
             290 => 
             array (
                 'id' => 291,
-                'code' => NULL,
-                'oldname' => 'SAINT VINCENT`S COLLEGE-DIPOLOG CITY',
                 'campus' => 'MAIN',
                 'address' => 'PADRE RAMON ST., ESTAKA',
                 'is_main' => 0,
@@ -5842,8 +5260,6 @@ class SchoolCampusesTableSeeder extends Seeder
             291 => 
             array (
                 'id' => 292,
-                'code' => NULL,
-                'oldname' => 'SIBUGAY TECHNICAL INSTITUTE INC.-IPIL',
                 'campus' => 'MAIN',
                 'address' => 'LOWER, TAWAY',
                 'is_main' => 0,
@@ -5862,8 +5278,6 @@ class SchoolCampusesTableSeeder extends Seeder
             292 => 
             array (
                 'id' => 293,
-                'code' => NULL,
-                'oldname' => 'SOUTHERN MINDANAO COLLEGES',
                 'campus' => 'MAIN',
                 'address' => 'NONE',
                 'is_main' => 0,
@@ -5882,8 +5296,6 @@ class SchoolCampusesTableSeeder extends Seeder
             293 => 
             array (
                 'id' => 294,
-                'code' => NULL,
-                'oldname' => 'UNIVERSIDAD DE ZAMBOANGA',
                 'campus' => 'MAIN',
                 'address' => 'EUSTAQUIO QUADRANGLE, J.S. ALANO ST. ZONE III',
                 'is_main' => 0,
@@ -5902,8 +5314,6 @@ class SchoolCampusesTableSeeder extends Seeder
             294 => 
             array (
                 'id' => 295,
-                'code' => NULL,
-                'oldname' => 'UNIVERSIDAD DE ZAMBOANGA - PAGADIAN',
                 'campus' => 'PAGADIAN',
                 'address' => 'ZONE 4, BRGY. TIGUMA',
                 'is_main' => 0,
@@ -5922,8 +5332,6 @@ class SchoolCampusesTableSeeder extends Seeder
             295 => 
             array (
                 'id' => 296,
-                'code' => '901020',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-ALICIA',
                 'campus' => 'ALICIA',
                 'address' => 'POBLACION',
                 'is_main' => 0,
@@ -5942,8 +5350,6 @@ class SchoolCampusesTableSeeder extends Seeder
             296 => 
             array (
                 'id' => 297,
-                'code' => '901021',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-AURORA',
                 'campus' => 'AURORA',
                 'address' => 'JAPAN BLDG, ANHS, BALIDE',
                 'is_main' => 0,
@@ -5962,8 +5368,6 @@ class SchoolCampusesTableSeeder extends Seeder
             297 => 
             array (
                 'id' => 298,
-                'code' => '901022',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-CURUAN',
                 'campus' => 'CURUAN',
                 'address' => 'CURUAN',
                 'is_main' => 0,
@@ -5982,8 +5386,6 @@ class SchoolCampusesTableSeeder extends Seeder
             298 => 
             array (
                 'id' => 299,
-                'code' => '901023',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-DIPLAHAN',
                 'campus' => 'DIPLAHAN',
                 'address' => 'PUROK RIZAL, POBLACION',
                 'is_main' => 0,
@@ -6002,8 +5404,6 @@ class SchoolCampusesTableSeeder extends Seeder
             299 => 
             array (
                 'id' => 300,
-                'code' => '901024',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-IMELDA',
                 'campus' => 'IMELDA',
                 'address' => 'BALUGO',
                 'is_main' => 0,
@@ -6022,8 +5422,6 @@ class SchoolCampusesTableSeeder extends Seeder
             300 => 
             array (
                 'id' => 301,
-                'code' => '901025',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-IPIL',
                 'campus' => 'IPIL',
                 'address' => 'IPIL HEIGHTS',
                 'is_main' => 0,
@@ -6042,8 +5440,6 @@ class SchoolCampusesTableSeeder extends Seeder
             301 => 
             array (
                 'id' => 302,
-                'code' => '901026',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-MABUHAY',
                 'campus' => 'MABUHAY',
                 'address' => 'SOLAR',
                 'is_main' => 0,
@@ -6062,8 +5458,6 @@ class SchoolCampusesTableSeeder extends Seeder
             302 => 
             array (
                 'id' => 303,
-                'code' => '901027',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-MALANGAS',
                 'campus' => 'MALANGAS',
                 'address' => 'POBLACION',
                 'is_main' => 0,
@@ -6082,8 +5476,6 @@ class SchoolCampusesTableSeeder extends Seeder
             303 => 
             array (
                 'id' => 304,
-                'code' => '901028',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-MOLAVE',
                 'campus' => 'MOLAVE',
                 'address' => 'MABINI ST., MALULOY-ON',
                 'is_main' => 0,
@@ -6102,8 +5494,6 @@ class SchoolCampusesTableSeeder extends Seeder
             304 => 
             array (
                 'id' => 305,
-                'code' => '901029',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-NAGA',
                 'campus' => 'NAGA',
                 'address' => 'PUROK 11, STA.CLARA',
                 'is_main' => 0,
@@ -6122,8 +5512,6 @@ class SchoolCampusesTableSeeder extends Seeder
             305 => 
             array (
                 'id' => 306,
-                'code' => '901030',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-OLUTANGA',
                 'campus' => 'OLUTANGA',
                 'address' => 'SOLAR',
                 'is_main' => 0,
@@ -6142,8 +5530,6 @@ class SchoolCampusesTableSeeder extends Seeder
             306 => 
             array (
                 'id' => 307,
-                'code' => '901031',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-PAGADIAN',
                 'campus' => 'PAGADIAN',
                 'address' => 'STA. MARIA DISTRICT',
                 'is_main' => 0,
@@ -6162,8 +5548,6 @@ class SchoolCampusesTableSeeder extends Seeder
             307 => 
             array (
                 'id' => 308,
-                'code' => '901032',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-SIAY',
                 'campus' => 'SIAY',
                 'address' => 'DAKANAY',
                 'is_main' => 0,
@@ -6182,8 +5566,6 @@ class SchoolCampusesTableSeeder extends Seeder
             308 => 
             array (
                 'id' => 309,
-                'code' => '901033',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-TUNGAWAN',
                 'campus' => 'TUNGAWAN',
                 'address' => 'LIBERTAD',
                 'is_main' => 0,
@@ -6202,8 +5584,6 @@ class SchoolCampusesTableSeeder extends Seeder
             309 => 
             array (
                 'id' => 310,
-                'code' => '901019',
-                'oldname' => 'WESTERN MINDANAO STATE UNIVERSITY-ZAMBOANGA CITY',
                 'campus' => 'MAIN',
                 'address' => 'NORMAL ROAD, BALIWASAN',
                 'is_main' => 1,
@@ -6222,8 +5602,6 @@ class SchoolCampusesTableSeeder extends Seeder
             310 => 
             array (
                 'id' => 311,
-                'code' => NULL,
-                'oldname' => 'YLLANA BAY VIEW COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'ENERIO STREET BALANGASAN',
                 'is_main' => 0,
@@ -6242,8 +5620,6 @@ class SchoolCampusesTableSeeder extends Seeder
             311 => 
             array (
                 'id' => 312,
-                'code' => NULL,
-                'oldname' => 'ZAMBOANGA DEL SUR PAGADIAN GOVERNMENT COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'P. URRO STREET, CAPITOL COMPOUND, STO. ÑINO DISTRICT',
                 'is_main' => 0,
@@ -6262,8 +5638,6 @@ class SchoolCampusesTableSeeder extends Seeder
             312 => 
             array (
                 'id' => 313,
-                'code' => NULL,
-                'oldname' => 'ZAMBOANGA DEL SUR PROVINCIAL GOVERNMENT COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'POBLACION',
                 'is_main' => 0,
@@ -6282,8 +5656,6 @@ class SchoolCampusesTableSeeder extends Seeder
             313 => 
             array (
                 'id' => 314,
-                'code' => NULL,
-                'oldname' => 'ZAMBOANGA CITY POLYTECHNIC STATE COLLEGE',
                 'campus' => 'MAIN',
                 'address' => 'R.T. LIM, BOULEVARD, BALIWASAN',
                 'is_main' => 1,
@@ -6302,8 +5674,6 @@ class SchoolCampusesTableSeeder extends Seeder
             314 => 
             array (
                 'id' => 315,
-                'code' => NULL,
-                'oldname' => 'ZAMBOANGA STATE COLLEGE OF MARINE SCIENCE AND TECHNOLOGY',
                 'campus' => 'MAIN',
                 'address' => 'RIO HONDO',
                 'is_main' => 1,

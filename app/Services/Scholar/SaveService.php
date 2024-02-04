@@ -12,6 +12,7 @@ use App\Models\ListProgram;
 use App\Models\ListDropdown;
 use App\Models\School;
 use App\Models\SchoolCampus;
+use App\Models\SchoolName;
 use App\Models\LocationRegion;
 use App\Models\LocationProvince;
 use App\Models\LocationBarangay;
@@ -139,7 +140,7 @@ class SaveService
                                 \DB::rollback();
                             }
                         }else{
-                            array_push($failed,$list['spas_id']);
+                            array_push($failed,$education);
                             \DB::rollback();
                         }
                     }else{
@@ -179,16 +180,20 @@ class SaveService
     }
 
     public function school($name){
-        $school = SchoolCampus::select('id')->where('oldname',$name)->first();
+        $school = SchoolName::select('school_id')->where('name',$name)->first();
         if($school){
-            $school_id = $school->id; 
+            $school_id = $school->school_id; 
         }else{
             $school2 = School::select('id')->where('name',$name)->first();
-            $school3 = SchoolCampus::select('id')->where('school_id',$school2->id)->first();
-            if($school3){
-                $school_id = $school3->id; 
+            if($school2){
+                $school3 = SchoolCampus::select('id')->where('school_id',$school2->id)->first();
+                if($school3){
+                    $school_id = $school3->id; 
+                }else{
+                    $school_id = null;
+                }
             }else{
-                $school_id = '';
+                $school_id = null;
             }
         }
         return $school_id;

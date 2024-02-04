@@ -57,7 +57,7 @@ class ListController extends Controller
         })
         ->orWhere(function ($query) use ($keyword) {
             $query->where('campus',$keyword);
-        })->get()->take(10);
+        })->get();
 
         return SchoolResource::collection($data);
     }
@@ -78,7 +78,7 @@ class ListController extends Controller
         $data = ListCourse::where(function ($query) use ($keyword) {
             $query->where('name', 'LIKE', '%'.$keyword.'%');
         })
-        ->get()->take(10);
+        ->get();
         return CourseListResource::collection($data);
     }
 

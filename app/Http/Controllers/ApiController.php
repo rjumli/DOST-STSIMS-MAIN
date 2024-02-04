@@ -67,10 +67,10 @@ class ApiController extends Controller
             ];
             return $array;
         }else if($type == 'download'){
-            $data = School::with('campuses','campuses.courses')->get();
+            $data = School::with('campuses','campuses.courses','campuses.names')->get();
             return $data;
         }else{
-            $data = School::with('campuses','campuses.courses')->get();
+            $data = School::with('campuses','campuses.courses','campuses.names')->get();
             return $data;
         }
     }

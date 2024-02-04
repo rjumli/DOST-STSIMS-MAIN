@@ -51,6 +51,7 @@ Route::middleware(['auth'])->group(function () {
 });
 
 Route::get('/insert', [App\Http\Controllers\Directory\SchoolController::class, 'insert']);
+Route::get('/names', [App\Http\Controllers\Directory\SchoolController::class, 'names']);
 
 require __DIR__.'/authentication.php';
 require __DIR__.'/lists.php';
