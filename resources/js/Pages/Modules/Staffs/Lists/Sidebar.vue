@@ -2,7 +2,7 @@
     <div class="p-4 d-flex flex-column h-100">
         
         <div class="mt-3">
-            <div class="d-flex justify-content-center align-items-center mb-4">
+            <!-- <div class="d-flex justify-content-center align-items-center mb-4">
                 <h2 class="me-3 ff-secondary mb-0">258</h2>
                 <div>
                     <p class="text-muted mb-0">Total Projects</p>
@@ -10,7 +10,7 @@
                             class="badge bg-success-subtle rounded-pill bg-success-subtle text-success p-1"><i
                                 class="ri-arrow-right-up-line"></i></span> +3 New </p>
                 </div>
-            </div>
+            </div> -->
             <div class="d-flex justify-content-between border-bottom border-bottom-dashed py-2">
                 <p class="fw-medium mb-0 fs-12">
                     <i class="ri-checkbox-blank-circle-fill text-success align-middle me-2"></i> Successful Login

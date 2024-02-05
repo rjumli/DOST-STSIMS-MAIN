@@ -30,6 +30,7 @@ class IndexResource extends JsonResource
             'notavail' => $this->notavail,
             'endorsement' => $this->endorsement,
             'is_endorsed' => $this->is_endorsed,
+            'is_undergrad' => $this->is_undergrad,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
         ];

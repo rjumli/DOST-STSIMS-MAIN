@@ -30,7 +30,7 @@ class UpdateService
                 'status_id' => 7,
                 'awarded_year' =>  $scholar['qualified_year'],
                 'is_completed' => 1,
-                'is_undergrad' => 1,
+                'is_undergrad' => $scholar['is_undergrad'],
                 'created_at' => now(),
                 'updated_at' => now()
             ];
@@ -42,7 +42,7 @@ class UpdateService
                 $education = [
                     'school_id' => $request->school_id,
                     'course_id' => $request->course_id,
-                    'level_id' => 24, //temp fixed value / 1st year
+                    'level_id' => ($scholar['is_undergrad'] == 1) ? 24 : 26,
                     'information' => json_encode($info = []),
                     'is_completed' => 1,
                     'is_enrolled' => 1,
@@ -134,9 +134,15 @@ class UpdateService
     }
 
     public function endorse($request){
-        $bearer = $request->bearerToken();
-        $token = PersonalAccessToken::findToken($bearer);
-        $region = $token->tokenable->profile->agency->region_code;
+        if(\Auth::check()){
+            $region = \Auth::user()->profile->agency->region->code;
+            $user_id = \Auth::user()->id;
+        }else{
+            $bearer = $request->bearerToken();
+            $token = PersonalAccessToken::findToken($bearer);
+            $region = $token->tokenable->profile->agency->region_code;
+            $user_id = $token->tokenable->id;
+        }
 
         $postData = array(
             'course_id' => $request->course_id,
@@ -144,7 +150,7 @@ class UpdateService
             'endorsed_by' => $region,
             'endorsed_to' => SchoolCampus::where('id',$request->school_id)->pluck('assigned_region')->first(),
             'qualifier_id' => $request->user['id'],
-            'user_id' => $token->tokenable->id,
+            'user_id' => $user_id,
             'created_at' => now(),
             'updated_at' => now()
         );

@@ -70,23 +70,29 @@
                     <span :class="'badge '+list.status.color+' '+list.status.others">{{list.status.name}}</span>
                 </td>
                 <td class="text-end">
-                    <b-button variant="soft-primary" @click="endorse(list)" v-b-tooltip.hover title="Endorse" size="sm" class="edit-list me-1"><i class="ri-swap-fill align-bottom"></i> </b-button>
-                    <b-button v-if="list.type.name != 'Enrolled'" @click="add(list)" variant="soft-primary" v-b-tooltip.hover title="Add Scholar" size="sm" class="edit-list me-1"><i class="ri-user-add-fill align-bottom"></i> </b-button>
-                    <b-button v-if="list.address.is_completed == 0" @click="update(list)" variant="soft-danger" v-b-tooltip.hover title="Update Address" size="sm" class="remove-list me-1"><i class="ri-map-pin-fill align-bottom"></i></b-button>
-                    <b-button variant="soft-primary" v-b-tooltip.hover title="Edit" size="sm" class="edit-list"><i class="ri-pencil-fill align-bottom"></i> </b-button>
+                   <b-button v-if="list.address.is_completed == 0" variant="soft-danger" @click="showAddress(list)" v-b-tooltip.hover title="View" size="sm" class="me-0">
+                        <i class="ri-eye-fill align-bottom"></i> 
+                    </b-button>
+                    <b-button v-else variant="soft-primary" @click="showProfile(list)" v-b-tooltip.hover title="View" size="sm" class="me-0">
+                        <i class="ri-eye-fill align-bottom"></i> 
+                    </b-button>
                 </td>
             </tr>
             </tbody>
         </table>
         <Pagination class="ms-2 me-2" v-if="meta" @fetch="fetch" :lists="lists.length" :links="links" :pagination="meta" />
     </div>
+    <Address @status="fetchUpdate()" ref="address"/>
+    <Profile @status="fetchUpdate()" :statuses="status_list" ref="profile"/>
     <Filter :regions="regions" :dropdowns="dropdowns" :programs="program_list" :subprograms="subprogram_list" @status="subfilter" ref="filter"/>
 </template>
 <script>
+import Address from './Modals/Buttons/Address.vue';
+import Profile from './Modals/Buttons/Profile.vue';
 import Filter from './Modals/Filter.vue';
 import Pagination from "@/Shared/Components/Pagination.vue";
 export default {
-    components: { Pagination, Filter },
+    components: { Pagination, Filter, Address, Profile },
     props: ['regions','dropdowns','program_list','subprogram_list','statuses'],
     data(){
         return {
@@ -208,10 +214,11 @@ export default {
         openFilter(){
             this.$refs.filter.show();
         },
-        showUpdate(data,type,index){
-            this.flag = type;
-            this.index = index;
-            this.$refs.update.show(data,type);
+        showProfile(data){
+            this.$refs.profile.show(data);
+        },
+        showAddress(data){
+            this.$refs.address.show(data);
         },
         refresh(){
             this.filter = {
@@ -223,7 +230,10 @@ export default {
                 keyword: null,
                 sort: 'asc'
             };
-        }
+        },
+        fetchUpdate(){
+            this.fetch();
+        },
     }
 }
 </script>
