@@ -56,7 +56,9 @@ class ListController extends Controller
             case 'truncate':
                return $this->truncate->truncate($request);
             break;
-            
+            case 'sync':
+                return $this->save->sync($request);
+            break;
         }
     }
 

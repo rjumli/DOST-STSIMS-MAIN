@@ -22,7 +22,7 @@ Route::middleware(['auth:sanctum'])->group(function () {
         Route::get('/lists/{type}', [App\Http\Controllers\ApiController::class, 'lists']);
         Route::prefix('scholars')->group(function(){
             Route::get('/{code}', [App\Http\Controllers\ApiController::class, 'scholars']);
-            Route::post('/', [App\Http\Controllers\ScholarController::class, 'store']);
+            Route::post('/', [App\Http\Controllers\Scholar\ListController::class, 'store']);
         });
 
         Route::prefix('qualifiers')->group(function(){
